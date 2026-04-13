@@ -39,7 +39,7 @@ aliases:
 
 ### Slide 3 — O EXPERIMENTO
 
-> "No sábado de manhã, saímos do prédio e fomos à feira do Bairro da Velha. Criamos um MVP simples: uma mensagem no WhatsApp oferecendo 'kits de feira com 50% de desconto — verduras e frutas do dia' com um link para um formulário Google."
+> "No sábado de manhã, saímos do prédio e fomos à feira do Bairro da Velha. Criamos um SLC simples: uma mensagem no WhatsApp oferecendo 'kits de feira com 50% de desconto — verduras e frutas do dia' com um link para um formulário Google."
 
 > "Abordamos 23 pessoas na rua. Mostramos a mensagem. Perguntamos: 'Você compraria isso?'"
 

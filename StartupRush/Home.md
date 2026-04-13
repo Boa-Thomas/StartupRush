@@ -29,7 +29,7 @@ aliases:
 
 - [[Canvas de Hipóteses]] — Fase 1: mapear hipóteses de valor e crescimento
 - [[Canvas de Experimento]] — Fase 2: design científico do teste
-- [[Canvas MVP]] — Fase 2: definir o que construir (e o que NÃO construir)
+- [[Canvas SLC]] — Fase 2: definir o que construir (e o que NÃO construir) — Simples, Adorável, Completo
 - [[Roteiro de Entrevista]] — Fase 2: script estruturado para "Saia do Prédio"
 - [[Diário de Aprendizado]] — Fases 2-4: log de aprendizados por ciclo BML
 - [[Painel de Métricas]] — Fase 3: Innovation Accounting, 3 As das métricas, análise de coorte
@@ -106,7 +106,7 @@ Home (este arquivo)
 ├── Templates/
 │   ├── Canvas de Hipóteses (com Analogs/Antilogs)
 │   ├── Canvas de Experimento (com Split-Testing)
-│   ├── Canvas MVP
+│   ├── Canvas SLC
 │   ├── Roteiro de Entrevista ⭐ NOVO
 │   ├── Diário de Aprendizado
 │   ├── Painel de Métricas ⭐ NOVO

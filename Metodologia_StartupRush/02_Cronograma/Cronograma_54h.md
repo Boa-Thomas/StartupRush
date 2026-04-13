@@ -37,11 +37,11 @@
 | 08:00 | 30 min | **Recepção e café da manhã** | Logística | Acolhimento. Equipes se reúnem. |
 | 08:30 | 15 min | **Energizer matinal** | Facilitadores | Dinâmica rápida para despertar e reconectar (ex: "2 verdades e 1 mentira" em equipe). |
 | 08:45 | 30 min | **Mentoria Flash — Rodada 1** | Mentores | Cada equipe tem 10 min com um mentor para apresentar suas hipóteses e receber feedback. Rotação entre 3 mentores. |
-| 09:15 | 15 min | **Mini-palestra: "Os 5 MVPs"** | Coord. Metodologia | Apresentação rápida dos 5 tipos de MVP (Fumaça, Vídeo, Concierge, Mágico de Oz, Pré-venda) com exemplos reais (Dropbox, Food on the Table, Aardvark). |
+| 09:15 | 15 min | **Mini-palestra: "Os 5 Protótipos/Experimentos"** | Coord. Metodologia | Apresentação rápida dos 5 tipos de protótipo/experimento (Fumaça, Vídeo, Concierge, Mágico de Oz, Pré-venda) com exemplos reais (Dropbox, Food on the Table, Aardvark). |
 | 09:30 | 60 min | **Canvas de Experimento** | Facilitadores | Equipes preenchem o Canvas: O que testar? Como testar? Que métrica observar? Qual critério de sucesso? Facilitadores desafiam: "Isso é o mínimo mesmo?" |
 | 10:30 | 15 min | *Intervalo* | Logística | — |
-| 10:45 | 45 min | **Canvas MVP** | Facilitadores | Equipes definem o que VÃO construir e (igualmente importante) o que NÃO vão construir. Lista do MVP com escopo mínimo. |
-| 11:30 | 15 min | **Validação cruzada** | Facilitadores | Equipes trocam Canvas com outra equipe por 5 min e dão feedback: "O experimento está claro? O MVP é realmente mínimo?" |
+| 10:45 | 45 min | **Canvas SLC** | Facilitadores | Equipes definem o que VÃO construir e (igualmente importante) o que NÃO vão construir. Lista do SLC com escopo mínimo. |
+| 11:30 | 15 min | **Validação cruzada** | Facilitadores | Equipes trocam Canvas com outra equipe por 5 min e dão feedback: "O experimento está claro? O SLC é realmente mínimo?" |
 
 ### ALMOÇO
 
@@ -49,12 +49,12 @@
 |---|---|---|---|---|
 | 11:45 | 60 min | **Almoço** | Logística | Alimentação. Networking informal. Mentores disponíveis para conversas. |
 
-### TARDE — Bloco B: Construção do MVP
+### TARDE — Bloco B: Construção do SLC
 
 | Horário | Duração | Atividade | Responsável | Objetivo |
 |---|---|---|---|---|
 | 12:45 | 15 min | **Alinhamento pós-almoço** | Facilitadores | Rápida verificação: cada equipe confirma o que vai construir nas próximas 4h. |
-| 13:00 | 240 min (4h) | **CONSTRUÇÃO DO MVP** | Equipes | Tempo de trabalho focado. Equipes constroem seu MVP. Mentores circulam a cada 45 min. Facilitadores monitoram e redirecionam equipes que estão "over-building". |
+| 13:00 | 240 min (4h) | **CONSTRUÇÃO DO SLC** | Equipes | Tempo de trabalho focado. Equipes constroem seu SLC. Mentores circulam a cada 45 min. Facilitadores monitoram e redirecionam equipes que estão "over-building". |
 | 17:00 | 15 min | *Intervalo / Lanche* | Logística | — |
 
 ### FINAL DE TARDE/NOITE — Bloco C: Saia do Prédio
@@ -62,10 +62,10 @@
 | Horário | Duração | Atividade | Responsável | Objetivo |
 |---|---|---|---|---|
 | 17:15 | 15 min | **Briefing "Saia do Prédio"** | Coord. Metodologia | Instruções para validação externa: como abordar pessoas, roteiro de entrevista, como registrar dados. Dicas de onde ir (rua, shopping, cafés, online). |
-| 17:30 | 150 min (2h30) | **"SAIA DO PRÉDIO" — Rodada 1** | Equipes | Equipes saem para testar hipóteses com potenciais clientes reais. Entrevistas, testes de MVP, pré-vendas. Registram tudo no **Diário de Aprendizado**. Equipes que preferirem validação digital podem ficar e usar formulários/landing pages/redes sociais. |
+| 17:30 | 150 min (2h30) | **"SAIA DO PRÉDIO" — Rodada 1** | Equipes | Equipes saem para testar hipóteses com potenciais clientes reais. Entrevistas, testes de SLC, pré-vendas. Registram tudo no **Diário de Aprendizado**. Equipes que preferirem validação digital podem ficar e usar formulários/landing pages/redes sociais. |
 | 20:00 | 30 min | **Jantar rápido** | Logística | — |
 | 20:30 | 60 min | **Checkpoint BML — 1ª Volta** | Facilitadores | Reunião estruturada por equipe (facilitador presente): O que aprendemos? Hipótese confirmada ou refutada? O que muda? Preenchimento do Diário de Aprendizado. |
-| 21:30 | 120 min (2h) | **Iteração e 2ª Volta do BML** | Equipes | Com base nos aprendizados, equipes ajustam MVP e fazem segunda rodada de validação (pode ser digital/remota). Mentores disponíveis para dúvidas. |
+| 21:30 | 120 min (2h) | **Iteração e 2ª Volta do BML** | Equipes | Com base nos aprendizados, equipes ajustam SLC e fazem segunda rodada de validação (pode ser digital/remota). Mentores disponíveis para dúvidas. |
 | 23:30 | 15 min | **Check-out do dia** | Diretor(a) | Resumo, prévia do domingo, horários. Equipes que ficam podem trabalhar mais, mas são encorajadas a descansar. |
 | 23:45 | — | **Encerramento formal do sábado** | — | Pernoite opcional. Socialização, roda de conversa, networking. |
 
@@ -110,7 +110,7 @@
 | Dia | Fase | Horas | Foco |
 |---|---|---|---|
 | Sexta (18h-23h) | 1 — Ignição | ~5h | Problemas, equipes, hipóteses |
-| Sábado (08h-23h45) | 2 — Construção | ~14h | MVP, validação, ciclos BML |
+| Sábado (08h-23h45) | 2 — Construção | ~14h | SLC, validação, ciclos BML |
 | Domingo manhã (08h-13h) | 3 — Medição | ~5h | Dados, métricas, pivotar/perseverar |
 | Domingo tarde (13h30-18h30) | 4 — Apresentação | ~4h | Pitch, júri, premiação |
 | **TOTAL** | | **~28h ativas** | **+ intervalos, refeições, pernoite = 54h** |

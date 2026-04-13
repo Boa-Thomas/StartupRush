@@ -18,7 +18,7 @@
 
 ### 📁 04_Templates/
 - **Canvas_Hipoteses.md** — Template para equipes mapearem hipóteses de valor e crescimento.
-- **Canvas_MVP.md** — Template para planejamento do MVP.
+- **Canvas_MVP.md** → renomeado para **Canvas_SLC.md** — Template para planejamento do SLC (Simples, Adorável, Completo).
 - **Canvas_Experimento.md** — Template para design de experimentos de validação.
 - **Diario_Aprendizado.md** — Log estruturado de aprendizados validados por ciclo BML.
 

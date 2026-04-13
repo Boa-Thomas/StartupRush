@@ -49,7 +49,7 @@ Os facilitadores devem ter lido ANTES de chegar:
 - Quiz oral sobre 5 conceitos centrais do livro:
   1. Definição de startup (por que "sob incerteza extrema"?)
   2. O que é validated learning (diferença para "aprendizado" comum)
-  3. Por que o MVP é para APRENDIZADO e não para produto final
+  3. Por que o SLC é para APRENDIZADO e não para produto final
   4. Diferença entre métrica acionável e métrica de vaidade
   5. Por que pivotar é celebrado
 

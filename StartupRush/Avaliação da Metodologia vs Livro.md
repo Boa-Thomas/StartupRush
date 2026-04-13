@@ -42,9 +42,9 @@ O livro enfatiza repetidamente que o BML deve ser **vivenciado**, não apenas en
 
 Ries dedica páginas inteiras ao conceito Toyota de "vá e veja por si mesmo" — é um dos pilares da metodologia. O evento transformou isso numa dinâmica obrigatória ("Saia do Prédio"), com briefing para equipes, sugestões de locais, e registro no [[Diário de Aprendizado]]. Perfeito.
 
-### 4. MVP como Ferramenta de Aprendizado, Não Produto Final (Cap. 6)
+### 4. SLC como Ferramenta de Aprendizado (Cap. 6 do Lean Startup, evoluído)
 
-O livro insiste: "The MVP is not necessarily the smallest product imaginable; it is simply the fastest way to get through the Build-Measure-Learn feedback loop" (p.362). A metodologia entrega isso com os 5 tipos de MVP (Fumaça, Vídeo, Concierge, Mágico de Oz, Pré-venda) — todos com exemplos práticos. O [[Canvas MVP]] foca nas perguntas certas.
+O livro insiste: "The MVP is not necessarily the smallest product imaginable; it is simply the fastest way to get through the Build-Measure-Learn feedback loop" (p.362). A metodologia evolui esse conceito para o **SLC (Simples, Adorável, Completo)** — o que você construir deve ser simples no escopo, mas adorável na execução e completo no que promete. Os 5 tipos de protótipo/experimento (Fumaça, Vídeo, Concierge, Mágico de Oz, Pré-venda) continuam sendo as técnicas. O [[Canvas SLC]] foca nas perguntas certas e no critério SLC.
 
 ### 5. Pivotar como Virtude, Não Fracasso (Cap. 8)
 
@@ -76,8 +76,8 @@ O [[Guia do Facilitador]] identifica exatamente os problemas que Ries descreve: 
 **Problema:** O livro lista 10 tipos de pivô (p.700–716): Zoom-in, Zoom-out, Customer Segment, Customer Need, Platform, Business Architecture, Value Capture, Engine of Growth, Channel, Technology. O [[Guia do Facilitador]] menciona apenas 5 tipos: Segmento, Problema, Solução, Canal, Modelo de Receita.
 
 **Sugestão:** Não precisa incluir todos os 10 (alguns não se aplicam em 54h), mas adicionar pelo menos:
-- **Zoom-in:** Equipe descobre que UMA funcionalidade do MVP é o produto inteiro
-- **Zoom-out:** O MVP é pequeno demais; o produto real precisa ser maior
+- **Zoom-in:** Equipe descobre que UMA funcionalidade do SLC é o produto inteiro
+- **Zoom-out:** O SLC era pequeno demais; o produto real precisa ser maior
 - **Customer Need:** O público é certo, mas a dor real é outra
 
 ### 3. Leap-of-Faith Assumptions — Poderia Ser Mais Profundo
@@ -90,7 +90,7 @@ O [[Guia do Facilitador]] identifica exatamente os problemas que Ries descreve: 
 
 ### 4. Falta o Conceito de Early Adopters vs. Mainstream
 
-**Problema:** O livro dedica páginas significativas (p.367–372) à distinção entre early adopters e mainstream customers. Early adopters "accept—in fact prefer—an 80 percent solution" e são essenciais para validar MVPs. A metodologia não aborda essa distinção.
+**Problema:** O livro dedica páginas significativas (p.367–372) à distinção entre early adopters e mainstream customers. Early adopters "accept—in fact prefer—an 80 percent solution" e são essenciais para validar SLCs. A metodologia não aborda essa distinção.
 
 **Sugestão:** Incluir no briefing do "Saia do Prédio" uma orientação sobre:
 - Quem são early adopters no contexto do problema da equipe?
@@ -112,7 +112,7 @@ O [[Guia do Facilitador]] identifica exatamente os problemas que Ries descreve: 
 | Motor | Métrica-chave | Como medir em 54h |
 |---|---|---|
 | Viral (boca a boca) | Taxa de referência: cada cliente traz quantos novos? | Perguntar: "Você indicaria isso para alguém?" + medir indicações reais |
-| Retenção | Taxa de retorno: voltaria a usar? | Medir uso repetido no MVP, mesmo que manual |
+| Retenção | Taxa de retorno: voltaria a usar? | Medir uso repetido no SLC, mesmo que manual |
 | Pago | Custo de aquisição < Receita por cliente | Pré-vendas: quanto gastou para gerar cada lead vs. quanto pagariam? |
 
 ---
@@ -141,7 +141,7 @@ A decisão de excluir esses conceitos demonstra maturidade na curadoria.
 | Build-Measure-Learn | Sim (vivenciado 2–3x) | Excelente |
 | Leap-of-Faith Assumptions | Sim (Canvas de Hipóteses + Analogs/Antilogs) | Excelente |
 | Genchi Gembutsu / Saia do Prédio | Sim (dinâmica obrigatória + Roteiro de Entrevista) | Excelente |
-| MVP (5 tipos) | Sim (Canvas MVP + workshop) | Excelente |
+| SLC — Simples, Adorável, Completo (5 tipos de protótipo/experimento) | Sim ([[Canvas SLC]] + workshop) | Excelente |
 | Innovation Accounting | Sim ([[Painel de Métricas]] + workshop) | Muito bom |
 | 3 As das Métricas | Sim ([[Painel de Métricas]] com checklist) | Muito bom |
 | Split-testing / A/B | Sim ([[Canvas de Experimento]] com exemplos 54h) | Bom |

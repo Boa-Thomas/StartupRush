@@ -49,6 +49,27 @@ Detalhes de design, decisões e trade-offs (inclusive o quirk do `bm25()` em CTE
 3. **Commits**: Conventional Commits em inglês (`feat:`, `fix:`, `docs:`, `refactor:`). Para mudanças não-triviais, crie/atualize um doc em `docs/changelog/YYYY-MM-DD-descricao-curta.md` seguindo o template em `~/.claude/rules/commit-docs.md`.
 4. **Código RAG**: se precisar alterar o pacote `rag`, ele está em `~/.claude/tools/vault-rag/` — **não** neste repo. Mudanças lá afetam qualquer projeto que use o MCP server.
 
+## Commit de sessão (obrigatório)
+
+**Ao final de cada sessão que produziu mudanças**, invoque um agente Sonnet para fazer o commit. Isso garante histórico granular e rollback confiável.
+
+```
+Agent({
+  subagent_type: "fullstack-developer",
+  model: "sonnet",
+  description: "Session commit",
+  prompt: "Faça um commit git com todas as mudanças desta sessão no repositório C:/Users/conta/Desktop/StartupRush. Use `git status` e `git diff` para ver o que mudou. Escreva a mensagem de commit em inglês com Conventional Commits (feat/fix/docs/refactor). O corpo deve detalhar: (1) quais arquivos foram alterados, (2) o que mudou em cada um, (3) motivação. Em seguida, crie ou atualize um doc em docs/changelog/YYYY-MM-DD-descricao-curta.md conforme o template em ~/.claude/rules/commit-docs.md."
+})
+```
+
+**Quando disparar**: quando o usuário sinalizar fim de sessão ("pronto", "pode fechar", "commit isso", "salva") ou quando você identificar que um conjunto coeso de mudanças foi concluído.
+
+**O agente deve**:
+- Rodar `git status` e `git diff` antes de qualquer coisa
+- Escrever mensagem de commit detalhada no body (não só o subject)
+- Criar/atualizar `docs/changelog/` para mudanças não-triviais
+- Fazer um commit por unidade lógica — se a sessão tocou domínios distintos, separar em commits diferentes
+
 ## O que NÃO fazer
 
 - Não modifique arquivos em `LeanStartup/` — é material-fonte externo.

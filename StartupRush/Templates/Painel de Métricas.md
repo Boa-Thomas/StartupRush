@@ -102,7 +102,7 @@ Qual motor vocês estão apostando? (Ver [[Small Batches e Motores de Cresciment
 
 | Pergunta | Dado coletado |
 |---|---|
-| Quantas pessoas usaram o MVP? | _____ |
+| Quantas pessoas usaram o SLC? | _____ |
 | Quantas usaram mais de 1 vez? | _____ |
 | Taxa de retorno (%) | ___% |
 | O que fez as pessoas voltarem? | ___________________________ |
@@ -113,7 +113,7 @@ Qual motor vocês estão apostando? (Ver [[Small Batches e Motores de Cresciment
 
 | Pergunta | Dado coletado |
 |---|---|
-| Quantas pessoas testaram o MVP? | _____ |
+| Quantas pessoas testaram o SLC? | _____ |
 | Quantas indicariam espontaneamente? | _____ |
 | Quantas REALMENTE indicaram (trouxeram alguém)? | _____ |
 | Coeficiente viral (indicações reais / pessoas) | _____ |

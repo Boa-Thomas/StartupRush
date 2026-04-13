@@ -24,7 +24,7 @@ Qualquer pessoa pode empreender. Não é preciso ser de TI, ter um CNPJ ou uma i
 O evento ensina que empreender não é "seguir a intuição". É aplicar um método científico à incerteza: formular hipóteses, testá-las com experimentos rápidos e tomar decisões baseadas em evidências — não em opiniões.
 
 **Princípio 3 — Aprender é o produto.**
-O progresso de cada equipe é medido pelo que ela *aprendeu*, não pelo que ela *construiu*. Um MVP feio que gerou insights reais vale mais que um protótipo bonito que ninguém testou.
+O progresso de cada equipe é medido pelo que ela *aprendeu*, não pelo que ela *construiu*. Um SLC feio que gerou insights reais vale mais que um protótipo bonito que ninguém testou.
 
 **Princípio 4 — Construir-Medir-Aprender é o motor.**
 O ciclo BML (Build-Measure-Learn) é o coração do evento. Cada equipe deve completar pelo menos 2 a 3 voltas nesse ciclo durante as 54 horas.
@@ -66,9 +66,9 @@ O Startup Rush é dividido em 4 fases que seguem a lógica do Lean Startup, cada
 ---
 
 ### FASE 2 — CONSTRUÇÃO (Sábado integral | ~14 horas)
-**Conceito Lean: Ciclo Construir-Medir-Aprender + MVP**
+**Conceito Lean: Ciclo Construir-Medir-Aprender + SLC**
 
-**Objetivo:** Projetar e executar experimentos rápidos para testar as hipóteses. Construir o MVP mais simples possível para gerar aprendizado.
+**Objetivo:** Projetar e executar experimentos rápidos para testar as hipóteses. Construir o SLC mais simples possível para gerar aprendizado.
 
 **Narrativa:** "Vocês têm hipóteses. Agora precisam de evidências. O objetivo de hoje não é construir um produto — é construir o mínimo necessário para aprender o máximo possível."
 
@@ -81,23 +81,23 @@ O Startup Rush é dividido em 4 fases que seguem a lógica do Lean Startup, cada
    - Qual o experimento mínimo para aprender isso?
    - Qual métrica nos dirá se a hipótese é verdadeira ou falsa?
    - Qual o critério de sucesso/fracasso? (definir ANTES de rodar o teste)
-3. **Escolha do tipo de MVP** (~30 min) — Facilitadores apresentam os 5 tipos de MVP e ajudam equipes a escolher:
-   - **MVP Fumaça (Landing Page):** Página simples para medir interesse.
-   - **MVP Vídeo:** Vídeo demonstrando a solução proposta.
-   - **MVP Concierge:** Entregar o serviço manualmente para um cliente.
-   - **MVP Mágico de Oz:** Interface que parece automática, mas é operada por humanos.
-   - **MVP Pré-venda:** Oferecer o produto antes de construí-lo para testar disposição a pagar.
+3. **Escolha do tipo de protótipo/experimento** (~30 min) — Facilitadores apresentam os 5 tipos de protótipo/experimento e ajudam equipes a escolher:
+   - **Fumaça (Landing Page):** Página simples para medir interesse.
+   - **Vídeo:** Vídeo demonstrando a solução proposta.
+   - **Concierge:** Entregar o serviço manualmente para um cliente.
+   - **Mágico de Oz:** Interface que parece automática, mas é operada por humanos.
+   - **Pré-venda:** Oferecer o produto antes de construí-lo para testar disposição a pagar.
 
 **Bloco B — Construção e Validação (Tarde e Noite | ~11h)**
-4. **Construção do MVP** (~4h) — Equipes constroem seu MVP. Mentores circulam para ajudar. Lembrete constante: "Qual é o mínimo que vocês precisam construir para testar essa hipótese?"
+4. **Construção do SLC** (~4h) — Equipes constroem seu SLC. Mentores circulam para ajudar. Lembrete constante: "Qual é o mínimo que vocês precisam construir para testar essa hipótese?"
 5. **"Saia do Prédio" — Rodada 1** (~3h) — Equipes saem (fisicamente ou digitalmente) para testar suas hipóteses com potenciais clientes reais. Entrevistas, testes de landing page, pré-vendas, demonstrações. Registram tudo no Diário de Aprendizado.
 6. **Checkpoint BML** (~1h) — Reunião estruturada de cada equipe para processar o que aprendeu:
    - O que os dados dizem?
    - Nossa hipótese foi confirmada, refutada ou inconclusiva?
-   - Precisamos iterar o MVP ou mudar a hipótese?
-7. **Iteração / Segunda volta do BML** (~3h) — Com base nos aprendizados, equipes ajustam o MVP e fazem uma segunda rodada de validação (pode ser remota/digital à noite).
+   - Precisamos iterar o SLC ou mudar a hipótese?
+7. **Iteração / Segunda volta do BML** (~3h) — Com base nos aprendizados, equipes ajustam o SLC e fazem uma segunda rodada de validação (pode ser remota/digital à noite).
 
-**Entrega da Fase:** Canvas de Experimento preenchido, MVP funcional (mesmo que simples), Diário de Aprendizado com pelo menos 1 ciclo BML documentado.
+**Entrega da Fase:** Canvas de Experimento preenchido, SLC funcional (mesmo que simples), Diário de Aprendizado com pelo menos 1 ciclo BML documentado.
 
 ---
 
@@ -182,8 +182,8 @@ O Startup Rush utiliza 4 ferramentas-chave, todas disponíveis como templates na
 | Ferramenta | Quando usar | Fase |
 |---|---|---|
 | Canvas de Hipóteses | Para mapear os Saltos de Fé | Fase 1 — Ignição |
-| Canvas de Experimento | Para projetar o teste do MVP | Fase 2 — Construção |
-| Canvas MVP | Para definir o que construir (e o que NÃO construir) | Fase 2 — Construção |
+| Canvas de Experimento | Para projetar o teste do SLC | Fase 2 — Construção |
+| Canvas SLC | Para definir o que construir (e o que NÃO construir) | Fase 2 — Construção |
 | Diário de Aprendizado | Para registrar cada ciclo BML | Fases 2, 3 e 4 |
 
 ---
@@ -193,7 +193,7 @@ O Startup Rush utiliza 4 ferramentas-chave, todas disponíveis como templates na
 1. **Sem código de vestimenta, sem hierarquia.** Todo mundo é igual dentro do evento.
 2. **Problema primeiro, solução depois.** Equipes que pulam direto para a solução sem entender o problema serão redirecionadas pelos facilitadores.
 3. **Dados > Opiniões.** Qualquer afirmação sobre o cliente deve ser acompanhada de evidência.
-4. **O MVP é descartável.** Não se apegue ao que construiu. O MVP existe para gerar aprendizado, não para ser o produto final.
+4. **O SLC é descartável.** Não se apegue ao que construiu. O SLC existe para gerar aprendizado, não para ser o produto final.
 5. **Pivô é progresso.** Mudar de direção com base em evidências é celebrado.
 6. **Sem álcool durante atividades.** Socialização à noite é incentivada, mas o foco é a experiência.
 7. **Respeito e inclusão.** Diversidade de perfis é uma força. Qualquer forma de discriminação resulta em desligamento.
@@ -207,7 +207,7 @@ O Startup Rush utiliza 4 ferramentas-chave, todas disponíveis como templates na
 | "Startup = instituição sob incerteza" (p.51) | Cada equipe é tratada como uma micro-startup durante o evento |
 | Hipótese de Valor e Crescimento (p.124-125) | Canvas de Hipóteses na Fase 1 |
 | Build-Measure-Learn loop (p.24) | Ciclo BML vivenciado nas Fases 2 e 3 |
-| MVP (p.154, 186) | 5 tipos de MVP apresentados, equipes escolhem o mais adequado |
+| MVP (p.154, 186) | 5 tipos de protótipo/experimento apresentados como SLC, equipes escolhem o mais adequado |
 | Genchi Gembutsu — "Saia do prédio" (p.172) | Rodada "Saia do Prédio" na Fase 2 |
 | Métricas Acionáveis vs. Vaidade (p.237) | Workshop na Fase 3 |
 | Pivô — correção de curso estruturada (p.305) | Reunião Pivotar ou Perseverar na Fase 3 |

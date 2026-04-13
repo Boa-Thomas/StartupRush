@@ -58,7 +58,7 @@ _______________________________________________________________
 
 A hipótese original foi: [ ] Confirmada [ ] Refutada [ ] Inconclusiva
 
-**Decisão:** [ ] Continuar [ ] Iterar MVP [ ] Pivotar
+**Decisão:** [ ] Continuar [ ] Iterar SLC [ ] Pivotar
 
 Se pivotar, o que muda?
 
@@ -71,7 +71,7 @@ _______________________________________________________________
 **Horário:** de ___:___ a ___:___
 
 ### CONSTRUIR (Build)
-O que mudamos/ajustamos no MVP?
+O que mudamos/ajustamos no SLC?
 
 _______________________________________________________________
 

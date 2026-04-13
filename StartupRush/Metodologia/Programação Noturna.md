@@ -82,7 +82,7 @@ A programação noturna é **100% opcional**. Ninguém é obrigado a participar.
 
 **01:00 em diante | Livre**
 - Área de descanso aberta
-- Equipes que quiserem iterar o MVP podem trabalhar (não é encorajado mas é permitido)
+- Equipes que quiserem iterar o SLC podem trabalhar (não é encorajado mas é permitido)
 - Música ambiente mais calma
 
 ---

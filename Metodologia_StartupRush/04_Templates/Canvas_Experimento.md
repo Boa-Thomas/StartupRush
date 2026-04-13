@@ -1,6 +1,6 @@
 # CANVAS DE EXPERIMENTO — STARTUP RUSH
 
-> Preencha na Fase 2 (Sábado manhã), ANTES de construir o MVP.
+> Preencha na Fase 2 (Sábado manhã), ANTES de construir o SLC.
 > Este é o design científico do seu teste. Defina os critérios ANTES de ver os resultados.
 
 ---
@@ -41,7 +41,7 @@ _______________________________________________________________
 - [ ] Entrevistas remotas (call/WhatsApp)
 - [ ] Landing page (medir cliques/conversão)
 - [ ] Formulário / pesquisa
-- [ ] Demonstração do MVP + observação de reação
+- [ ] Demonstração do SLC + observação de reação
 - [ ] Pré-venda / oferta de compra
 - [ ] Teste A/B
 - [ ] Outro: ___________________________
@@ -130,7 +130,7 @@ _______________________________________________________________
 
 **Próximo passo:**
 - [ ] Perseverar e aprofundar
-- [ ] Iterar o MVP e testar de novo
+- [ ] Iterar o SLC e testar de novo
 - [ ] Pivotar (mudar hipótese fundamental)
 - [ ] Novo experimento para outra hipótese
 

@@ -135,7 +135,7 @@ Se o vídeo for produzido com atores ou reaproveitando imagens do primeiro event
 - [ ] Protótipo sendo desenhado em papel (close nas mãos)
 - [ ] Laptop com landing page simples aberta (over-the-shoulder)
 - [ ] Participante abordando pessoa na rua (2-3 situações diferentes)
-- [ ] Cliente testando MVP e reagindo (close no rosto do cliente)
+- [ ] Cliente testando SLC e reagindo (close no rosto do cliente)
 - [ ] Alguém escrevendo no Diário de Aprendizado
 - [ ] Apresentação no pitch final (pessoa falando no palco)
 - [ ] Entrega de prêmio ou abraço de equipe vitoriosa
