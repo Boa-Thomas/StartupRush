@@ -1,7 +1,7 @@
 # refactor: replace MVP concept with SLC across methodology
 
 **Data:** 2026-04-13
-**Commit:** (ver abaixo)
+**Commit:** 87f19a2
 **Branch:** master
 **Arquivos alterados:** 31 arquivos modificados + 2 novos (Canvas SLC.md em StartupRush/Templates/ e Metodologia_StartupRush/04_Templates/)
 
