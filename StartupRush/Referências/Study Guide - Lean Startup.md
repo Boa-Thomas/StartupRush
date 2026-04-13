@@ -1,0 +1,82 @@
+---
+tags:
+  - lean-startup
+  - referência
+  - study-guide
+source: NotebookLM
+---
+
+# Study Guide: The Lean Startup (Introduction – Chapter 7)
+
+This study guide provides a comprehensive review of the foundational principles, methodologies, and case studies presented in the initial sections of Eric Ries’s The Lean Startup. It focuses on the transition from traditional management to entrepreneurial management, the Build-Measure-Learn feedback loop, and the mechanics of steering a startup through uncertainty.
+
+
+--------------------------------------------------------------------------------
+
+
+Part I: Short-Answer Quiz
+
+Instructions: Answer the following questions in two to three sentences based on the provided text.
+
+1. How does the text define a "startup," and what is notable about what this definition omits?
+2. What is "validated learning," and why is it considered the essential unit of progress for a startup?
+3. Explain the difference between the "rocket ship" and "automobile" metaphors for startup management.
+4. What are "leap-of-faith" assumptions, and which two are identified as the most critical?
+5. What is a "Minimum Viable Product" (MVP), and how does it differ from a traditional product prototype?
+6. Define the Japanese term genchi gembutsu and explain its relevance to the Lean Startup methodology.
+7. Describe the "concierge MVP" technique using the example of Food on the Table.
+8. What is "innovation accounting," and what are its three primary learning milestones?
+9. Distinguish between "actionable metrics" and "vanity metrics."
+10. What is the purpose of "Wizard of Oz" testing in the development of a startup product?
+
+
+--------------------------------------------------------------------------------
+
+
+Part II: Answer Key
+
+1. Startup Definition: A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty. Notably, the definition omits the size of the company, the industry, or the sector of the economy, focusing instead on the context of innovation and uncertainty.
+2. Validated Learning: Validated learning is a rigorous method of demonstrating progress by discovery of valuable truths about a startup’s prospects through empirical experiments. It is the essential unit of progress because it prevents "achieving failure"—successfully executing a plan that leads to a product nobody wants.
+3. Metaphorical Management: A rocket ship requires precise, in-advance instructions where the tiniest error at launch leads to catastrophe, much like a rigid, detailed business plan. In contrast, driving an automobile involves constant, immediate feedback and adjustments through steering, allowing the driver to reach a destination despite detours or wrong turns.
+4. Leaps of Faith: These are the riskiest elements of a startup's plan upon which the entire venture rests. The two most important are the value hypothesis (does the product deliver value?) and the growth hypothesis (how will new customers discover it?).
+5. Minimum Viable Product (MVP): An MVP is the version of a product that enables a full turn of the Build-Measure-Learn loop with the minimum amount of effort and development time. Unlike a prototype designed to test technical questions, an MVP is designed to test fundamental business hypotheses.
+6. Genchi Gembutsu: Meaning "go and see for yourself," this principle suggests that business decisions must be based on deep, firsthand knowledge. At Toyota, and in Lean Startups, it requires entrepreneurs to "get out of the building" to interact with real customers rather than relying on reports or assumptions.
+7. Concierge MVP: This technique involves providing a manual, highly personalized service to a single customer to learn what they find valuable before building any software. Food on the Table used this by having the CEO personally select recipes and groceries for an initial customer to test their value proposition.
+8. Innovation Accounting: This is a quantitative framework used to determine if a startup is making progress. Its three milestones are: establishing a baseline (using an MVP), tuning the engine (improving metrics toward the ideal), and deciding whether to pivot or persevere.
+9. Metrics Comparison: Actionable metrics reflect clear cause-and-effect relationships, allowing teams to understand what specific actions are necessary to replicate a result. Vanity metrics, like total registered users or website hits, provide a false sense of success but do not indicate whether the business is sustainable or if product changes actually improved customer behavior.
+10. Wizard of Oz Testing: This is a form of MVP where customers interact with what appears to be a functional product, but humans are manually performing the backend work. This allows entrepreneurs to test customer engagement and demand before investing in the actual technology or automation.
+
+
+--------------------------------------------------------------------------------
+
+
+Part III: Essay Format Questions
+
+Instructions: Use the principles of the Lean Startup to provide detailed responses to the following prompts. (Answers not provided).
+
+1. The Evolution of Management: Discuss why traditional 20th-century management techniques, which rely on stable operating histories and forecasts, are ill-suited for the modern entrepreneurial landscape. How does the Lean Startup model fill this gap?
+2. The Role of Failure in Learning: Using the case studies of IMVU or Grockit, analyze how "failure" can be transformed into "validated learning." Explain why "learning" is often used as an excuse for poor execution and how innovation accounting prevents this.
+3. The Psychology of the MVP: Entrepreneurs often struggle with releasing a "low-quality" MVP due to fears of brand damage or competitor theft. Evaluate these risks against the cost of building a finished product that no one wants.
+4. The Pivot-or-Persevere Decision: Why is the "land of the living dead" a dangerous place for a startup? Explain how cohort analysis and split-testing provide the necessary data to determine when a major strategic change (a pivot) is required.
+5. Innovation in Established Institutions: Analyze the examples of Intuit’s SnapTax or the Consumer Federal Protection Bureau (CFPB). How can large organizations or government agencies benefit from "islands of freedom" and entrepreneurial management?
+
+
+--------------------------------------------------------------------------------
+
+
+Part IV: Glossary of Key Terms
+
+Term	Definition
+Actionable Metrics	Data that link specific, repeatable actions to observed results, allowing for clear cause-and-effect inferences.
+Build-Measure-Learn	The fundamental feedback loop of a startup: turning ideas into products, measuring customer response, and learning whether to pivot or persevere.
+Cohort Analysis	A method of looking at the performance of independent groups of customers (cohorts) who join a product during a specific timeframe.
+Early Adopters	Visionary customers who prefer to be the first to use a new product and are willing to accept an 80% solution in exchange for being first.
+Engine of Growth	The mechanism startups use to achieve sustainable growth, which is tuned through product improvements and experiments.
+Genchi Gembutsu	A Toyota principle meaning "go and see for yourself"; the practice of basing decisions on firsthand observations.
+Innovation Accounting	A new kind of accounting designed for startups to measure progress, set milestones, and prioritize work in high-uncertainty environments.
+Kanban	A lean manufacturing system of capacity constraint where work is pulled through stages (e.g., Backlog, In Progress, Built, Validated).
+Minimum Viable Product (MVP)	The version of a new product that allows a team to collect the maximum amount of validated learning with the least effort.
+Pivot	A structured course correction designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
+Split-testing (A/B Testing)	An experiment in which different versions of a product are offered to customers simultaneously to measure differences in behavior.
+Validated Learning	The process of demonstrating empirically that a team has discovered valuable truths about a startup’s business prospects.
+Vanity Metrics	Metrics that make a business look good but do not accurately reflect the health of the engine of growth (e.g., total hits or registered users).

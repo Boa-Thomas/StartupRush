@@ -1,0 +1,322 @@
+---
+tags:
+  - reunião
+  - marca
+  - domínios
+  - transcript
+date: 2026-04-10
+type: transcript
+summary: "[[2026-04-10 Avaliação Marcas e Domínios]]"
+---
+
+# Avaliação Marcas e Domínios — Transcrição
+**Data:** 2026-04-10
+
+0:00 - Thomas Adriaan Topfstedt
+negócio lá de São Francisco nada a ver com nada último passagem de dois mil e dezoito. Se a gente registrar, se talvez dá pra pedir pro pra depois pegar o username, né?
+
+0:15 - Bruno renan
+Instagram.
+
+0:15 - Thomas Adriaan Topfstedt
+Entra lá no deles e no não é acho que é produção de marca e pede o o pra eles.
+
+0:24 - Natali Pires de Campos
+Tá, tem que ver daí o startup.rush também já existe startup.rush já existe? Startup.rush já existe vou escrever ai que tem um inclusive. A gente tem que cuidar, porque depois o pessoal procura achar a gente. Tem YouTube, um canal também, no tal de Kimberly Figueira.
+
+1:09 - Bruno renan
+É, que daí vai direcionar, né?
+
+1:13 - Unidentified Speaker
+É.
+
+1:13 - Natali Pires de Campos
+Startup Sales Rush, é de Deixa eu ver aqui esse Instagram. Startup Rush, é o nome de uma Startup.
+
+1:28 - Thomas Adriaan Topfstedt
+Pô, que nome ruim, né? Botar Startup no próprio nome.
+
+1:34 - Bruno renan
+A Startup de uma Startup.
+
+1:37 - Natali Pires de Campos
+É, Startup, Startup Rush.
+
+1:40 - Unidentified Speaker
+É um...
+
+1:41 - Natali Pires de Campos
+eu acho que É um...
+
+1:45 - Unidentified Speaker
+É um... É um canal do YouTube. Sobre... Deixa eu olhar.
+
+1:52 - Natali Pires de Campos
+Startup Rush é um canal do YouTube sobre empreendedorismo. É um... Como é que é o nome? Que a gente chama? Um podcast?
+
+2:11 - Natali Pires de Campos
+Startup Rush é a startups inspiradas... Ah, indiana? Startup Rush Community? Eu tenho startup.rush no Instagram. Só que o nome do canal é Startup Rush 7. Se eu usasse comunidade também, mas muito grande, acho que é muito grande também. Startup Rush deseja inspirar a Índia com histórias e notícias sobre startups e empreendedores. O canal do YouTube que é um podcast Startup Rush é um cavalo alado para ter uma ideia de logo indiano mas não tem nada de conteúdo quase então muitos muitos deles são tipo vazios E aí o cara só botou o nome não. Mas não está registrado no registro, né? É registrado, se denunciar às vezes cai, mãe.
+
+3:18 - Thomas Adriaan Topfstedt
+Não, o Cesar Prost não tem nenhum registro no INPE.
+
+3:23 - Unidentified Speaker
+No INPE nada, registro.br.
+
+3:26 - Natali Pires de Campos
+Deixa eu ver. O tracinho Rush tem uma página aqui. Que é da Degon.
+
+3:43 - Unidentified Speaker
+StartupRush.com.
+
+3:44 - Natali Pires de Campos
+É um joguinho. Aham.
+
+3:49 - Thomas Adriaan Topfstedt
+É, mas aqui, Handle só tem... Underline, né? Startup Rush é um joguinho.
+
+4:01 - Natali Pires de Campos
+Escreve aí, Startup-Rush.com. Aham. Feito em Unity com...
+
+4:21 - Thomas Adriaan Topfstedt
+registro.br não está disponível não sei o que é alguma coisa apagando o último o torneio a gente pode usar o.tech eu olhei o.tech eu achei legal né o.br e tinha também o.org tinha um.org também tem.ia também o.ia é caro pra cacique a 500 reais 252 ao ano.
+
+5:15 - Bruno renan
+Ah, não, então o Tec, acho que é o Monotec.
+
+5:21 - Thomas Adriaan Topfstedt
+O Tec, eles querem 50 no primeiro ano.
+
+5:26 - Unidentified Speaker
+50? É.
+
+5:27 - Natali Pires de Campos
+Só que tem as renovações, né?
+
+5:30 - Unidentified Speaker
+As renovações são caras.
+
+5:32 - Natali Pires de Campos
+Deixa eu ver, aqui eu tenho o cadastro no registro, tenho e se for um ano só está disponível tipo é startup só que por ano eles vão querer 500 reais de renovação do domínio.tech tá no Instagram E aí É ruim de procurar essa da GirlWorks?
+
+6:09 - Bruno renan
+Eu acho que fica um pouco trava-língua, né?
+
+6:13 - Thomas Adriaan Topfstedt
+É, até por falar. Ai, como é que eu me sinto?
+
+6:18 - Natali Pires de Campos
+O Underline fica legal, eu acho, até fica mais claro de ler, né?
+
+6:32 - Unidentified Speaker
+É.
+
+6:33 - Natali Pires de Campos
+Então, pro handle do Instagram, eu achei bom, tá?
+
+6:42 - Thomas Adriaan Topfstedt
+Eu acho que sim, o tem domínio com o underline? Ou é só travessão?
+
+6:55 - Bruno renan
+deixa eu ver se dá pra criar, vamos ver perdi conta não, com o underline ele não deixa só com o ifen?
+
+7:13 - Unidentified Speaker
+mas com o ifen tem...
+
+7:17 - Natali Pires de Campos
+Tá registrado comigo. É que eu entrei ali. Aqui na Goldelli não está disponível. Falava disponível, mas não está disponível.
+
+7:30 - Thomas Adriaan Topfstedt
+Legal. Tem o Tec, né? Startup Rush.
+
+7:34 - Natali Pires de Campos
+Tá, mas se a gente botar o Startup Rush, 54.
+
+7:44 - Natali Pires de Campos
+Startup Rush 54 está disponível. Não fica mais barato, né? Fica uma pena. Não fica mais barato?
+
+7:53 - Unidentified Speaker
+Não, hein? Não.
+
+7:55 - Thomas Adriaan Topfstedt
+Porque as palavras-chave, né? Startup e Rush. Como assim? É que os domínios são elencados de preço por palavra-chave, né? Então, tipo, a palavra Startup e a palavra Ya são palavras de alta tendência. Tá, mas no registro.br tá 184 pra 5 anos.
+
+8:19 - Natali Pires de Campos
+Sim, mas é .br, né?
+
+8:23 - Thomas Adriaan Topfstedt
+Eu tava olhando pros outros também, tipo .ia ou .tech.
+
+8:30 - Bruno renan
+Acho que .ia nem dá.
+
+8:33 - Natali Pires de Campos
+StartupRush54.br dá barato. Ah, então. Se fosse StartupRushLabs. Rush o quê?
+
+8:41 - Bruno renan
+É mais caro que não, né?
+
+8:50 - Unidentified Speaker
+Não, não muda nada. O preço é o mesmo.
+
+9:03 - Thomas Adriaan Topfstedt
+cinquenta e quatro.
+
+9:05 - Natali Pires de Campos
+Cinquenta e quatro. O registro com travessão, será que fica melhor pra ler daí?
+
+9:14 - Thomas Adriaan Topfstedt
+Startup, travessão, Rush, travessão, Labs, ponto com, ponto BR. Startup, tracinha, Rush, cinquenta e quatro.
+
+9:24 - Natali Pires de Campos
+Cinco e cinquenta e quatro daí.
+
+9:29 - Thomas Adriaan Topfstedt
+no registro, eu acho que...
+
+9:32 - Bruno renan
+É que eu acho que fica mais bonito no URL, entendeu?
+
+9:38 - Thomas Adriaan Topfstedt
+Quando a pessoa coloca.
+
+9:40 - Bruno renan
+Mas eu acho que as pessoas não pesquisam quando tem que tá assim, tá ligado?
+
+9:49 - Unidentified Speaker
+Startup Brush Labs.
+
+9:57 - Natali Pires de Campos
+É assim, tudo junto, colado, tem disponível se botar o Labs. Startup Rush Labs. Labs, só pra ver.
+
+10:16 - Unidentified Speaker
+Startup Rush Labs. O Eureka tá disponível?
+
+10:28 - Thomas Adriaan Topfstedt
+Eles tem de localidade, né? Tem um blumenau.br e se for startuprush.dev.br mas daí vai puxar para dev, né? Tem tech também ponto tech eu acho que daí isso aqui é o tec sem o h, é t e c bem diferente bem diferente de procurar tec é, precisava botar tec com h né, ch se usasse cloud ou alguma coisa, ponto cloud e se por um outro agarro no fim do rush e olha a gente pensou e grande agora é legal startup rush É que toda vez que eu olho, tipo, eu junto o P com o Rush, aí fica Brush. Eu acho estranho, sabe? Startup, Brush. É.
+
+12:08 - Natali Pires de Campos
+Eu olho isso e eu acho estranho, entendeu? Por isso que eu pensei no travessão.
+
+12:16 - Unidentified Speaker
+O If está disponível, Rush. Startup, If.
+
+12:20 - Thomas Adriaan Topfstedt
+Rush não tá, né?
+
+12:23 - Unidentified Speaker
+Esse não.
+
+12:25 - Natali Pires de Campos
+Com o outro H tá?
+
+12:30 - Unidentified Speaker
+Ah, com o outro H sim. Eles não tem .org e .br, né?
+
+12:45 - Unidentified Speaker
+Rush? Rush, sim!
+
+12:51 - Natali Pires de Campos
+Em vez de Rush ou Run, de Corrida?
+
+13:05 - Thomas Adriaan Topfstedt
+Hum, acho interessante!
+
+13:14 - Natali Pires de Campos
+Porque Rush é correr, né? Estamos...
+
+13:18 - Thomas Adriaan Topfstedt
+StartupRun.com.br está disponível.
+
+13:20 - Unidentified Speaker
+Com dois N's, né?
+
+13:22 - Thomas Adriaan Topfstedt
+Não, com um só. Com um só?
+
+13:27 - Natali Pires de Campos
+Eu acho que...
+
+13:29 - Thomas Adriaan Topfstedt
+Deixa eu ver o Instagram.
+
+13:32 - Bruno renan
+Deixa eu ver se não tem no Instagram, é verdade.
+
+13:39 - Unidentified Speaker
+Startup Underline Run não.
+
+13:42 - Thomas Adriaan Topfstedt
+Contra o run?
+
+13:46 - Unidentified Speaker
+Também não. De domínio ou de estagnar? Domínio. Run de corrida é RUN.
+
+14:07 - Thomas Adriaan Topfstedt
+Run de corrida.
+
+14:11 - Natali Pires de Campos
+Mas também é redonda.
+
+14:15 - Thomas Adriaan Topfstedt
+Run com dois N's ficaria disponível, Len. Startup.run. É.
+
+14:24 - Natali Pires de Campos
+Joga lá no grupo e clica no arquivo.
+
+14:32 - Unidentified Speaker
+Run.
+
+14:36 - Natali Pires de Campos
+.run não tá disponível... Ah, dá, dá. No insta daí, né? Esse não tá disponível, Juan? .run não, mas com 2n sim. Com 2n sim.
+
+14:56 - Bruno renan
+É fácil de achar? É.
+
+15:00 - Unidentified Speaker
+Muito fácil. É, aí...
+
+15:03 - Thomas Adriaan Topfstedt
+vira, sai do rush tipo de, no sentido de correria e entra no run no sentido de corrida mesmo, né?
+
+15:12 - Natali Pires de Campos
+É. Porque é uma corrida, né? É uma corrida. Com o journey, mas daí é...
+
+15:20 - Unidentified Speaker
+É muito grande.
+
+15:21 - Natali Pires de Campos
+O journey é muito grande, acho que o run fica legal. Eu acho que a gente bate muito no na jornada empreendedora.
+
+15:33 - Thomas Adriaan Topfstedt
+É, na jornada é...
+
+15:36 - Natali Pires de Campos
+Ruan?
+
+15:37 - Unidentified Speaker
+Joga aí.
+
+15:38 - Natali Pires de Campos
+Tá barato e tem domínio e tem isso, tem tudo. Não faz sentido, né? Mas REN, que é correr no verbo passado, eu tenho a madame é e aí na bolsa é que o nm e joga lá para a crise que vamos botar os nomes é tá disponível não tá aí a gente vê mas eu vou botar eu vou pegar aqui de qualquer forma né?
+
+16:23 - Thomas Adriaan Topfstedt
+Disponível e daí o domínio é o a gente vê daqui a pouco.
+
+16:30 - Unidentified Speaker
+Tá.
+
+16:30 - Bruno renan
+Fechou.
+
+16:31 - Natali Pires de Campos
+Muito bem. Nome escolhado, jornada feita. Bom fim de semana. Bom fim de semana. Vou ficar com isso aí na cabeça.
+
+16:41 - Thomas Adriaan Topfstedt
+Vou ficar com isso aí pensando, pense bastante, eu já vou pensar em umas identidades aqui também, vou.
+
+16:51 - Bruno renan
+isso.
+
+16:51 - Thomas Adriaan Topfstedt
+E vamos, vamos marcar no grupo já esse final de semana, quando a gente pode conversar pra falar sobre a jornada, que daí a gente faz uma pesquisa individual cada um e a gente se reúne e monta o plano. E o Bruno foi embora. Tá bom, fechou. Tá bom, valeu Nath. Tchau. Tchau.

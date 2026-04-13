@@ -1,0 +1,5 @@
+{
+  "vault_path": ".",
+  "db_path": "rag.db",
+  "auto_index": true
+}

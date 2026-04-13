@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "479997977d0539d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "06aab9614bb1604c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcca8a8ba66782b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodologia/Metodologia StartupRush.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodologia StartupRush"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c717201a3f44056f",
+    "type": "split",
+    "children": [
+      {
+        "id": "735b0a4367e51a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a2b22cdd04785e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31b3858e54d8ef18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab085986244fb366",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0379e8e6cd9af602",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5b2ce69303dce07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a116e6cac7117059",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Metodologia/Metodologia StartupRush.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Metodologia StartupRush"
+            }
+          },
+          {
+            "id": "d9f66664a33ca21d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Metodologia/Metodologia StartupRush.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Metodologia StartupRush"
+            }
+          },
+          {
+            "id": "63e5b21e089600d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb529c779a1c81b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9e9846d68eb3a8cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Metodologia/Metodologia StartupRush.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Metodologia StartupRush"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bcca8a8ba66782b7",
+  "lastOpenFiles": [
+    "Templates/Canvas de Hipóteses.md",
+    "Metodologia/Metodologia StartupRush.md",
+    "Home.md",
+    "Home.md.tmp.71280.1776017270677",
+    "Metodologia/Guia do Facilitador.md",
+    "Home.md.tmp.71280.1776017252756",
+    "Home.md.tmp.71280.1776017243998",
+    "Pré-Evento/Brief de Design.md",
+    "Referências/Casos de Estudo - Lean Startup.md",
+    "Pré-Evento/Treinamento de Facilitadores.md",
+    "Metodologia/Diagramas Visuais.md",
+    "Pré-Evento/Roteiro Vídeo Introdutório.md",
+    "Metodologia/Apresentação de Abertura.md",
+    "Pré-Evento/Guia do Participante.md",
+    "Templates/Painel de Métricas.md",
+    "Home.md.tmp.15166.1776015252521",
+    "Metodologia/Apresentação de Abertura.md.tmp.15166.1776015208573",
+    "Avaliação/Exemplo de Pitch Ideal.md",
+    "Avaliação/Exemplo de Pitch Ideal.md.tmp.15166.1776015164620",
+    "Metodologia/Plano de Contingência.md",
+    "Metodologia/Plano de Contingência.md.tmp.15166.1776015099806",
+    "Metodologia/Programação Noturna.md",
+    "Metodologia/Programação Noturna.md.tmp.15166.1776015044532",
+    "Pós-Evento/Plano de Continuidade.md",
+    "Pós-Evento/Plano de Continuidade.md.tmp.15166.1776014989715",
+    "Pré-Evento/Checklist Pré-Evento (Organização).md",
+    "Pré-Evento/Checklist Pré-Evento (Organização).md.tmp.15166.1776014954815",
+    "Templates/Roteiro de Entrevista.md",
+    "Templates/Five Whys.md",
+    "Avaliação da Metodologia vs Livro.md",
+    "Metodologia/Small Batches e Motores de Crescimento.md",
+    "Attachments/NotebookLM Mind Map.png",
+    "2026-04-12.md",
+    "Untitled.canvas",
+    "Referências/Executive Briefing - Lean Startup.md",
+    "Reuniões/2026-04-10 Talk Liderança SW - Transcript.md",
+    "Reuniões/2026-04-10 Talk Liderança SW.md",
+    "Reuniões/2026-04-10 Avaliação Marcas e Domínios - Transcript.md",
+    "Attachments/unnamed.png"
+  ]
+}

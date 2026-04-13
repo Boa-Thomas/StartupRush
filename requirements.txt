@@ -1,0 +1,6 @@
+# StartupRush vault RAG — Opção A (BM25 + link graph)
+# Runs on Python 3.11+ stdlib only. No external dependencies required.
+#
+# Optional future additions (Opção B):
+#   sqlite-vec        # vector search extension for sqlite
+#   ollama            # local embeddings client

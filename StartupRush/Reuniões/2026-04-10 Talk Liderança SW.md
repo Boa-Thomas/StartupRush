@@ -1,0 +1,138 @@
+---
+tags:
+  - reunião
+  - liderança
+  - startup-weekend
+  - estratégia
+date: 2026-04-10
+type: summary
+transcript: "[[2026-04-10 Talk Liderança SW - Transcript]]"
+---
+
+# Talk Liderança SW
+**Data:** 2026-04-10
+
+Summary:
+
+O encontro teve como objetivo avaliar a viabilidade de organizar uma edição própria do Startup Weekend/Techstars, considerando questões legais, de patrocínio, metodologia e formato do evento. A conversa começou com confirmações de presença e transições para o tema principal sobre afastar-se ou adaptar o roteiro da Techstars, com atenção à experiência dos participantes e acessibilidade.
+
+Os participantes debateram riscos jurídicos e de marca e sugeriram consultar a advogada Alice para orientar a desvinculação e impactos sobre patrocínios como o Sebrae. Foram consideradas alternativas de nome e criação de metodologia própria para justificar mudanças de formato e foco do evento, incluindo propostas temáticas como health tech e uma edição para comemorar 10 anos. Discutiu-se um formato imersivo com elementos de pernoite no SENAC, programação noturna e regras como ausência de álcool, além de opções de vagas limitadas com preço maior versus formato aberto e acessível. Operacionalmente, o grupo avaliou a necessidade de pesquisa sobre disponibilidade de marca no Brasil, verificação de domínio, abertura de CNPJ para a comunidade e criação de plataforma própria de venda de ingressos e aplicativo para reduzir dependência de terceiros como Simpla. Por fim, acordou-se formalizar a metodologia antes de convidar parceiros, realizar uma reunião presencial para definir roteiro e metodologia, verificar locais e parcerias (Sebrae, Fundação Fritz Müller, Senac) e manter provisoriamente agendamentos públicos enquanto se formaliza a desvinculação e avalia renomear a conta do Instagram para Startup Rush.
+
+
+Chapters & Topics:
+
+Chegada e alinhamento inicial
+Os participantes entraram na chamada, trocaram cumprimentos e comentaram sobre disponibilidade e atrasos, enquanto aguardavam a chegada de outros membros como Crislaine e Bruno. Houve conversa informal sobre a dinâmica das reuniões e contexto de preparação do roteiro que motivou a reunião.
+* Há opção de formato imersivo com vagas limitadas e ingresso mais caro ou formato aberto com custo menor, decisão pendente.
+
+Abertura do tema e motivações para a reunião
+Os participantes explicaram que o objetivo era alinhar ideias sobre reorganizar o SW, discutir prós e contras de se afastar do roteiro da Techstars e garantir que havia clareza antes de comunicar o grupo mais amplo. Natali expôs preocupações iniciais sobre nome, patrocínio e histórico do projeto.
+* A equipe considera criar um SW independente e precisa avaliar riscos legais e de marca antes de anunciar ao grupo
+* Há preocupação sobre a reação do Sebrae e a possibilidade de alterações na cota de patrocínio caso o evento deixe de ser oficial Techstars
+
+Debate sobre metodologia, experiência e acessibilidade
+O grupo discutiu opiniões internas (incluindo de Wayme/Van) sobre manter a metodologia Techstars, os riscos de perda de experiência humana e a relevância de ferramentas como aplicativo, além de destacar problemas de acessibilidade observados em eventos anteriores. Houve consenso em avaliar diferenças de formato com cautela.
+* A acessibilidade e a experiência do participante foram identificadas como pontos críticos a preservar ou melhorar no novo formato
+* Foi sugerido consultar o Rafa para entender o impacto do Sebrae e validar a continuidade do patrocínio
+
+Riscos legais, patrocínio e posicionamento do evento
+A conversa focou em possíveis reações do Sebrae, necessidade de cuidados no uso do nome Techstars, alternativas de apresentação do histórico organizacional e a sugestão de consultar contatos como Rafa e Diogo. Discussões finais abordaram a necessidade de mudar o nome e criar uma metodologia/roteiro próprio caso o formato seja alterado.
+* Foi indicado verificar o histórico de parcerias (ex.: Senac) e como isso afeta vendas e patrocínios na nova direção (health tech)
+* Alguns membros relataram que o feedback contra mudanças não foi isolado e teve circulação entre outras pessoas envolvidas (Vaime, Ana, Gabi)
+* A equipe concordou que é preferível mudar o nome do evento para evitar ambiguidade e possíveis conflitos com a marca Techstars
+* É necessário desenvolver uma metodologia própria e um novo roteiro se o evento se distanciar do formato original da Techstars
+
+Definição de novo roteiro e diferenciação da Techstars
+A equipe avaliou a necessidade de criar um novo roteiro para o evento, destacando que isso evita conflitos com metodologias existentes como a Techstars e que o novo método deve ser suficientemente distinto para não configurar uma cópia ou problema de marca. Também foram sugeridas formas lúdicas e dinâmicas diversas para compor o novo roteiro, aproveitando experiências anteriores da equipe.
+* O grupo concordou em criar um novo roteiro/metodologia própria para o evento, distinto de formatos existentes como o da Techstars, para evitar conflitos de marca e conteúdo.
+
+Formato imersivo, alojamento e atividades noturnas
+Foram debatidas ideias de imersão, incluindo retiros, acampamento, alojamento no SENAC, programação noturna com roda de violão, festas sem álcool e dinâmicas como "roda da vida" para mapear dores e ideias, além de opções de pernoite em colchões ou barracas e a opção de não dormir para quem preferir.
+* Foi considerada a realização de uma experiência imersiva com alojamento opcional no SENAC, incluindo atividades noturnas e dinâmicas de ideias sem uso de álcool.
+
+Pesquisa de marca e decisão sobre nome
+Thomas apresentou pesquisa sobre o registro da marca "Startup Weekend", explicando histórico de pedido, arquivamento e disponibilidade no Brasil, e a equipe discutiu potenciais riscos com Techstars, concluindo que escolher outro nome poderia ser mais seguro. Vários nomes foram sugeridos e discutidos em brainstorm.
+* A marca "Startup Weekend" foi verificada e está disponível no Brasil segundo pesquisa apresentada, mas o grupo prefere avaliar nomes alternativos.
+* Ficou definido o registro e compilação formal das ideias geradas nos eventos para possível evolução em novas startups.
+* O grupo decidiu avançar com a criação de um CNPJ específico para a iniciativa antes de integrá-la a outras entidades.
+
+Brainstorm de nomes e posicionamento do evento
+Foram propostas várias opções de nome em inglês e português (por exemplo, Startup Rush, Eureka Weekend, Weekend Sprint), com o grupo demonstrando preferência por "Startup Rush" e discutindo variações por duração do evento, incluindo formatos de 54 horas ou semanas maiores.
+* O nome preferido entre as opções apresentadas foi "Startup Rush" e variações foram sugeridas para diferentes durações do evento.
+
+Cronograma, onboarding e pré-requisitos dos participantes
+Debatida a duração ideal (54 horas versus reduzir para sábado e domingo), a utilidade de uma sexta-feira para onboarding e explicação do roteiro, e a possibilidade de pré-tarefas ou mini-curso online que os participantes completariam antes do evento para ganhar tempo presencial.
+
+Plataforma, bilheteria e infraestrutura financeira
+O grupo decidiu desenvolver plataforma própria para venda de ingressos e um aplicativo interno, encerrando uso de terceiros como Simpla e reduzindo taxas, além de mencionar custos previstos e pagamentos associados; também houve menção a contribuições financeiras de membros para ferramentas e inscrições.
+* Planejou-se desenvolver uma plataforma própria para venda de ingressos e um aplicativo, reduzindo taxas de terceiros como Simpla.
+
+Logística final, marca local e atividades sociais
+Foi confirmado o interesse em manter o SENAC como local, avaliar se pernoite seria possível, organizar abertura social na sexta-feira com música e networking, e registrar domínio e material promocional após decisão final dos nomes e formatos.
+
+Brainstorm de personagens e perfis
+Discussões iniciais sobre criar perfis temáticos para participantes usando referências de personagens e estilos de produção, com exemplos lúdicos para facilitar identificação dos participantes e ampliar o apelo do evento. A conversa ressaltou a intenção de tornar o evento mais acessível e divertido, não restrito apenas à área de TI.
+* O evento será posicionado como "Startup Rush", com perfis temáticos e inspiração em personagens e modelos de produção.
+
+Exemplos e inspiração prática
+Foram apresentados exemplos de startups e projetos locais para ilustrar o conceito de startup e desmistificar a ideia, destacando que produtos escaláveis e metodologias configuram startups; também mencionaram parcerias e referências culturais para formatar o conteúdo do evento.
+* A equipe pretende desmistificar o conceito de startup e atrair públicos diversos além de TI.
+
+Formato do evento e logística inicial
+Debate sobre incluir elementos de imersão, festas e manter coerência de roteiro; surgiu a ideia de dividir o evento em partes e organizar reuniões para definir metodologia e envolver colaboradores externos com pré-seleção de organizadores. Foi citado caixa inicial e tempo disponível para decisões.
+* Será priorizada a construção da metodologia antes de convidar colaboradores externos como Ana e outros organizadores.
+
+Organização, seleção de equipe e parcerias
+Discussão sobre abrir inscrições para organização com pré-seleção, como alternativa ao modelo aberto do TEDx, além de avaliar participação do Senac, Sebrae e equipe de marketing para definir diferenciais do evento e responsabilidades de comunicação.
+* A Fundação Fritz Müller já aprovou participação, e é necessário ajustar datas e comunicar parceiros como Reginaldo e AMP.
+
+Proposta de dividir conteúdo e locais
+Proposta prática de dividir o evento em sessões (ideação/problema e MVP/validação), usar dois locais ou dias (sábado/domingo) para reduzir carga e atrair públicos diferentes, bem como considerar formatos de acampamento ou imersões em locais como Sesc para aumentar imersão temática.
+* Foi sugerida uma estrutura dividida em dois blocos para reduzir carga e usar locais diferentes (ideação/problema e MVP/validação).
+
+Público, preço e posicionamento
+Debate sobre público-alvo (desde empreendedores por oportunidade até iniciantes), definição de preço diferenciado para imersões de qualidade versus formato acessível e necessidade de roteiro alinhado ao público, além de discutir continuidade pós-evento como aceleração ou acompanhamento.
+
+Aprovações, comunicação e próximos passos
+Confirmaram-se aprovações preliminares (Fundação Fritz Müller e AMP) e a necessidade de justificar desvinculação do SW; decidiram manter agendamentos públicos por enquanto e avaliar renomear a conta do Instagram para Startup Rush após consolidar o método e comunicar o cancelamento do SW oficialmente.
+* A equipe concordou em manter temporariamente o agendamento público ligado ao SW enquanto define desvinculação completa.
+* Foi proposta a alteração do perfil do Instagram do SW para Startup Rush após a formalização do método.
+
+
+Action Items:
+
+* Natali Pires de Campos: Consultar a advogada Alice para avaliar restrições de uso do nome, riscos de plágio e implicações jurídicas sobre o novo formato
+* Thomas Adriaan Topfstedt: Conversar com Rafa para verificar a posição do Sebrae quanto à continuidade do patrocínio caso o evento seja alterado
+* Thomas Adriaan Topfstedt: Falar com Diogo para alinhar possíveis apoios e comunicar mudanças sem gerar resistência nas parcerias existentes
+* Crislaine Camila Stuepp: Propor alternativas de nomes para o evento que evitem ambiguidade com Techstars e tragam o tema de 10 anos de trajetória
+* Natali Pires de Campos: Elaborar um esboço de novo roteiro/metodologia para o evento que justifique as mudanças em relação ao formato Techstars
+* Thomas Adriaan Topfstedt: Abrir a discussão formal para criação de um CNPJ da comunidade e coordenar os próximos passos para constituição jurídica
+* Marlon: Abrir o CNPJ da comunidade conforme proposta de kick-off (confirmar responsabilidade)
+* Thomas Adriaan Topfstedt: Desenvolver a plataforma interna de venda de ingressos e integrar o fluxo de pagamento para substituir Simpla
+* Bruno renan: Pagar um ano da ferramenta/cláudia mencionada (confirmar qual serviço)
+* Crislaine Camila Stuepp: Registrar formalmente a identidade do pitch e produtos de merchandising para uso local (lojinha)
+* Natali Pires de Campos: Registrar o domínio do projeto após a decisão do nome
+* Crislaine Camila Stuepp: Agende a próxima reunião para dobrar a metodologia e alinhar comunicação com a Ana
+* Equipe (organização): Realize uma reunião presencial para montar a metodologia e convidar colaboradores agregados
+* Natali Pires de Campos: Confirmar e alinhar a data com a Fundação Fritz Müller em função da alteração mencionada
+* Natali Pires de Campos: Leve a proposta e o roteiro para Reginaldo e comunique que se trata de outro evento diferenciado
+* Natali Pires de Campos: Decida se haverá pré-eventos e quantos, e informe sobre disponibilidade de espaços
+* Thomas Adriaan Topfstedt: Apresente a proposta do Eurovalley em uma próxima reunião após a metodologia estar montada
+* Thomas Adriaan Topfstedt: Mantenha o agendamento público do SW na planilha por enquanto e aguarde instruções para remoção
+* Thomas Adriaan Topfstedt: Avalie e execute a modificação do nome da conta do Instagram de SW para Startup Rush quando for decidido
+
+
+Key Questions:
+
+* A Techstars ou representantes como Van são contra fazer um formato diferente?
+* Podemos chamar o evento de SW (Startup Weekend) ou manter o nome Techstars se formos fazer alterações?
+* A marca "Startup Weekend" está disponível no Brasil?
+* A Techstars pode contestar o uso de nomes relacionados ao "Startup Weekend"?
+* Qual a duração ideal do evento — manter 54 horas ou reduzir para sábado e domingo?
+* A gente vai falar com a Ana todos juntos? Quando?
+* Quando é o feriado?
+
+
+Notepad:
+
+* No notes

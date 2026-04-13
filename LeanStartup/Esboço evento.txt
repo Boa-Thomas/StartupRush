@@ -1,0 +1,58 @@
+Aqui está o roteiro estruturado para a criação de uma **Lean Startup** em um evento de 54 horas, integrando os conceitos fundamentais extraídos das fontes e as devidas citações.
+
+Como sou um assistente virtual, não consigo gerar um arquivo físico `.txt` para download direto, mas preparei o conteúdo abaixo em um formato que você pode facilmente copiar e colar em um editor de texto (como o Bloco de Notas).
+
+---
+
+### **ROTEIRO LEAN STARTUP: EVENTO DE 54 HORAS**
+
+#### **I. SEXTA-FEIRA: VISÃO E SALTOS DE FÉ (HORAS 1–6)**
+O foco inicial é definir a instituição e as premissas básicas que sustentam a ideia.
+
+1.  **Definição da Startup:** Compreender que a equipe é, naquele momento, uma "instituição humana desenhada para criar um novo produto ou serviço sob condições de extrema incerteza".
+2.  **Identificação dos Saltos de Fé (Leaps of Faith):** Em vez de um plano detalhado, foque nas premissas das quais tudo depende. As duas principais são:
+    *   **Hipótese de Valor:** Testar se o produto realmente entrega valor ao cliente.
+    *   **Hipótese de Crescimento:** Testar como os novos clientes descobrirão o produto.
+3.  **Estabelecimento da Estratégia:** Definir o modelo de negócio e o mapa do produto, mantendo a "Visão" (o norte verdadeiro) como o destino final.
+
+#### **II. SÁBADO: CONSTRUÇÃO E MEDIÇÃO (HORAS 6–30)**
+É o momento de entrar no ciclo fundamental **Construir-Medir-Aprender**.
+
+1.  **O Princípio "Sair do Prédio":** Aplicar o *Genchi Gembutsu*, que significa "vá e veja por si mesmo", para que as decisões se baseiem em conhecimento primário profundo.
+2.  **Construção do MVP (Produto Mínimo Viável):** Criar a versão mais simples do produto que permita completar o ciclo de feedback com o mínimo esforço e tempo de desenvolvimento.
+3.  **Foco em Aprendizado Validado:** Entender que o progresso não é apenas "fazer coisas", mas demonstrar empiricamente que a equipe descobriu verdades valiosas sobre o negócio.
+
+#### **III. DOMINGO DE MANHÃ: CONTABILIDADE DA INOVAÇÃO (HORAS 30–48)**
+Avaliar o progresso de forma quantitativa e qualitativa.
+
+1.  **Métricas Acionáveis vs. Métricas de Vaidade:** Evitar indicadores que apenas "fazem a equipe parecer bem" (como total de acessos) e focar em métricas que informem decisões reais.
+2.  **Uso de Coortes:** Analisar o comportamento de grupos específicos de clientes de forma independente para ver se as melhorias no produto estão realmente mudando o comportamento do usuário.
+3.  **Testes de Divisão (Split-tests):** Oferecer versões diferentes do produto aos clientes simultaneamente para medir a diferença de reação.
+
+#### **IV. DOMINGO À TARDE: PIVOTAR OU PERSEVERAR (HORAS 48–54)**
+Decisão final antes da apresentação para os jurados.
+
+1.  **A Reunião de Pivotar ou Perseverar:** Confrontar a realidade. Se os números não estão convergindo para o ideal do plano de negócios, é hora de um **Pivô**.
+2.  **O Pivô:** Realizar uma "correção de curso estruturada" para testar uma nova hipótese fundamental sobre o produto ou estratégia.
+3.  **Pitch Final:** Apresentar não apenas uma ideia "brilhante", mas os resultados dos experimentos e o que foi aprendido através do contato real com clientes durante o evento.
+
+---
+
+### **FONTES E REFERÊNCIAS BIBLIOGRÁFICAS**
+
+As passagens abaixo referem-se ao documento **"The Lean Startup - Eric Ries.pdf"**:
+
+*   **Página 24:** "O ciclo Build-Measure-Learn. A atividade fundamental de uma startup é transformar ideias em produtos, medir como os clientes respondem e aprender se deve pivotar ou perseverar."
+*   **Página 43:** "Startups também possuem um norte verdadeiro, um destino em mente: criar um negócio próspero e transformador. Eu chamo isso de visão da startup."
+*   **Página 51:** "Uma startup é uma instituição humana desenhada para criar um novo produto ou serviço sob condições de extrema incerteza."
+*   **Página 75:** "Aprendizado validado é o processo de demonstrar empiricamente que uma equipe descobriu verdades valiosas sobre as perspectivas de negócio presentes e futuras de uma startup."
+*   **Página 124:** "As duas suposições mais importantes que os empreendedores fazem são o que chamo de hipótese de valor e hipótese de crescimento."
+*   **Página 125:** "A hipótese de valor testa se um produto ou serviço realmente entrega valor aos clientes quando eles o estão usando."
+*   **Página 154:** "O MVP é aquela versão do produto que permite uma volta completa no ciclo Construir-Medir-Aprender com o mínimo de esforço e o menor tempo de desenvolvimento."
+*   **Página 172:** "Em inglês, [Genchi Gembutsu] é usualmente traduzido como uma diretriz para 'vá e veja por si mesmo' para que as decisões de negócios possam ser baseadas em conhecimento profundo de primeira mão."
+*   **Página 186:** "Um produto mínimo viável (MVP) ajuda os empreendedores a iniciar o processo de aprendizado o mais rápido possível."
+*   **Página 237:** "A contabilidade da inovação funciona em três etapas: primeiro, use um produto mínimo viável para estabelecer dados reais sobre onde a empresa está agora."
+*   **Página 305:** "Essa mudança é chamada de pivô: uma correção de curso estruturada projetada para testar uma nova hipótese fundamental sobre o produto, estratégia e motor de crescimento."
+
+---
+*Para facilitar seu estudo e da sua equipe, eu criei um **relatório personalizado** com base nessas informações, que está disponível na aba de ferramentas ao lado.*
