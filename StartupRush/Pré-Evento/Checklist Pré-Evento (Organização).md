@@ -61,7 +61,7 @@ aliases:
 ### Materiais
 - [ ] Templates impressos: [[Canvas de Hipóteses]] (3 cópias/equipe × 15 equipes = 45)
 - [ ] Templates impressos: [[Canvas de Experimento]] (3 cópias/equipe = 45)
-- [ ] Templates impressos: [[Canvas MVP]] (2 cópias/equipe = 30)
+- [ ] Templates impressos: [[Canvas SLC]] (2 cópias/equipe = 30)
 - [ ] Templates impressos: [[Diário de Aprendizado]] (2 cópias/equipe = 30)
 - [ ] Templates impressos: [[Roteiro de Entrevista]] (5 cópias/equipe = 75)
 - [ ] Templates impressos: [[Five Whys]] (2 cópias/equipe = 30)

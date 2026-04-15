@@ -103,11 +103,11 @@ Seu trabalho É:
 - Critério de sucesso definido depois do teste → "Isso é viés. Definam AGORA."
 - Equipe não sabe o que medir → Ajude a transformar a hipótese em métrica: "Se X pessoas de Y responderem Z, vocês consideram validado?"
 
-#### Construção do MVP — Monitoramento
+#### Construção do SLC — Monitoramento
 **O que observar enquanto equipes trabalham:**
 
 🟢 **Sinais saudáveis:**
-- Equipe debate sobre o que NÃO incluir no MVP
+- Equipe debate sobre o que NÃO incluir no SLC
 - Alguém da equipe saiu para falar com potenciais clientes cedo
 - Equipe define critérios claros e mensuráveis
 - Discussões sobre o cliente, não sobre a tecnologia
@@ -130,7 +130,7 @@ Seu trabalho É:
 > - Abordem com honestidade: 'Estamos participando de um evento e queremos sua opinião sobre um problema'
 > - Não vendam nada. Ouçam.
 > - Perguntas abertas primeiro: 'Como você lida com [problema X] hoje?'
-> - Depois mostrem o MVP e observem a reação
+> - Depois mostrem o SLC e observem a reação
 > - Registrem TUDO no Diário de Aprendizado: citações diretas, expressões faciais, objeções
 > - Mínimo sugerido: 5-10 conversas por equipe"
 
@@ -178,7 +178,7 @@ Seu trabalho É:
 **Armadilhas comuns:**
 - Equipe ignora dados negativos: "Mas AQUELA pessoa adorou!" → "Uma pessoa não é um padrão."
 - Equipe pivota sem evidência: "Vamos mudar tudo!" → "O que nos DADOS levou vocês a essa decisão?"
-- Equipe tem medo de pivotar: "Já construímos tudo..." → "O MVP existe para gerar aprendizado, não para ser o produto final. Pivotar com base em dados é sinal de maturidade."
+- Equipe tem medo de pivotar: "Já construímos tudo..." → "O SLC existe para gerar aprendizado, não para ser o produto final. Pivotar com base em dados é sinal de maturidade."
 
 ---
 
@@ -189,7 +189,7 @@ Seu trabalho É:
 
 1. **O PROBLEMA** — Qual dor real vocês descobriram? (Não a que vocês ACHAVAM — a que vocês CONFIRMARAM)
 2. **A HIPÓTESE** — O que vocês acreditavam ser verdade no início?
-3. **O EXPERIMENTO** — O que vocês fizeram para testar? (Tipo de MVP, quantas pessoas, como)
+3. **O EXPERIMENTO** — O que vocês fizeram para testar? (Tipo de protótipo/experimento, quantas pessoas, como)
 4. **AS EVIDÊNCIAS** — O que os dados e clientes disseram? (Números, citações reais)
 5. **O APRENDIZADO** — O que vocês aprenderam de mais valioso? (O insight que ninguém tinha antes)
 6. **O PIVÔ** (se houve) — Como vocês mudaram de direção e por quê?

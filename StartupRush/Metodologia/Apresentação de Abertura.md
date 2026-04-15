@@ -23,7 +23,7 @@ Em 20 minutos, o participante deve sair sabendo:
 1. O que é o Startup Rush e como funciona
 2. Que "aprender é o produto" (não construir)
 3. O que vai acontecer nas próximas 54 horas
-4. Que termos como MVP, hipótese e pivô significam
+4. Que termos como SLC, hipótese e pivô significam
 
 ---
 
@@ -73,10 +73,10 @@ Em 20 minutos, o participante deve sair sabendo:
 
 ### Slide 6 — Os 3 conceitos-chave
 **1. HIPÓTESE** — A aposta que sua equipe vai testar
-**2. MVP** — A versão mais simples possível para gerar aprendizado
+**2. SLC** — Simples, Adorável, Completo — o protótipo que vocês vão construir para testar a hipótese
 **3. PIVÔ** — Mudar de direção com base em evidências (e isso é BOM)
 
-> Fala: "Três palavras que vocês vão ouvir muito. Hipótese: a crença sobre o cliente que vocês precisam provar. MVP: o mínimo que vocês precisam construir para testar essa crença — pode ser um formulário, um vídeo, uma entrevista, uma landing page. E pivô: quando os dados dizem que vocês estavam errados e vocês mudam de direção. No Startup Rush, pivotar é celebrado."
+> Fala: "Três palavras que vocês vão ouvir muito. Hipótese: a crença sobre o cliente que vocês precisam provar. SLC — pronuncia 'Slick': o que vocês vão construir para testar essa crença. Simples: escopo mínimo. Adorável: algo que o cliente consegue interagir e aprecia. Completo: faz o que promete — pode ser um formulário, um vídeo, uma entrevista, uma landing page. E pivô: quando os dados dizem que vocês estavam errados e vocês mudam de direção. No Startup Rush, pivotar é celebrado."
 
 ---
 
@@ -84,7 +84,7 @@ Em 20 minutos, o participante deve sair sabendo:
 | Fase | Quando | O que acontece |
 |---|---|---|
 | 🔥 **IGNIÇÃO** | Sexta à noite | Problemas, equipes, hipóteses |
-| 🔨 **CONSTRUÇÃO** | Sábado inteiro | MVP, validação, "Saia do Prédio" |
+| 🔨 **CONSTRUÇÃO** | Sábado inteiro | SLC, validação, "Saia do Prédio" |
 | 📊 **MEDIÇÃO** | Domingo de manhã | Dados, métricas, pivotar ou perseverar |
 | 🎤 **APRESENTAÇÃO** | Domingo à tarde | Pitch da jornada de aprendizado |
 
@@ -136,9 +136,9 @@ Em 20 minutos, o participante deve sair sabendo:
 - **Tom:** Energético mas acessível. Não acadêmico.
 - **Ritmo:** Rápido. 20 minutos é pouco — não explique demais. Os conceitos serão aprofundados na prática.
 - **Interação:** No slide 4, peça para repetirem a frase. No slide 9, peça para lerem o mantra juntos.
-- **Evite:** Jargão em inglês sem tradução. Se usar "MVP", explique. Se usar "pivô", explique.
+- **Evite:** Jargão em inglês sem tradução. Se usar "SLC", explique (Simples, Adorável, Completo). Se usar "pivô", explique.
 - **Visual dos slides:** Poucas palavras, fontes grandes, sem parágrafos. O slide é apoio — VOCÊ é a apresentação.
 
 ---
 
-*Este roteiro é a base. Adapte ao seu estilo. O importante é que os 5 conceitos-chave (Hipótese, MVP, BML, Pivô, "Saia do Prédio") fiquem claros.*
+*Este roteiro é a base. Adapte ao seu estilo. O importante é que os 5 conceitos-chave (Hipótese, SLC, BML, Pivô, "Saia do Prédio") fiquem claros.*

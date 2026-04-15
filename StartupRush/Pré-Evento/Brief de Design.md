@@ -81,7 +81,7 @@ Usar um único sistema (Feather Icons, Tabler Icons, Lucide) em todos os materia
 |---|---|---|---|
 | [[Canvas de Hipóteses]] | `Templates/Canvas de Hipóteses.md` | Fase 1 — cada equipe preenche 1 | ⭐⭐⭐ ALTA |
 | [[Canvas de Experimento]] | `Templates/Canvas de Experimento.md` | Fase 2 — cada equipe preenche 2-3 | ⭐⭐⭐ ALTA |
-| [[Canvas MVP]] | `Templates/Canvas MVP.md` | Fase 2 — cada equipe preenche 1 | ⭐⭐⭐ ALTA |
+| [[Canvas SLC]] | `Templates/Canvas SLC.md` | Fase 2 — cada equipe preenche 1 | ⭐⭐⭐ ALTA |
 | [[Diário de Aprendizado]] | `Templates/Diário de Aprendizado.md` | Fases 2-3 — cada equipe preenche 1 | ⭐⭐⭐ ALTA |
 | [[Painel de Métricas]] | `Templates/Painel de Métricas.md` | Fase 3 — cada equipe preenche 1 | ⭐⭐ MÉDIA |
 | [[Roteiro de Entrevista]] | `Templates/Roteiro de Entrevista.md` | Fase 2 — 5 cópias por equipe | ⭐⭐ MÉDIA (pode ser A4) |

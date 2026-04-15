@@ -28,7 +28,7 @@ Você está prestes a participar do **Startup Rush** — um evento de 54 horas o
 1. **Descobrir um problema real** que vale ser resolvido
 2. **Formar uma equipe** com pessoas de perfis diferentes
 3. **Testar hipóteses** com clientes reais (não apenas supor)
-4. **Construir um MVP** (a versão mais simples possível da sua ideia)
+4. **Construir um SLC** (Simples, Adorável, Completo — o protótipo para testar sua hipótese)
 5. **Aprender com os dados** e decidir se muda de direção ou continua
 6. **Apresentar sua jornada** para uma banca de jurados
 
@@ -62,7 +62,7 @@ O que os jurados avaliam? **O que você APRENDEU** — não apenas o que constru
 | Dia | Horário | O que acontece |
 |---|---|---|
 | **Sexta** | 18:00–23:00 | Abertura, descoberta de problemas, formação de equipes, definição de hipóteses |
-| **Sábado** | 08:00–23:00 | Construção do MVP, validação com clientes reais ("Saia do Prédio"), iteração |
+| **Sábado** | 08:00–23:00 | Construção do SLC, validação com clientes reais ("Saia do Prédio"), iteração |
 | **Domingo** | 08:00–13:00 | Análise de dados, decisão de pivotar ou continuar |
 | **Domingo** | 13:30–18:30 | Preparação e apresentação do pitch, premiação, encerramento |
 
@@ -89,7 +89,7 @@ Assista ao vídeo introdutório que enviamos por email. Ele explica o ciclo Cons
 
 Não precisa estudar — você vai aprender fazendo. Mas se quiser uma prévia:
 
-**MVP (Produto Mínimo Viável)** — A versão mais simples possível da sua ideia, criada para testar se as pessoas realmente querem o que você está oferecendo.
+**SLC (Simples, Adorável, Completo)** — O protótipo que a sua equipe vai construir para testar a hipótese. *Simples:* escopo mínimo, apenas o necessário. *Adorável:* algo que o cliente consegue usar e aprecia — não um produto pela metade. *Completo:* faz o que promete, sem pedaços faltando. Pode ser um formulário, um vídeo, uma landing page ou um serviço entregue à mão.
 
 **Hipótese de Valor** — "Acreditamos que [pessoas X] têm o problema [Y] e usariam [Z] para resolver." É a aposta que sua equipe vai testar.
 

@@ -27,7 +27,7 @@ aliases:
 ## ANTES DE SAIR: CHECKLIST
 
 - [ ] Sei qual hipótese vou testar (do [[Canvas de Hipóteses]])
-- [ ] Tenho o MVP pronto para mostrar (se aplicável)
+- [ ] Tenho o SLC pronto para mostrar (se aplicável)
 - [ ] Tenho este roteiro impresso ou no celular
 - [ ] Tenho como anotar (caderno, celular, ou um colega anotando)
 - [ ] Defini o perfil de pessoa que quero abordar
@@ -62,11 +62,11 @@ aliases:
 
 ---
 
-## PARTE 2 — REAÇÃO AO MVP (2-3 min)
+## PARTE 2 — REAÇÃO AO SLC (2-3 min)
 
 **Objetivo:** Testar a solução proposta e observar a reação.
 
-> Mostre o MVP (landing page, protótipo, vídeo, descrição verbal).
+> Mostre o SLC (landing page, protótipo, vídeo, descrição verbal).
 > **OBSERVE A REAÇÃO ANTES DAS PALAVRAS.** Entusiasmo genuíno? Confusão? Indiferença?
 
 | # | Pergunta | Anotações |

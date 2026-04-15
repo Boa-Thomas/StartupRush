@@ -32,7 +32,7 @@ Imagine que você precisa dobrar, inserir e selar 100 cartas. A maioria das pess
 
 ### Aplicação no Startup Rush
 
-Durante a [[Cronograma 54h|Fase 2 — Construção]], as equipes têm ~4h para construir o MVP. A tentação natural é dividir tarefas: "Eu faço o design, você coda, ela pesquisa". Isso é **lote grande** — e gera problemas:
+Durante a [[Cronograma 54h|Fase 2 — Construção]], as equipes têm ~4h para construir o SLC. A tentação natural é dividir tarefas: "Eu faço o design, você coda, ela pesquisa". Isso é **lote grande** — e gera problemas:
 
 - As partes não se encaixam no final
 - Defeitos são descobertos tarde demais
@@ -42,7 +42,7 @@ Durante a [[Cronograma 54h|Fase 2 — Construção]], as equipes têm ~4h para c
 
 | Ciclo | O que fazer | Duração |
 |---|---|---|
-| Ciclo 1 | Construir a versão mais grosseira possível do MVP (rascunho em papel, wireframe, script de entrevista) e testar com 1 pessoa INTERNA (outra equipe) | 60 min |
+| Ciclo 1 | Construir a versão mais simples possível do SLC (rascunho em papel, wireframe, script de entrevista) e testar com 1 pessoa INTERNA (outra equipe) | 60 min |
 | Ciclo 2 | Ajustar com base no feedback. Construir versão funcional mínima. Testar com 2-3 pessoas EXTERNAS (rápido) | 90 min |
 | Ciclo 3 | Iterar e preparar para a rodada completa de "Saia do Prédio" | 60 min |
 

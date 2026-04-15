@@ -87,7 +87,7 @@ aliases:
 1. Pedir para participantes priorizarem trabalho offline
 2. Sugerir hotspot dos celulares (dados móveis) para tarefas críticas
 3. Se crítico: contatar suporte técnico do local
-4. Lembrar: "MVP offline funciona — entrevistas, papel, protótipos físicos não precisam de internet"
+4. Lembrar: "SLC offline funciona — entrevistas, papel, protótipos físicos não precisam de internet"
 
 ### Projetor/som não funciona
 **Ação para a abertura:** Facilitador apresenta sem slides — de pé, com quadro branco

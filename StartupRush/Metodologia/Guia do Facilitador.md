@@ -112,11 +112,11 @@ Seu trabalho É:
 - Critério de sucesso definido depois do teste → "Isso é viés. Definam AGORA."
 - Equipe não sabe o que medir → Ajude a transformar a hipótese em métrica: "Se X pessoas de Y responderem Z, vocês consideram validado?"
 
-#### Construção do MVP — Monitoramento
+#### Construção do SLC — Monitoramento
 **O que observar enquanto equipes trabalham:**
 
 🟢 **Sinais saudáveis:**
-- Equipe debate sobre o que NÃO incluir no MVP
+- Equipe debate sobre o que NÃO incluir no SLC
 - Alguém da equipe saiu para falar com potenciais clientes cedo
 - Equipe define critérios claros e mensuráveis
 - Discussões sobre o cliente, não sobre a tecnologia
@@ -139,7 +139,7 @@ Seu trabalho É:
 
 Eric Ries dedica páginas inteiras (p.367-372) a esta distinção crítica. Facilitadores precisam ensinar isso às equipes antes de sair do prédio:
 
-> **Early adopters** são pessoas que JÁ SENTEM O PROBLEMA com tanta intensidade que aceitam soluções imperfeitas — preferem, na verdade, uma solução 80% pronta a ter que esperar pela versão polida. Eles são os únicos que dão feedback útil para um MVP, porque os mainstream customers vão rejeitar QUALQUER coisa incompleta.
+> **Early adopters** são pessoas que JÁ SENTEM O PROBLEMA com tanta intensidade que aceitam soluções com escopo limitado — preferem, na verdade, um SLC simples hoje a esperar pela versão completa. Eles são os únicos que dão feedback útil para um SLC, porque os mainstream customers vão rejeitar QUALQUER coisa que não pareça polida e completa.
 
 **Como identificar um early adopter (ensine à equipe):**
 
@@ -168,7 +168,7 @@ Eric Ries dedica páginas inteiras (p.367-372) a esta distinção crítica. Faci
 > - Abordem com honestidade: 'Estamos participando de um evento e queremos sua opinião sobre um problema'
 > - Não vendam nada. Ouçam.
 > - Perguntas abertas primeiro: 'Como você lida com [problema X] hoje?'
-> - Depois mostrem o MVP e observem a reação
+> - Depois mostrem o SLC e observem a reação
 > - Registrem TUDO no [[Diário de Aprendizado]]: citações diretas, expressões faciais, objeções
 > - Usem o [[Roteiro de Entrevista]] impresso para estruturar a conversa
 > - Mínimo sugerido: 5-10 conversas por equipe"
@@ -209,9 +209,9 @@ Eric Ries dedica páginas inteiras (p.367-372) a esta distinção crítica. Faci
 4. Se NÃO: "O que os dados sugerem? Vocês precisam mudar algo fundamental?"
 5. Se a equipe quer pivotar, ajude a classificar o tipo de pivô. Eric Ries lista 10 tipos no Cap. 8 do livro. Os mais aplicáveis em 54h:
 
-   **Pivôs de foco (o MVP tinha tamanho errado):**
-   - **Zoom-in Pivot:** Uma ÚNICA funcionalidade do MVP era o produto inteiro. Descartem o resto e foquem nela. (Ex: Instagram começou como Burbn — uma feature de checkins. Perceberam que só a de fotos importava.)
-   - **Zoom-out Pivot:** O MVP era pequeno demais — precisam de algo maior para resolver o problema de verdade. Uma feature sozinha não basta.
+   **Pivôs de foco (o SLC tinha tamanho errado):**
+   - **Zoom-in Pivot:** Uma ÚNICA funcionalidade do SLC era o produto inteiro. Descartem o resto e foquem nela. (Ex: Instagram começou como Burbn — uma feature de checkins. Perceberam que só a de fotos importava.)
+   - **Zoom-out Pivot:** O SLC era pequeno demais — precisam de algo maior para resolver o problema de verdade. Uma feature sozinha não basta.
 
    **Pivôs de alvo (estavam mirando errado):**
    - **Pivô de Segmento de Cliente:** O problema existe e a solução serve, mas para OUTRO público. Ex: estavam mirando estudantes, mas quem precisa são professores.
@@ -234,7 +234,7 @@ Eric Ries dedica páginas inteiras (p.367-372) a esta distinção crítica. Faci
 **Armadilhas comuns:**
 - Equipe ignora dados negativos: "Mas AQUELA pessoa adorou!" → "Uma pessoa não é um padrão."
 - Equipe pivota sem evidência: "Vamos mudar tudo!" → "O que nos DADOS levou vocês a essa decisão?"
-- Equipe tem medo de pivotar: "Já construímos tudo..." → "O MVP existe para gerar aprendizado, não para ser o produto final. Pivotar com base em dados é sinal de maturidade."
+- Equipe tem medo de pivotar: "Já construímos tudo..." → "O SLC existe para gerar aprendizado, não para ser o produto final. Pivotar com base em dados é sinal de maturidade."
 
 ---
 
@@ -245,7 +245,7 @@ Eric Ries dedica páginas inteiras (p.367-372) a esta distinção crítica. Faci
 
 1. **O PROBLEMA** — Qual dor real vocês descobriram? (Não a que vocês ACHAVAM — a que vocês CONFIRMARAM)
 2. **A HIPÓTESE** — O que vocês acreditavam ser verdade no início?
-3. **O EXPERIMENTO** — O que vocês fizeram para testar? (Tipo de MVP, quantas pessoas, como)
+3. **O EXPERIMENTO** — O que vocês fizeram para testar? (Tipo de protótipo/experimento, quantas pessoas, como)
 4. **AS EVIDÊNCIAS** — O que os dados e clientes disseram? (Números, citações reais)
 5. **O APRENDIZADO** — O que vocês aprenderam de mais valioso? (O insight que ninguém tinha antes)
 6. **O PIVÔ** (se houve) — Como vocês mudaram de direção e por quê?

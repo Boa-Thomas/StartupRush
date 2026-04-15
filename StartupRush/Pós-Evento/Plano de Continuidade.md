@@ -65,7 +65,7 @@ Para equipes que passam pelo Labs com tração real:
 | Parceiro | O que oferece | Critério |
 |---|---|---|
 | **Sebrae** | Consultoria gratuita, capacitações, acesso a programas | Equipe com problema validado |
-| **Aceleradoras locais** | Programas de aceleração formais | Equipe com MVP + dados de validação |
+| **Aceleradoras locais** | Programas de aceleração formais | Equipe com SLC + dados de validação |
 | **Fundação Fritz Müller** | Espaço, networking, mentoria | Equipe ativa no ecossistema |
 | **Investidores-anjo** | Apresentação a investidores | Equipe com modelo de receita validado |
 

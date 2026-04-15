@@ -22,7 +22,7 @@ aliases:
 
 ```mermaid
 flowchart LR
-    A[IDEIA] -->|Construir| B[PRODUTO / MVP]
+    A[IDEIA] -->|Construir| B[PRODUTO / SLC]
     B -->|Medir| C[DADOS]
     C -->|Aprender| A
     
@@ -36,7 +36,7 @@ flowchart LR
 Círculo com 3 nós conectados em loop contínuo (sentido horário):
 
 1. **IDEIA** (topo) — cor: amarelo vibrante. Ícone: lâmpada. Texto abaixo: "O que acreditamos ser verdade"
-2. **CONSTRUIR → PRODUTO/MVP** (direita) — cor: vermelho coral. Ícone: ferramenta/martelo. Texto: "O mínimo para aprender"
+2. **CONSTRUIR → PRODUTO/SLC** (direita) — cor: vermelho coral. Ícone: ferramenta/martelo. Texto: "Simples, Adorável, Completo"
 3. **MEDIR → DADOS** (base) — cor: turquesa. Ícone: gráfico. Texto: "Reação real de clientes"
 4. **APRENDER** (retorno ao topo) — seta grossa curva. Texto: "Validar ou pivotar"
 
@@ -60,7 +60,7 @@ flowchart LR
     F1 --> F2 --> F3 --> F4
     
     F1 -.-> O1[Problemas<br/>Equipes<br/>Hipóteses]
-    F2 -.-> O2[MVP<br/>Saia do Prédio<br/>Ciclos BML]
+    F2 -.-> O2[SLC<br/>Saia do Prédio<br/>Ciclos BML]
     F3 -.-> O3[Análise dados<br/>Pivotar/Perseverar]
     F4 -.-> O4[Pitch<br/>Júri<br/>Premiação]
     
@@ -92,13 +92,13 @@ Abaixo de cada bloco, 3 ícones/pictogramas mostrando as atividades principais. 
 ```mermaid
 flowchart TB
     subgraph topo[" "]
-        EA["🎯 EARLY ADOPTERS<br/>~2.5% do mercado<br/>Aceitam soluções 80% prontas<br/>DÃO FEEDBACK ÚTIL PARA MVP"]
+        EA["🎯 EARLY ADOPTERS<br/>~2.5% do mercado<br/>Aceitam SLC com escopo limitado<br/>DÃO FEEDBACK ÚTIL PARA SLC"]
     end
     subgraph meio[" "]
         EM["⚡ EARLY MAJORITY<br/>~13.5% — pragmáticos<br/>Querem produto funcional<br/>Esperam prova social"]
     end
     subgraph base[" "]
-        LM["🐢 LATE MAJORITY / LAGGARDS<br/>~84% — céticos<br/>Só adotam quando é padrão<br/>FEEDBACK INÚTIL PARA MVP"]
+        LM["🐢 LATE MAJORITY / LAGGARDS<br/>~84% — céticos<br/>Só adotam quando é padrão<br/>FEEDBACK INÚTIL PARA SLC"]
     end
     
     EA --> EM
@@ -115,7 +115,7 @@ Pirâmide invertida (triângulo com a ponta para baixo) dividida em 3 faixas hor
 
 1. **Topo (mais estreito, verde/turquesa):** "EARLY ADOPTERS — ~2,5%" — adjetivos: "curiosos, tolerantes, engajados". Texto: "São eles que vocês procuram no 'Saia do Prédio'"
 2. **Meio (amarelo):** "EARLY MAJORITY — ~13,5%" — adjetivos: "pragmáticos, esperam prova". Texto: "Vão entrar depois"
-3. **Base (vermelho, mais largo):** "LATE MAJORITY + LAGGARDS — ~84%" — "céticos, conservadores". Texto: "Não servem para validar MVP"
+3. **Base (vermelho, mais largo):** "LATE MAJORITY + LAGGARDS — ~84%" — "céticos, conservadores". Texto: "Não servem para validar SLC"
 
 Ao lado da pirâmide, lista em bullet points:
 - ✅ Já tentou resolver o problema por conta própria
@@ -262,7 +262,7 @@ flowchart TB
     Check -->|Sim| Analyze[Checkpoint BML<br/>analisar padrões]
     Analyze --> Decision{Hipótese<br/>confirmada?}
     Decision -->|Sim| Persevere[PERSEVERAR<br/>refinar e aprofundar]
-    Decision -->|Parcial| Iterate[ITERAR MVP<br/>testar de novo]
+    Decision -->|Parcial| Iterate[ITERAR SLC<br/>testar de novo]
     Decision -->|Não| Pivot[PIVOTAR<br/>usar Five Whys]
     
     style Start fill:#FFE66D
