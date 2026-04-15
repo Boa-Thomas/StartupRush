@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologia/Metodologia StartupRush.md",
+                "file": "Pré-Evento/Checklist Pré-Evento (Organização).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metodologia StartupRush"
+              "title": "Checklist Pré-Evento (Organização)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia/Metodologia StartupRush.md",
+                "file": "Pré-Evento/Checklist Pré-Evento (Organização).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metodologia StartupRush"
+              "title": "Backlinks for Checklist Pré-Evento (Organização)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologia/Metodologia StartupRush.md",
+                "file": "Pré-Evento/Checklist Pré-Evento (Organização).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metodologia StartupRush"
+              "title": "Outgoing links from Checklist Pré-Evento (Organização)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologia/Metodologia StartupRush.md",
+                "file": "Pré-Evento/Checklist Pré-Evento (Organização).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metodologia StartupRush"
+              "title": "Outline of Checklist Pré-Evento (Organização)"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "bcca8a8ba66782b7",
   "lastOpenFiles": [
+    "Referências/Executive Briefing - Lean Startup.md",
+    "Metodologia/Metodologia StartupRush.md",
     "Pós-Evento/Plano de Continuidade.md.tmp.102816.1776113405478",
     "Templates/Canvas SLC.md",
     "Templates/Canvas de Hipóteses.md",
-    "Metodologia/Metodologia StartupRush.md",
     "Home.md",
     "Home.md.tmp.71280.1776017270677",
     "Metodologia/Guia do Facilitador.md",
@@ -213,7 +214,6 @@
     "Pós-Evento/Plano de Continuidade.md",
     "Pós-Evento/Plano de Continuidade.md.tmp.15166.1776014989715",
     "Pré-Evento/Checklist Pré-Evento (Organização).md",
-    "Pré-Evento/Checklist Pré-Evento (Organização).md.tmp.15166.1776014954815",
     "Templates/Roteiro de Entrevista.md",
     "Templates/Five Whys.md",
     "Avaliação da Metodologia vs Livro.md",
@@ -221,7 +221,6 @@
     "Attachments/NotebookLM Mind Map.png",
     "2026-04-12.md",
     "Untitled.canvas",
-    "Referências/Executive Briefing - Lean Startup.md",
     "Reuniões/2026-04-10 Talk Liderança SW - Transcript.md",
     "Attachments/unnamed.png"
   ]
