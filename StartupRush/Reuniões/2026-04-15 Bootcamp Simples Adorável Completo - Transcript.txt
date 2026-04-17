@@ -1,0 +1,680 @@
+Bootcamp Simples Adorável Completo
+Wed, Apr 15, 2026
+
+0:00 - Thomas Adriaan Topfstedt
+que é um conceito diferente da MVP, de mínimo produto viável para simples, adorável e completo. Eu estava navegando aí pelo nosso amigo no Instagram e apareceu esse conceito. Eu comecei a dar uma olhada e eu achei que faz todo sentido na época de hoje de inteligência artificial. Que qual que é a ideia? Que a gente faz um escopo limitado de um processo, de um aplicativo, de um site, que de uma forma que o cliente consiga interagir e gostar de estar naquela experiência, então uma UI, uma UX agradável e ao mesmo tempo também completo, né? Então a gente faz a versão 1.0 e não a versão 0.1, né? Ah, e a Uber não é um skate? Não, é tipo um aplicativo que a pessoa vai lá e se cadastra pra encontrar alguém que tá pedindo a carona, sabe? Algo nesse sentido. Muito movimentado pela era de inteligência artificial e... Vai becooking, né? Então, eu acho que tem tudo a ver com a normativa crescente aí. Não sei o que vocês acham.
+
+1:06 - Unidentified Speaker
+Pra mim, ok. Bem legal.
+
+1:08 - Natali Pires de Campos
+Achei legal também.
+
+1:10 - Crislaine Camila Stuepp
+Eu ia propor mesmo se tivesse alguma outra ferramenta ou outro conceito assim. Era um dos pontos que eu ia chegar. Eu acho que também acaba diferenciando a gente bastante.
+
+1:24 - Thomas Adriaan Topfstedt
+tal daí.
+
+1:25 - Natali Pires de Campos
+Aí ninguém pode dizer nada.
+
+1:28 - Crislaine Camila Stuepp
+E eu acho que até quando a gente for falar para os públicos, eu acho que é menos conhecido, então vai gerar mais curiosidade para as pessoas entenderem.
+
+1:41 - Thomas Adriaan Topfstedt
+Exatamente, exatamente. Considerações que eu acho que a gente deveria fazer aqui, tá? E que eu vi, mas eu Eu deixei propositalmente aqui ainda pra gente discutir um pouco. Na metodologia proposta aqui do amigo Claudio, existem outros players do que nós estamos acostumados, tá? Deixa eu achar aqui onde é que ele pontua todos os nossos inscritos. Quer compartilhar sua tela, Thomas?
+
+2:18 - Thomas Adriaan Topfstedt
+Mas sim, é assim que eu encontrar o...
+
+2:21 - Natali Pires de Campos
+É, compartilha tu aí, que daí tu já sabe editar as coisas.
+
+2:27 - Thomas Adriaan Topfstedt
+O que eu quero.
+
+2:29 - Unidentified Speaker
+Vocês estão vendo aqui, né? Tá certinho? Sim.
+
+2:32 - Thomas Adriaan Topfstedt
+É que ele fez todos os diagramas mermaids, ó, também. Que coisa linda, né? E só pra ele centralizar um pouco. Mas o que eu tava procurando aqui é a parte onde é que ele fala sobre facilitação, mentores, jurados e... Ah, eu posso pesquisar por aqui, né? Acho que é isso aqui que eu tô buscando. Não. Criterio de jurados, scoreboard de jurados... Ah, aqui. Então, é... O modelo feito aqui é com mais de um facilitador, tá? A ideia aqui. Em algum lugar tá escrito exatamente qual que é a estimativa e qual que é a quantidade de facilitadores, mentores e tal. Tem um lugarzinho que tem um cálculo. Mentores convidados de 6 a 8, 80 a 120 participantes, aproximados de 3 a 5 pessoas e facilitadores aqui no geral, se eu não me engano, a ideia aqui é que cada grupo, cada mentor, cada facilitador gerenciasse um grupo ou dois grupos. Então como se fosse, a ideia aqui era como se fosse um mentor líder. Eu acho que é algo parecido. Eu ia perguntar, é um facilitador para dois grupos de mentores, né?
+
+4:13 - Crislaine Camila Stuepp
+Tipo, e daí, claro, suas respectivas equipes, no caso. Ah, não, a gente tá trabalhando com o conceito de mentor ser geral para todo mundo. Verdade. Isso, é.
+
+4:24 - Thomas Adriaan Topfstedt
+Então, o que que eu acho que talvez a gente pode propor aqui de mudança, que seja um mentor fixo e o mentor que vai trocando. A gente faz dois grupos de mentores. Um grupo de mentores fixo com o grupo do início ao fim da jornada e o outro grupo de mentores é livre pra ficar circulando e trocando as ideias. Interessante. Porque a gente vai precisar de um acompanhamento passo a passo, realmente, porque eu acho que a gente achar alguém que vai fazer a facilitação do evento e que vai puxar o evento da forma que a gente gostaria que ele fosse puxado, não vai ser o ideal, pelo menos na primeira vez. Muito que a gente vai ter que mostrar ensinar.
+
+5:07 - Unidentified Speaker
+Exatamente.
+
+5:07 - Thomas Adriaan Topfstedt
+Então, eu acho que tem essa... O facilitador inicial nessa primeira coisa vai ser a gente, eu acho. Tem que ser a gente.
+
+5:17 - Natali Pires de Campos
+É bem possível. A gente vai dividir em blocos de cada um cuidar um pedaço da metodologia ou a chamada, né, da frente e a gente mesmo fazer essa... Porque o roteiro é Então, vamos dizer assim, então, lógico, ainda a gente vai ter outros agregados na equipe, na org nossa, né, digamos assim, a gente espera pelo menos, pelo menos, né, porque agora a gente não tem mais a questão do requisito ter que fazer um SW, qualquer coisa, a gente pode abrir, então, também pensando em equipe, né, mas teria que ser a gente conduzindo e aí a gente vai ter mentores e facilitadores vocês, né? Eu vejo que pode ter isso mesmo. A gente poderia fazer uma figura tipo de padrinho, né? Vamos dizer assim. Cada um pega uma equipe pra... Pode ser, acho legal. Uma coisa que ontem a gente tinha vôlei, tá?
+
+6:20 - Thomas Adriaan Topfstedt
+Então a gente acabou conversando um pouquinho e mais importante, eu dei uma sondada na para ver assim o que que ela, né, achava. Não falei nada do que nós estamos montando, tá? Tá. A única coisa que eu falei pra ela é o seguinte. Ah, Ana, você teria interesse, talvez, assim, né, num cargo de, é, producer de eventos? Né? Aí, a gente entrou e falei, não, olha, é, é algo como você nunca viu. Eu mandei essa. Mas, assim, ela ela se colocou disposta assim, ela achou interessante, inclusive hoje ela veio me pedir se eu já tinha uma... Se eu já podia falar o que que era, se eu já tinha uma definição, e eu falei que ainda não, que eu ia deixar pra semana que vem, quando eu tivesse algo mais estruturado, né? Mas eu acho que ela já se colocou à disposição, e eu acho que ela é uma pessoa que faz acontecer. É, agora a gente só tem que dizer assim, só o lado chocante é, nós vamos parar tudo que ela fez na cidade.
+
+7:23 - Natali Pires de Campos
+É, isso vai ser... Que é o histórico dela também, vai ter uma dorzinha, né? Eu sei que vai gerar uma dorzinha. Sim, mas pelo que pelo que ela falou pra gente lá, ela tá assim, cansada de fazer o mesmo.
+
+7:36 - Thomas Adriaan Topfstedt
+Então, eu acho que vem, vem uma mudança, vem uma mudança boa. E ela falou que ela tá com tempo, né? Pra chassar, né?
+
+7:44 - Crislaine Camila Stuepp
+Mas a gente adora a gente com pouco de tempo.
+
+7:48 - Thomas Adriaan Topfstedt
+E e só pra eu finalizar antes da Crislaine eh falar também eh da dentro da organização do A Ana trouxe a Letícia, a Letícia é uma pessoa que tá montando com ela junto uma uma empresa de marketing, né? E a Letícia tá bem engajada, tá? Na parte, tipo, de trabalho voluntário, tá fazendo as artes do Raquiá lá, tudo que saiu é tudo dela, de artes, assim, tá aqui no Instagram e tá ficando bem legal e eu acho que é uma oportunidade legal pra gente trazer alguém assim, nem que seja, pra gente dizer, e Letícia, vocês são um patrocinador premium nosso do evento, porque vocês estão fazendo todas as artes e a loucura de vocês fica aqui em cima, entendeu? Um parceria nesse sentido, acho. E eu acho super válido, entendeu? Tipo, não, tá aqui, vocês são um parceiro top nosso.
+
+8:38 - Natali Pires de Campos
+E encerra por aqui, Crislaine, pode...
+
+8:40 - Thomas Adriaan Topfstedt
+Eu ia... Não tem nada a ver com essa caixinha, na verdade, eu ia falar sobre antes que tu comentou de ter um mentor e outros passando, assim.
+
+8:50 - Crislaine Camila Stuepp
+Eu só me preocupo se não é muito mentor para gente achar, sabe? Que daí são várias pessoas que a gente tem que gerenciar também, a gente também sabe dar conflitos entre eles, né? Então, assim, primeiro, questão de ir atrás, de achar gente e convidar eles toparem. Segundo, de gestão de conflitos. E terceiro, de custos também, porque, dependendo, a gente tem que trazer de alguns lugares. E, assim, eu entendo que tem pessoas perto região também pra gente puxar, mas não vai ser, se a gente quiser que seja um evento com recorrência etc e tal, ou até um evento que chame um público diferente, enfim, a gente não vai poder pegar sempre as mesmas pessoas de sempre, vai ter que dar um refresh assim, mas aí é uma percepção minha.
+
+9:37 - Natali Pires de Campos
+A vantagem da metodologia ser diferente e com mais abrangência é que a gente abre o leque para mentores nesse sentido então isso ajuda a gente deu uma listagem mas não dá de fugir muito né tem que ser pessoal de empreendedorismo tem que ser pessoal de startup tem que ser né com expertise de negócio né então nesse sentido ainda né e eu acho que essa questão de ver quantas pessoas a gente chama eu acho que não vai ser um tanto um problema quando você acha que um porque eu acho que realmente a gente tem bastante gente perto e eu acho que trazer um cenário novo um evento novo pode trazer as pessoas antigas de volta entendeu eu
+
+10:20 - Thomas Adriaan Topfstedt
+vejo por exemplo eu não vejo eu acho que o Anderson Torres a gente chamasse ele para o SW Health Tech ele viria eu acho que chegasse lá antes eu quero que quer ir lá com o mentor eu acho que ele viria ele é de onde mesmo ele é daqui a do senhor e mas eu acho que é mais aquele negócio tipo ai eu vou lá sabe porque já conhece já já tá tão carimbada né mas se você dizer que algo totalmente diferente eu acho que eles viriam com mais nossa é legal né isso eu quero conhecer o que que vocês estão fazendo aí né quero entender de vender o pioneiros né da coisa exatamente não, pô, eu fui um dos primeiros mentores que tava lá, né? Nesse movimento e tal.
+
+11:11 - Crislaine Camila Stuepp
+Aqui tô falando um pouquinho da metodologia que foi implantada, né?
+
+11:15 - Thomas Adriaan Topfstedt
+Mas antes disso, eu queria pensar um pouco na forma que a gente vai vender essa ideia, tá? Conversando um pouco com a Crislaine ontem, a gente levantou talvez uma pequena red flag de toda essa questão, de talvez a gente não é jogar para eles agora como uma forma de assim a gente tá indo embora mas jogar com mas tentar vender para eles um negócio amigável falar assim não a gente conversou com o pessoal da comunidade e a gente viu que o pessoal tava cansado já de participar de SW no último a gente já não teve um negócio tão legal assim qualidade de público então a gente internamente decidiu que íamos bolar um evento novo, que é uma coisa que eles já queriam que nós fizéssemos, eventos novos. Então, ah, não, esse ano nós não vamos fazer um SW, né? Se alguém quiser puxar, pode puxar, mas nós não vamos fazer um SW. Nós vamos fazer um evento de metodologia diferente, apoiando o quê? Voltado para a comunidade. Então, é sem jogar na cara da Techstars de que nós não vamos fazer o negócio deles, mas é com o papo de que nós estamos realmente ajudando a comunidade, né? Trazendo um novo olhar. E porque a gente entende, eu entendo que a comunidade, ela não é, digamos assim, um, dona do SW, dois, obrigada a seguir uma metodologia específica.
+
+12:43 - Natali Pires de Campos
+Eu vejo que qualquer tipo de evento que envolva questão de inovação, de metodologias de startup, ele se enquadraria. Aí, o que a gente tá fazendo, eu sei que a Sandra iria. Vai, lógico, doer um pouco, né? O cotovelo dizer, nossa, eles criaram uma metodologia nova, com que embasamento, com que autoridade, né? A gente vai ter que estruturar muito o nosso posicionamento como autoridade disso, entendeu? Dizer, ó, a gente tem, tá estudando há tanto tempo. Eu digo assim, ó, eu vendo o meu currículo aqui para vocês também, tá? Se vocês quiserem estava na talila que é tem tantos anos de empreendedorismo sequência que é tomas expert na área de aí não se queita tá tipo assim ó a gente também criar uma certa autoridade dizendo se a gente não é pouca bosta de querer isso aqui tá é sério mas porque vai ter isso tá vai ter isso aqui eles acho que são tá para fazer né te prepara aqui que vem vem disso né então baseado psicologias, né, e tal, então, pra que a gente consiga colocar pra eles, e eu sou da mesma opinião. Thomas, assim, vai aos pouquinhos, né, dizendo, ó, eu acho assim, prepara tudo, diz, ó, a gente criou isso aqui, com os estudos que a gente tem desenvolvido desde os últimos ensinamentos, o que deu certo e errado, outro método e tal, né, e assim, vai colocar, E um ponto que eu trouxe para o Thomas é isso, né? Em parte era isso, mas para a gente cuidar muito com o alinhamento da nossa fala e também com o timing das coisas.
+
+14:30 - Crislaine Camila Stuepp
+Como que a gente vai cascatear as informações? Por quê? Às vezes pode ser que alguém saiba, seja uma pessoa um pouco mais ansiosa e já joga em algum grupo, já queira recrutar gente, tipo, seja muito priorativo e acaba é quebrando um pouco disso sabe sem a gente tá tá alinhado tá pronto enfim só para não se atravessar assim sabe é mais nesse sentido tipo para gente alinhar o timing da coisa então eu acho que isso envolve também um pouco de marketing né porque provavelmente a gente quando a gente comunicar é uma comunicação querendo ou não tanto nos grupos de Watts quanto verbalmente quanto nas redes sociais então é precisar ter um desdobramento Bruno uma estratégia de roll out assim e até para gerar é talvez aproveitar já isso para gerar o suspense também sabe porque se a gente já queimar largada a gente não gera o suspense do negócio eu acho que a gente pode usar isso. A gente não pode queimar o nosso MVP ou o CSL. É, a gente não vai ter que ir hackear ali. A gente já está testando com isso né. Vai ter o evento, vai ser lançado a edital, não esquece. Então antes de ser lançado a edital a gente vai ficar queimando figurinha dizendo que vai ter que não vai ter que tem que ser um evento quase sigiloso, as pessoas tem que entrar do tipo que eles não sabem que vai acontecer, e é isso. A sonaria 2.
+
+15:52 - Natali Pires de Campos
+Uma coisa, vem aí, algo super legal, e não sei o que, isso aqui, e está terminando com isso, né?
+
+16:01 - Crislaine Camila Stuepp
+Adorei ali ó, 1.3, o mantra.
+
+16:03 - Thomas Adriaan Topfstedt
+O mantra?
+
+16:04 - Bruno renan
+Sim, é então, ele fez tudo, tá? Vai 1.3. Então, gente, vai e veja por si mesmo.
+
+16:12 - Natali Pires de Campos
+É isso aí. É.
+
+16:14 - Thomas Adriaan Topfstedt
+Então, um negócio assim, achei bem. Quem começar com muita pergunta, a gente diz, vai e veja por si mesmo.
+
+16:22 - Natali Pires de Campos
+Né?
+
+16:23 - Unidentified Speaker
+Então.
+
+16:23 - Thomas Adriaan Topfstedt
+Bem plenos, assim.
+
+16:24 - Natali Pires de Campos
+A metodologia inteira, ela é muito baseada e muito parecida com o método científico, tá?
+
+16:31 - Thomas Adriaan Topfstedt
+Do, da minha abordagem, assim, do que eu vi.
+
+16:34 - Crislaine Camila Stuepp
+Então, ah, vai lá e testa, se não der certo, você já descobriu que não é isso, né?
+
+16:41 - Thomas Adriaan Topfstedt
+E é, tem que ser assim, tem que ser assim. Tu consegue chamar atenção quando você trabalha isso, né? Eu ontem, segunda-feira, dei o curso na Dom Cabral, né? Tô na aula de empreendedorismo, a primeira coisa que eu faço no alinhamento é isso.
+
+16:55 - Natali Pires de Campos
+Gente, duvidem de tudo que eu falo. Aí a pessoa, assim, como assim? Sim, vai lá e testa, se você achar que... Né? Duvide de tudo que eu falo. Mas é isso. A partir do momento que a gente acha que sabe de tudo, a gente não sabe de nada. Exatamente. Então, tipo, ali eu crio duas coisas. Um, tá, se deu certo, deu certo. Se não deu certo, você traz aqui pra mim que a gente vai descobrir o que que não deu, né?
+
+17:20 - Thomas Adriaan Topfstedt
+Porque aí tu cria essa questão da curiosidade, né?
+
+17:23 - Natali Pires de Campos
+Que o ser humano, ele é curioso, ele adora uma fofoca. Então, a gente tem que trabalhar em cima disso. E aí entra o que a Crislaine comentou, que daí eu acho que a gente fazer uma reunião presencial, tudo mais, para a gente definir cronogramas para pensar, assim, tá, quando que a gente vai lançar isso aqui, quando a gente lança isso aqui, quando vai ser o evento, se mantém, como tá a agenda, para que a gente consiga definir isso. Então, para ficar bom esse prazo, não só do evento, mas em si, o quanto antes do evento, né, para a gente poder organizar isso. Não, perfeito. Eu vou colocar aqui, lado para a gente poder ir olhando, né? E comparando as frases aqui, né? Mas ele montou já um cronograma base para a gente dar uma conversada, né?
+
+18:11 - Thomas Adriaan Topfstedt
+Então, fase de 1, ignição, que eu gostei também, achei legal. A gente pode adaptar, eu acho que isso aqui pode ser tipo título do slide, entendeu? Quando a gente tá lá em cima, tipo, então falando e falando, né? As fases, né? Isso, então, tipo, lift off, né? Tipo, decolagem, é um negócio meio, tipo, temático, foguete, tal, sei lá. Esse aqui, né? Já gostei, já gostei. Então, sexta-feira à noite, qual que é o conceito? É visão e saltos de fé. Saltos de fé são as presumições que a gente que os grupos vão acabar fazendo, né? Então, faz de um objetivo formar equipes ao redor de problemas reais e definir hipóteses que serão testadas. Toda set up começa com uma crença sobre o mundo, algo que você acredita ser na verdade, mas ainda não provou. Nesta fase, vamos descobrir sobre quais são os problemas que vocês querem resolver e quais são apostas mais arriscadas por trás de cada ideia. Segura um momento. Quando a gente falou também da questão de alinhar a fala, de ter o cronograma de rollout das coisas, comentei com o Thomas também que uma coisa que ajudaria a gente a ter mais embasamento é justamente ter uma forma de pesquisa de mostrar que a gente tem público para o que a gente tá fazendo, que faz a psicodelogia.
+
+19:26 - Crislaine Camila Stuepp
+Então, por exemplo, uma coisa que o Vini fez lá do Hackear é a lista de espera no grupo antes do lançamento, ou seja, tipo, tinha realmente demanda, validou o que as pessoas queriam antes de abrir, sabe? Então, para a gente pensar algo nesse sentido também, não precisa ser a mesma coisa. Pronto, fecha parênteses. Nath, aquele maluco colocou 70 pessoas num grupo e não tinha nada, entendeu? Não tinha nada. Uma tarde tinha 40. Uma hora, tipo, numa tarde. Tipo assim, o evento nasceu de meio dia, 5 horas da tarde, umas 40 pessoas, tipo, eu quero, eu quero, eu quero o que, gente?
+
+20:04 - Thomas Adriaan Topfstedt
+Acabou de ser criado.
+
+20:05 - Crislaine Camila Stuepp
+Não tenho nada, não tenho nada.
+
+20:07 - Bruno renan
+Agora tem 90 pessoas.
+
+20:08 - Crislaine Camila Stuepp
+Primeiro que tem duas palavras que as pessoas gostam, haka e iá, tá? Então, tipo, ponto, eu quero e eu nem sei o que é, né? Então, é isso.
+
+20:18 - Thomas Adriaan Topfstedt
+Tá, daqui a duas atividades, eu não conexão de uma coisa com a outra, tá?
+
+20:23 - Natali Pires de Campos
+Então, a gente tá vendo isso aqui agora, eu acho que realmente tem que, tem que fazer uma validação aqui do, da correlação, mas, é, uma, duas, é, tem que fazer uma validação daqui um pouquinho, mas então, é, credenciamento e recepção, é, pessoal de logística responsável, fazer check-in, abertura oficial, o que é o Startup Rush?
+
+20:40 - Thomas Adriaan Topfstedt
+Então, vou trazer alguém lá em cima pra explicar o que, o que que nós vamos fazer aqui nessas cinquenta e quatro horas, é, falar um pouco da metodologia, o que que vai e tal. É dinâmica de aquecimento e eu acho que pode ser também a primeira dinâmica já de, quer dizer, abertura de aquecimento tá aqui, né? A gente tem que revisar os tempos, talvez só. Uh-huh. Ah, aqui fala em intervalo que eu acho que não vai ter nessa parte, vai ser antes daí, se for o caso, né? Quando o pessoal chega já. Uh-huh. Ah, dinâmica do muro de dores que tá aqui, mas tá no tempo errado só, né? Participantes escrevem em post-its, problemas reais e vem em cima e observa finalizamento por afinidade. Tipo o que a gente tá fazendo, faz lá, mas um pouco diferente, que vai ser substituído pela aplicação que a gente vai montar, né? Então, aqui já, já tem uma, uma diferençazinha. Pitch relâmpago de 60 segundos, né? Se vocês são abertos, qualquer um pode ir lá, fala o problema. Máximo 30 pits, acho que isso é um negócio importante pra gente colocar pra não, também, tipo, ter tanto tempo. 60 segundos é pouco, então não dá pra fazer 60 pitches, não vai dar. A gente vai fazer uns 45, se for bem rápido. Votação e seleção, então participantes votam nos problemas, muito parecido com o SW, parte de formação de equipe, formado. A gente tem um aplicativo, a gente tem... É outra coisa. Exatamente, a ideia é tornar essa experiência totalmente digital daí, né? Então conectado. Dá pra colocar um telão lá em tempo que tá fazendo votação, tá? Exatamente. Fazer um negócio parecido com o pessoal da Estras fez lá de jornada, mas talvez focado em também pra mostrar as equipes.
+
+22:21 - Natali Pires de Campos
+Sim, isso é legal.
+
+22:22 - Thomas Adriaan Topfstedt
+Né? Tipo, o pessoal formando as equipes, tal, tipo, quando a pessoa vai se inscrever, tem que botar uma foto de perfil, essa foto de perfil vai agrupando nos grupinhos lá, vai mostrando, eu acho que fica super, super legal. É, da parte dos saltos da fé, né? Então, ó, facilitadores, cada equipe recebe um campus de hipóteses e trabalha pra definir suas hipóteses centrais, valor e crescimento. Para orientar. Então, como é que funciona o canvas de hipótese, tá? Vamos lá, fazer uma hipótese de valor. Acreditamos que o cliente X tem problema Y e pagaria ou barrosaria X valor para resolvê-lo. E uma hipótese de crescimento, né? Acreditamos que novos clientes chegarão por meio de X canal ou X mecanismo. Aqui tem um pouco mais detalhado sobre canvas de hipótese, daí como é que faz, né? Então, o cliente alvo é muito parecido com o de uma persona. Né? Só que um pouco mais nichado assim, né? Então, é Uber que pessoas conferem isso também pra viver no serviço, né? Então, já faz, tipo, é, análogos e antílogos também. Nossa, juiz cedo ficou complicado, né?
+
+23:29 - Natali Pires de Campos
+Fazendo a revisão disso aqui.
+
+23:32 - Thomas Adriaan Topfstedt
+Mas canvas pra gente dar uma olhada e e debater, né? Fase dois, construção, sábado integralmente das as horas e horas, né? Então, o conceito de construir, medir e aprender, né?
+
+23:48 - Natali Pires de Campos
+E o SLC que substitui o MVP, né?
+
+23:52 - Thomas Adriaan Topfstedt
+Tava de manhã, café, o energizer matinal, então, aqui é uma dinâmica, né? Rodada de mentoria, mini palestra, cinco tipos de protótipo e aqui eu acho, eu acho bem legal, tá? Que eu achei engraçado, mas eu acho bem legal. Os cinco tipos de de protótipo que o Esqueci o nome dele. Erick Reis. Erick Reis fala. Então, ele fala, tipo, de um startup, tipo, de fumaça, que seja, tipo, uma landing page, tipo, bem simples. Ele fala sobre um vídeo, um estilo concierge, que é você vai e faz o serviço pra pessoa, né? É, mágico de óleo, que é a interface ela aparece sozinha e faz tudo e né, tudo mágico e um estilo pré-venda, né? Então, a gente oferece o produto e não faz nada. Do meu ponto de vista, eu gostei de todos eles, mas eu não teria pré-venda no no evento, que eu acho que é muito fácil. Queria só falar, eu vou fazer isso aqui, quer pagar pra ter no futuro? É. Eu acho que é tipo é uma até que o qrvp bate bastante mas aqui a gente poderia tirar dizer não quero que eu acho que fica muito com uma promessa vazia é mais difícil deles botarem em prática depois que saírem daqui porque como não existe não está criado e depois eles perdem o pique não vão construir de verdade então as outras é mais fácil da continuidade acho que mais perenidade nas startups não sei nem voz da minha cabeça fonte não mas eu acho que a gente deveria é essa que eu eu votaria para remover por exemplo eu acho que isso aqui teria que ir fora mas eu faço as edições depois tá é só para a gente é debater mesmo é que o massa e o pré-venda eles podem ser quase dependendo como se constrói a mesma coisa o que a gente precisa não pode oferecer o pré-venda dependendo de como você constrói tiramos Então a gente faz assim, vamos deixar Concierge e Mágico de Oz. É que o fumaça é mais genérico, né?
+
+26:05 - Natali Pires de Campos
+É, fumaça é genérico, fumaça é uma promessa... Pra tu captar, sei lá, infeliz. Vamos deixar dois, então? Vamos deixar o Concierge e o Mágico de Oz?
+
+26:14 - Thomas Adriaan Topfstedt
+Porque o Mágico de Oz é uma aplicação realmente que funciona, que tá lá, e o Concierge é a pessoa que vai lá e faz o serviço pra outra, né?
+
+26:25 - Bruno renan
+Eu acho que sim, E com a IA também, tipo, não vai ser tão complexo eles criarem isso aqui. Até o vídeo, tipo, se fosse... O vídeo tende a ser bem...
+
+26:37 - Thomas Adriaan Topfstedt
+Tipo, era só dizer para a IA ir lá fazer... E se eles nem iam precisar, eles criam o vídeo também. Então, isso aí.
+
+26:46 - Crislaine Camila Stuepp
+Eu gosto da ideia de ter um pouco mais de desafio assim. Eu colocaria o vídeo com apresentação de protótipo. De protótipo pode ser então tipo assim não ser só vídeo tem que ser vídeo com apresentação de protótipo então tipo assim eu já tenho que mostrar as telas eu tenho que mostrar funcionando tem muita coisa não tem que tá só falando o que que faz e pode ser pode ser um vídeo um vídeo prático né eu sei real o negócio dá para ver o negócio apresentação de protótipo isso e eu acrescentar a construção do próprio produto vai que hardware hardware é mas não necessariamente é produto né então acho que hardware não mas outro nome e no vídeo eu também mudaria o nome agora é considerando outro negócio ele pensar no protótipo alguma coisa assim é mas
+
+27:43 - Natali Pires de Campos
+daí é serviço não entraria no na parte do mágico de ossos que daí entra um serviço digital tipo um SaaS é mais podioso, para mim.
+
+27:55 - Crislaine Camila Stuepp
+Ah, entendi. Mas e se for o produto? O produto é hardware daí, né?
+
+28:02 - Natali Pires de Campos
+Entendi.
+
+28:03 - Thomas Adriaan Topfstedt
+É que daí, na verdade, a solução que eles estão entregando já vai direcionar para como eles têm que entregar. É. Tá. Isso é uma coisa produto, serviço ou experiência.
+
+28:18 - Natali Pires de Campos
+A experiência daí entra no vídeo com o que a Natali falou, que seria o protótipo daí.
+
+28:27 - Crislaine Camila Stuepp
+E o produto pode ter um branch mágico de osso e hardware. Esse serviço pode ser esse aqui também, né?
+
+28:37 - Thomas Adriaan Topfstedt
+Mas daí são duas coisas diferentes, um tem interface, a experiência, conserve a experiência.
+
+28:44 - Crislaine Camila Stuepp
+E o vídeo é o que daí? Ah, se bem que tu tá mostrando ali, né? Se for alguma coisa funcionando.
+
+28:52 - Thomas Adriaan Topfstedt
+Acho que é um ponto pra gente ver depois. Tem que avaliar, é, porque assim, a gente tem que pensar no que tipo, como a gente abre problemas, situações, né?
+
+29:04 - Natali Pires de Campos
+Então, a gente tem que entrar no conceito um pouco de startup, porque, por exemplo, eu melhor aqui na cidade por exemplo no fato que a gente tem grandes problemas de trânsito e não tem elevados nessa cidade é um problema perfeito mas o quanto eu poderia com até onde né poderia estar imaginando aqui pode ser de coisas que as pessoas podem imaginar lá do início né o quanto ela poderia com uma startup mudar isso ou não eu vou fazer assim eu vou pedir para o clóvis é fazer uma interação aqui em cima dessas desses itens da parte de escolha do tipo do protótipo para experimento e trazer para gente opções e detalhar um pouco mais do que
+
+29:51 - Thomas Adriaan Topfstedt
+que fala isso aqui dentro do livro e poderia talvez pedir para ele exemplificar baseado numa cidade de 300 mil habitantes que tipo de problemas as poderosas poderiam levantar só para gente eu ia dizer realmente se a gente não tem de forma digital as ideias dos participantes das últimas edições, né? Se não podia aplicar aqui para ver se todas se enquadram em algum. Eu acho que eu tenho em papel ainda.
+
+30:19 - Crislaine Camila Stuepp
+Do último?
+
+30:19 - Natali Pires de Campos
+Do último sim, tenho guardado aí. Acho que estava na caixa, vou lá ver depois. Aqui é um pouco do canvas de experimentos aí, né?
+
+30:28 - Thomas Adriaan Topfstedt
+Mas acho que é uma coisa que a gente pode avaliar com mais calma já que tu falou de problema lembrando segundo a questão da nossa health tech morreu e eu acho que como a gente foi trazido assim né essa parte do ralph eu acho que a gente vai ter que continuar com uma pegada ralph nesse primeiro para não ficar feio né com o pessoal do Senac.
+
+31:01 - Natali Pires de Campos
+É isso que eu ia falar, o Senac se é que vai apoiar isso. Claro, é uma metodologia legal, mas é que eles queriam do Help, né? É, então, eu acho que vai ter que ser...
+
+31:11 - Thomas Adriaan Topfstedt
+Tem que ir mantendo pro Help. Isso, a gente vai ter que dar uma pendida pro Help, né? Tipo, trazer a galera de Help pra não ficar ruim com a gente, com o pessoal do Senac, né? Foi trazida essa demanda, a gente vai ter que arcar com isso aí, né? Essa não vai ter como fugir.
+
+31:28 - Bruno renan
+Eu acho que o Diogo compra a ideia de um evento um pouco diferente, tá? Eu acho que ele vai de boa nessa, mas a gente vai ter que ficar com o Helge.
+
+31:41 - Thomas Adriaan Topfstedt
+Tá. Só pra gente realmente esclarecer e justamente falando do produto, né? Os produtos e ideias vai estar dentro dessa linha também. Sim, perfeito. Nesse primeiro, pelo menos. Entra no segundo bloco da parte de construção e validação, né? Construção da SLC, quatro horas, eu acho que é um bom tempo pra construir uma SLC, ainda mais num grupo de, sei lá, cinco a seis pessoas, né?
+
+32:05 - Natali Pires de Campos
+É, Cloud Code a mil, dá uma sessão inteira, se a pessoa ver bem, dá pra fazer duas. É, mas aí depende da maturidade de IA de cada grupo também, né?
+
+32:15 - Thomas Adriaan Topfstedt
+Com certeza, acho que é uma coisa que a gente vai ter que mensurar também na hora de fazer um, um né? Eh, parte de saia do prédio daí então, então, de manhã, eh, quer tarde ainda, né? Então, até as quatro horas da tarde, eles tem que tá com o MVP pronto, é esse MC pronto e ter saído já também, né? Uhum. Talvez um ajuste aqui no nessa parte, né?
+
+32:39 - Natali Pires de Campos
+De fazer essas duas coisas meio que junto, né?
+
+32:43 - Thomas Adriaan Topfstedt
+E preenchendo o canvas e não dá três horas, né? Aqui dá duas horas, né?
+
+32:49 - Unidentified Speaker
+Tá.
+
+32:49 - Thomas Adriaan Topfstedt
+Então, é um ajuste de uma revisão de horários aí, marcado, né? Pra gente dar uma olhada. Checkpoint MBL, que os dados de C vão mudar a hipótese. E daí volta, né? Interação ou segunda volta da MBL. Com base de aprendizados, equipe, ajustar esse C, fazer a segunda rodada de validação, pode ser remota ou digital à noite.
+
+33:17 - Unidentified Speaker
+Tá.
+
+33:18 - Thomas Adriaan Topfstedt
+Pode sair do prédio, tal, jantar rápido, checkpoint, interação, check-out do dia, encerramento formal. Domingo, parte da apresentação, conceito de demonstração aprendizado validado, o objetivo é apresentar não uma ideia de aprendizado, mas um jornal de aprendizado com evidências. O que os jurados querem ver não é um PowerPoint bonito, eles querem ver evidências, o que vocês acham, o que vocês testaram, o que descobriram, o que fariam a seguir. Uma atividade de preparação do pitch, problema, hipótese, eu experimento aprendizado, se pivotaram e próximos passos. Pitch final, apresentações de 5 minutos, mais 3 de pergunta da banca por equipe, deliberação do juro de meia hora, banca avalia com base nos critérios limpo, encerramento e premiação. Aqui fala mais do... Eu pude ler essa parte só aqui do domingo, né? Agora que eu vi. Domingo de manhã, gente, perdão aqui. Eu não tinha visto que eu rolei isso tudo. Certo. Workshop, métricas que importam. Então, o professor falou sobre métricas astronáveis versus métricas de vaidade, né? Então, 200 pessoas viram o brochure, 12, 13 pessoas disseram que pagariam. No set de 500 visitas, 8% das visitas ficaram incompradas. Análise dos dados por equipes, né? Então, cada equipe consolida seus dados e faz um diário de aprendizado. Mentoria de dados. Então, os mentores ajudam as equipes a interpretar os dados. Evitar viagem de confirmação, ver se eles vão pivotar, mas nessa altura do campeonato não dá pra pivotar mais, né? Já é domingo de manhã. Então, acho que tem que, tem que mover isso aqui pra sábado. Domingo à tarde, daí vem o que eu falei, preparação do pitch, pitch final e deliberação do julho. E a ideia aqui, a princípio, então, é que o evento acabasse seis e meia da tarde, né? Eu acho que ele pode se estender mais pra frente no domingo, né? Não tanto quanto o SW, pelo amor de Deus, oito e meia tem que ter acabado. No máximo sete e meia, no máximo. Sete e meia? Esse horário tá bom aí. Que a gente vai atrasar mesmo um pouquinho? É, eu ia dizer, na verdade eu acho que o SW também prevê acabar mais ou menos esse horário. Eu atraso que leva até as dez quase.
+
+35:36 - Crislaine Camila Stuepp
+Ah tá, então deixa assim mesmo.
+
+35:38 - Thomas Adriaan Topfstedt
+É. Tá, então resumindo por blocos, é sexta-feira parte de inição, problema, equipe, hipótese, sábado construção, SLC, validação, inclusive PML, domingo de manhã é medição, dados, métricas, pivotal ou não, domingo à tarde, pitch, júri e premiação. Eu faria a única questão que se vai ter pernoite, a parte do sábado a gente puxa às vezes um pouco mais, puxa o evento um pouco mais, né, para ter mais tempo de mais tempo de premiações, mais tempo de pós, né, assim, de finalização do que a gente tem na correria do outro, né? Porque eles podem passar no que tá atrás do negócio também, né?
+
+36:26 - Natali Pires de Campos
+Sim, eu acho que a parte de pivotar deveria vir aqui na parte de iteração e segunda volta do BML. Eu acho que aqui é um que tem tempo ápio pra ir atrás e validar outra coisa, né? Domingo de manhã já não dá mais tempo. Dá, mas vai ficar muito corrido. É, vai ficar muito corrido. Então, Clódio ia valir pra colocar aqui, na parte de interação e segunda volta do PML.
+
+36:57 - Thomas Adriaan Topfstedt
+Vamos ver, datas operacionais, orientação sugerida, então, dois cofres por dia, onze de jantar no sábado, três da manhã no domingo e tal. Materiais por equipe, post-it, canvas impressos, diário de aprendizado impresso, wi-fi tomadas, timers, sino, buzina, música para ambiente de trabalho, projetor para pitch, microfone, permanente opcional e daí a parte se a gente quer ou não levar isso aqui junto, mas daí eu acho que cada um traz o seu, né?
+
+37:27 - Natali Pires de Campos
+Se for o caso.
+
+37:29 - Thomas Adriaan Topfstedt
+A gente acha um patrocinador. A gente tenta disponibilizar pelo menos alguma coisa. Aqui tem alguma coisa de diagramas visuais, mas eu nem vou passar isso aqui pra vocês, porque eu não tive tempo de ver tudo, então eu acho que é uma oportunidade de a gente ler todo mundo no seu tempo e validar, tá? Tem guia do facilitador também, então mostrando o que que deve fazer, o que que não deve fazer. Eu acho que também é um negócio pra gente dar uma olhada aí, tipo, trazer fazer aqui. Como a Nath falou, talvez realmente a gente acabe sendo os primeiros facilitadores. Eu não vejo de outra forma, porque para você ensinar toda uma metodologia nova para alguém... Isso, essa LCC é louca. Então, checklistzinho, metodologia que a gente viu aqui, plano de contingência, então, da parte de que podem vir a ocorrer. Então, o que a gente faz, né? Então, A, vamos com a validação do saia do prédio, chuva. Quando B, saia do prédio indoor, equipes abordam outras equipes. Se esse lugar for um shopping ou comercial, pode validar dentro do prédio. E validação digital. A gente geralmente corre pra validação digital, né?
+
+38:51 - Natali Pires de Campos
+Mas é bom já ter também outras... Guarda-chuva. Outras opções.
+
+38:56 - Thomas Adriaan Topfstedt
+Na parte da programação noturna, daí se a gente vai fazer o Corujão, também tem aqui, então, sexta-feira, sábado, né, tem atividades pós-evento e checklist de infraestrutura.
+
+39:22 - Thomas Adriaan Topfstedt
+É, a gente pode fazer no pernoite ou não, isso a gente vai descobrir lá com o parceirinho, com o parceiro, se é possível ou não, se dá muito problema, porque pode dar problema também daí. Sim, aqui são partes de aceleração daí, não sei se é muito foco nosso né, mas às vezes pode ser para guiar alguma equipe que tá buscando uma forma de Cabe aqui também. Parte do pós-evento, então, plano de continuidade, follow-ups, equipes premiadas, no primeiro mês, segundo ou terceiro mês, longo prazo, né?
+
+40:00 - Unidentified Speaker
+Tudo mais.
+
+40:01 - Natali Pires de Campos
+Coisas que a gente pode integrar com a EuroValley. Tem também briefing do pré-evento, então, templates que a gente pode imprimir já, sugestão de cores, tipografia, som visual, né?
+
+40:16 - Thomas Adriaan Topfstedt
+Todos os templates pra gente imprimir, então tipo, o do diário de amigo do lado. O checklist pré-evento, né? Então, o que que a gente precisa montar? Oito semanas antes começa. Legal. O dia do participante é legal, hein? É, então, tem tem bastante coisa. O glosário tá aqui no meio também. O dia do participante, a gente tem assim, tipo, a gente podia fazer tipo uma aula magna, assim. A ideia é que o dia o dia do participante, ele meio que seja apresentado no Bootcamp. Ah, legal. Essa é a ideia, assim. Que, inclusive, a gente tem que definir a data do Bootcamp, né? A gente tem que definir a data do evento, se vai manter. Bom ponto, gente. A data dele. Daí, definir a data do Bootcamp.
+
+41:12 - Bruno renan
+a régua final, né?
+
+41:13 - Thomas Adriaan Topfstedt
+É, o pior é que a gente não tem outra data, né? Tem no final de semana seguinte, se alguém quiser.
+
+41:20 - Bruno renan
+A Crislaine quer no final de semana seguinte, ó.
+
+41:22 - Thomas Adriaan Topfstedt
+Ah, eu não sei o que eu quero, só que se mudar, eu talvez mude minhas férias, né? Então, assim, agora que se a gente realmente não vai, se a gente vai estar no negócio nosso, não sei o que que isso muda no meu cérebro, mas pra mim parece que daí eu posso mudar minhas férias. Não sei, algo O que é isso?
+
+41:43 - Crislaine Camila Stuepp
+Vocês acham ruim 18, 19, 20?
+
+41:47 - Thomas Adriaan Topfstedt
+Que já tava?
+
+41:48 - Crislaine Camila Stuepp
+É aniversário do Thomas.
+
+41:50 - Natali Pires de Campos
+Não, gente, por mim tá tudo certo. Eu tenho...
+
+41:55 - Bruno renan
+É aniversário do Thomas e aniversário da nossa metodologia.
+
+42:00 - Thomas Adriaan Topfstedt
+É, vai ficar pra sempre marcado.
+
+42:03 - Crislaine Camila Stuepp
+É, Thomas, vai ficar marcado. Mas a única opção se fosse, quer dizer, tem duas opções se a gente gostar, que seria um mês antes, que daí era no dia 15, né? Isso, dia 15 era evento de 10 anos, dia 19 ali, e no dia 26 também daria, se não me engano.
+
+42:29 - Natali Pires de Campos
+Ou agosto 15 ou setembro...
+
+42:31 - Thomas Adriaan Topfstedt
+Ou setembro 26, são essas duas outras que teriam.
+
+42:35 - Unidentified Speaker
+Fora disso, é completamente inviável.
+
+42:38 - Bruno renan
+Por causa de eleição e... Eu acho que 26 é uma semana antes das eleições.
+
+42:46 - Thomas Adriaan Topfstedt
+Será que não pode ser que tenha um pouco de repercussão, de tipo, muita gente meio, né, se movimentando, que der meio em cima, assim, eu acho que...
+
+43:03 - Crislaine Camila Stuepp
+Então deixa 19, porque dia 15 é antes do Raktown. Raktown é quando? Raktown é 7 de setembro.
+
+43:10 - Natali Pires de Campos
+Até 7 de setembro, né? Começa dia 2.
+
+43:13 - Unidentified Speaker
+Isso.
+
+43:13 - Thomas Adriaan Topfstedt
+2 não, dia 3, sei lá. Então assim, é... 4. Não, dia 4 é o dia 7 de setembro.
+
+43:21 - Crislaine Camila Stuepp
+Quem tá em mais de uma org aí que diz assim, quer mais espaço ou quer... Eu também tô em mais de uma org. Já tô, já fiz algumas, muitas. Deixa eu ver uma coisa aqui. O que aconteceu na minha agenda? Não, porque a gente tem que pensar também, não é só questão da data, né?
+
+43:44 - Thomas Adriaan Topfstedt
+Do quanto a gente vai estar disponível e para patrocínios, para questão de apoios, a questão de estamos vendendo dois eventos ao mesmo tempo, essas coisas assim, sabe?
+
+43:55 - Crislaine Camila Stuepp
+Então, tipo, é bom pensar um pouquinho.
+
+44:00 - Crislaine Camila Stuepp
+Ó, o evento do CLA de Floripa vai ser dia 29 de agosto. Ele emendou esse Startup Summit.
+
+44:12 - Natali Pires de Campos
+Isso, ele emendou o Summit, exatamente.
+
+44:16 - Crislaine Camila Stuepp
+Então assim, pra mim dia 15, ok?
+
+44:21 - Natali Pires de Campos
+Eu acho que eu iria, continuaria em janeiro. Dia 19, ok também. Muito bem. Então deixa 19. Eu acho que deixa 19 com a questão de captação de patrocínio, tá? A gente já tem pouco tempo pra captação de patrocínio. Eu até poderia, o máximo que eu faria é jogar um final de semana pra frente.
+
+44:45 - Crislaine Camila Stuepp
+É o máximo. É, então. Ou 25, 26, 27, assim, máximo. Deixa 19, então. Deixamos 18 e 19. Já estamos aí, já tem a data da falada lá com o SENAC, Isso, assim, esse mês que vem a gente, né, vê que, tipo, nossa, não, enviava fazer 19, aí a gente avalia, mas por enquanto deixa 19. Então tá, deixa 19 e 20 por enquanto.
+
+45:08 - Natali Pires de Campos
+Mas deixa no calendário da Textiles, né?
+
+45:10 - Bruno renan
+Vamos deixar no calendário, eu acho que a gente retira de lá ou, tipo, só nem retira e depois, tipo, se alguém perguntar, a gente fala, não, não é o SW, porque vai vir essa pergunta, não é o SW.
+
+45:23 - Thomas Adriaan Topfstedt
+isso vai chegar em algum momento e falar então a gente viu a gente vai apanhar um pouquinho aí nesse processo de qualquer forma né a gente não porque a gente viu que o sdab não ia dar tanto engajamento pessoal vai me saturar outra coisa esqueci de tirar de lá tá falando de política e eu conheci a secretária do desenvolvimento de inovação legal né e que o cw a gente não tem muito mas com outras coisas talvez se a gente conseguir se quisesse talvez apoios da prefeitura olha assim a realização e apoio e talvez conseguiria para esse evento é legal eu vi que o meu nome é mais criativo eu vou fazer um evento na praia Vai. Alguém já pegou.
+
+46:22 - Natali Pires de Campos
+Mas essa história de lugar aberto, olha, depois que eu passei lá eu achei...
+
+46:34 - Thomas Adriaan Topfstedt
+Não.
+
+46:35 - Natali Pires de Campos
+É muito caos para organizar a gestão de risco. Porque já é chuva e já é risco. A gente vai passando treinamento para os facilitadores também, pelo que eu vi aqui?
+
+46:53 - Bruno renan
+Tem que passar treinamento para facilitador, não. Aquelas conversas com o mentor daí, né? Se a gente for facilitador é que a gente precisa treinar, né?
+
+47:03 - Natali Pires de Campos
+A gente é um facilitador, né? A gente só tem que ler o livro. É, de qualquer jeito, ler o livro. Fazer tipo meio que uma simulação mental só num quadro agora o banquinho vai para cá agora a gente tá nessa fase a gente vai ter que fazer umas reuniões de planejamento para estruturar né e poderia até não vamos ter mascote manter nossa nossa não tem uma corte tem que começar a pensar fazer a lojinha e precisamos definir É isso que eu ia falar. Acho que hoje o mais importante é definir o nome. Daí a gente já deixa pelo menos o domínio já de um jeito. Eu acho que mantém Startup Rush com algum tipo de imagem agregada nele.
+
+47:54 - Crislaine Camila Stuepp
+Tem que pensar a estrutura da logo toda. Startup Rush entra naquele dilema de novo do domínio, né? Mas ele tinha uma forma que dava, né? Lembra?
+
+48:04 - Natali Pires de Campos
+Um 2H, eu acho. Eu acho que era com dois Hs.
+
+48:08 - Crislaine Camila Stuepp
+Startup Run com dois Hs.
+
+48:10 - Natali Pires de Campos
+Mas Startup Run também é uma? A gente já viste o Run.
+
+48:14 - Thomas Adriaan Topfstedt
+O Run tá em moda porque tem muita coisa de corrida, coisa de grupo de corrida.
+
+48:20 - Bruno renan
+O problema é que o pessoal, o meu medo é justamente esse, o pessoal achar que é uma corrida. É, putz.
+
+48:28 - Natali Pires de Campos
+Então vai ter um grupo Run de Startups. Corrida de Startups. Corrida de Startups. Comunidades e minicomunidades dentro, corredores.
+
+48:38 - Thomas Adriaan Topfstedt
+Startup, o que pode significar apressado?
+
+48:44 - Unidentified Speaker
+Hurry.
+
+48:45 - Natali Pires de Campos
+Disponível.
+
+48:46 - Bruno renan
+E sei lá, agora saindo da outra coisa, solution, uma coisa assim, sabe, de soluções, parece muito venda de empresa, startup solution, parece, acho que Levis ou Google, alguma coisa assim, startup Google, o Harry eu só falei pela tradução mas tem que cuidar também para não ser uma frase muito difícil assim né, que o povo não vai, vai ser fácil de Startup to Go está disponível.
+
+49:32 - Thomas Adriaan Topfstedt
+Startup to Go eu acho que...
+
+49:41 - Natali Pires de Campos
+Startup Go Rush também está disponível.
+
+49:49 - Thomas Adriaan Topfstedt
+Go Rush dá.
+
+49:54 - Bruno renan
+E não, é difícil de achar.
+
+49:58 - Crislaine Camila Stuepp
+Startup Go Rush. É, daí o nome do evento pode ser Startup Go Rush. Que é os 54 horas. E daí pode ser só Startup Go, né?
+
+50:17 - Unidentified Speaker
+O rushinho é o escape.
+
+50:21 - Bruno renan
+E se, não... Startup Go, acho legal, porque ela é uma expressão que não existe em inglês, mas ela é separadamente tudo.
+
+50:32 - Thomas Adriaan Topfstedt
+Gente, Absolute Cinema. A gente registra Startup Go e daí as modalidades vão ser subdomínios.
+
+50:39 - Natali Pires de Campos
+Então, Rush.Startup Go é o Rush, é os 54 horas.
+
+50:44 - Unidentified Speaker
+O Start é o Bootcamp.
+
+50:46 - Thomas Adriaan Topfstedt
+Pode ser, pode ser o Start, pode ser o Bootcamp. O Week pode ser uma modalidade week, ou...
+
+50:55 - Unidentified Speaker
+é, sei lá. Egg, pode ser a incubação. Entendeu?
+
+50:58 - Thomas Adriaan Topfstedt
+Vamos pensar na previsão.
+
+51:00 - Crislaine Camila Stuepp
+A gente vai criar três indicias séries ou só para o domingo?
+
+51:05 - Unidentified Speaker
+Oi?
+
+51:06 - Thomas Adriaan Topfstedt
+A gente vai criar três indicias séries ou só para o domingo?
+
+51:11 - Natali Pires de Campos
+Só para o domingo. Tem que ver se você pegou ou está disponível no Insta, né?
+
+51:17 - Thomas Adriaan Topfstedt
+Ah, tá. Então daí viraria, por exemplo... Agora na abreviação, a gente fala SW, então seria SG, se a gente fosse falar, SGR se fosse Rush, SGS se fosse Start, SGS se fosse Egg, SGEG, SGRush. Gente, eu tô só falando em voz alta pra gente ouvir a sonoridade, tá?
+
+51:46 - Unidentified Speaker
+SGRush. SG Egg.
+
+51:49 - Bruno renan
+SG já parece um ESG junto, né? Startup Go Rush tá disponível no Instagram.
+
+52:00 - Thomas Adriaan Topfstedt
+Isso é Startup Go?
+
+52:03 - Unidentified Speaker
+Não.
+
+52:04 - Crislaine Camila Stuepp
+Quando tu falou do ESG e SG tem uma proximidade, né?
+
+52:12 - Unidentified Speaker
+É.
+
+52:13 - Natali Pires de Campos
+também, né?
+
+52:14 - Crislaine Camila Stuepp
+A gente pode ser ecologicamente correto também. Cada um leva o seu... O pessoal vai limpar e ver se o cara quer achar que é de... Ó, a gente já vai diminuir papel, porque não vai ficar colando na parede, vai usar um aplicativo. Cada um leva o seu copinho, ou a gente dá no evento reutilizável. A gente já vai ter essas métricas, então. SG Rush eu gostei.
+
+52:41 - Natali Pires de Campos
+Startup e também gostei e a gente perdão e certa pegou não está disponível só está pegando não não é no domínio no caso é só que o gol rush está só tá pegou o rush estaria e mas colega eu botei ali no google simplesmente a palavra e pedir tradução ele disse aqui é um índio existe uma expressão mas se entende se os termos né dizendo assim ela é um dia com pressa de aceleração eu acho que traduz bem o que a gente quer o que a gente quer um domínio poderia ser startup igual rush e o insta também se tratar pegou rush aí fecha as duas coisas igual eu acho que é o mais certo para
+
+53:34 - Thomas Adriaan Topfstedt
+a gente fazer isso de uma pessoa eu acho bem também, quando a gente é brasileira, algumas expressões, que nem tu falou do Toró de Ideias, né, Natali? Só que o problema é...
+
+53:46 - Unidentified Speaker
+Toró de Ideias é bom. Toró de Parpite.
+
+53:49 - Natali Pires de Campos
+Só que aqui a gente não tá numa região onde a gente é dono da expressão, né? Isso pega um pouco. Então as pessoas não são tão... Não sei se a gente não estaria, sei lá, roubando a nossa própria cultura. Tu diz no que?
+
+54:07 - Bruno renan
+Dos termos?
+
+54:08 - Thomas Adriaan Topfstedt
+É, tipo, é que tem termos que são mais, sei lá, mais nordeste, mais norte, mais... E a gente da Santa Catarina não tem tanto termo assim, né?
+
+54:17 - Natali Pires de Campos
+A gente é mais...
+
+54:18 - Bruno renan
+É não, Blumenau, né? Europeizado, é.
+
+54:20 - Crislaine Camila Stuepp
+Blumenau, que se não viu foi lá do Tchê e do Tchô da minha terra. É, isso. É o local que a gente tá, no caso, isso aí. Isso, né? Estepô também, né? Mas é que Blumenau tem um... Não tem uma coisa de não ter seus próprios termos, né? Então, mas, talvez, né? Show! Eu acho que fica legal, porque assim, se você for vender franquia, fica bom também, SC, já gostei, já...
+
+54:48 - Unidentified Speaker
+Macronix.
+
+54:48 - Crislaine Camila Stuepp
+Vamos criar, então, um Instagram, só que, tem já o domínio ali, não tem coisa?
+
+54:54 - Natali Pires de Campos
+Ah, tá, pegou hoje.
+
+54:56 - Crislaine Camila Stuepp
+Então, se a gente voltar, a gente já tem um Instagram privado, entendeu? Já tô fazendo. Eu adoro esse equipe. Olha bem, isso aqui tá construído em quantos dias, gente?
+
+55:09 - Natali Pires de Campos
+Tá doido.
+
+55:10 - Crislaine Camila Stuepp
+Isso aqui a gente vai ter que fazer três reuniões, né?
+
+55:16 - Natali Pires de Campos
+Vamos definir toda a parte a seguir. O plano principal é bom, né? Cada povo é muito bom. Agora a gente vai ter que dividir em partes, né? Hoje eu acho que a gente tem que decidir o nome e os domínios, tá? Pra gente começar as outras etapas.
+
+55:38 - Bruno renan
+Tá passeando ainda, Crislaine? Não, tô em Blumenau já. Eu cheguei domingo. É desfrutoso, eu só postei depois.
+
+55:46 - Thomas Adriaan Topfstedt
+Não deu tempo ainda, mas tá lá muito bom.
+
+55:50 - Natali Pires de Campos
+Quando eu posto? É tipo isso, assim. Tem umas coisas que até hoje vocês não viram ainda.
+
+55:57 - Bruno renan
+E nem sei se verão já tá falando de aniversário. Hoje eu tô bem aceita, né? Bem isso.
+
+56:05 - Thomas Adriaan Topfstedt
+Acontece.
+
+56:06 - Natali Pires de Campos
+Então tá, desmarcado o Bootcamp da agenda.
+
+56:09 - Bruno renan
+Aí a gente vai ter que estruturar ele pra ser dentro do outro roteiro, né, inclusive. Vou ver se eu faço as alterações ali que a gente comentou. Mais de horários, né?
+
+56:24 - Natali Pires de Campos
+para poder ajustar e ficar dentro do ideal.
+
+56:28 - Crislaine Camila Stuepp
+Depois a gente constrói a questão de termos mais refinados para a gente fazer a escala das pessoas em vez de ser pivotais. Então a gente cria os termos, mas dentro da linha de acelerar, correr dentro do que a gente está fazendo. Só confirmando, Sim.
+
+56:53 - Unidentified Speaker
+R-U-S-H.
+
+56:54 - Natali Pires de Campos
+Tá, vamos pensar numa data para o bootcamp então.
+
+57:03 - Thomas Adriaan Topfstedt
+A gente vai falar daí dentro da temática ainda de ação e problema daí?
+
+57:19 - Natali Pires de Campos
+nos novos termos, eu acho, Den. É, eu acho que é um pouco adequado dentro dos novos termos, mas sim. E seria legal o TOC, manter o TOC, que é um modelo diferente também. Passa ali no grupo já o nome do livro.
+
+57:34 - Thomas Adriaan Topfstedt
+Qual que é o livro que o pessoal fala também no CLA?
+
+57:39 - Bruno renan
+Qual que é o outro livro?
+
+57:41 - Thomas Adriaan Topfstedt
+Esse é outro, deixa eu ver se eu Esse que tu fez em cima do stratap enxuta? Esse é em cima do stratap enxuta, mas tem mais um.
+
+57:54 - Unidentified Speaker
+Tem mais um, sim.
+
+57:56 - Natali Pires de Campos
+Que eu não sei te dizer qual é, mas a Crislaine vai descobrir.
+
+58:02 - Unidentified Speaker
+Isso.
+
+58:03 - Natali Pires de Campos
+Eu tenho fé que a Crislaine vai descobrir qual é.
+
+58:08 - Thomas Adriaan Topfstedt
+De preferência hoje ainda, tá? Receita previsível, tá aqui.
+
+58:12 - Crislaine Camila Stuepp
+É legal que ela fala com ela mesma, na terceira pessoa.
+
+58:18 - Bruno renan
+Sim.
+
+58:19 - Natali Pires de Campos
+É que eu sei que eu salvei.
+
+58:23 - Crislaine Camila Stuepp
+Além desse livro que a Joy se indicou, tem o Startup Community, que tá em PDF em português, nesta pasta, junto com outros materiais legais.
+
+58:36 - Thomas Adriaan Topfstedt
+É mais pra comunidade.
+
+58:39 - Natali Pires de Campos
+Startup Community, mas tem mais coisa.
+
+58:44 - Thomas Adriaan Topfstedt
+Deixa eu ver o... Eu acho que tem muita comunidade.
+
+58:53 - Unidentified Speaker
+Além desse...
+
+58:54 - Crislaine Camila Stuepp
+Caraca, Vini, ótima pergunta. Startup Communities, daí...
+
+59:01 - Natali Pires de Campos
+Alguém mandou esse aqui,

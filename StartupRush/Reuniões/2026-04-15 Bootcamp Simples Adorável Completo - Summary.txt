@@ -1,0 +1,119 @@
+Bootcamp Simples Adorável Completo
+Wed, Apr 15, 2026
+
+Summary:
+
+A reunião teve como objetivo definir o formato pedagógico, a estrutura de mentoria e a logística operacional do bootcamp centrado no conceito "simples, adorável e completo" como alternativa ao MVP tradicional. O grupo validou a proposta metodológica apresentada por Claudio, acordou uma combinação de mentores fixos e rotativos para garantir continuidade e troca de ideias, e tratou de recrutamento e parcerias, com interesse de Ana para role de producer e sugestão de Letícia para marketing e artes.
+
+Em sequência, a equipe discutiu posicionamento público e riscos de comunicação em relação a iniciativas como SW/Techstars, optando por um rollout controlado e validação de demanda via lista de espera. Foram detalhados fases e cronograma: imersão e formação na sexta, construção e validação prática no sábado, e medição, preparação de pitch e premiação no domingo; também foi adotado o SLC em vez do MVP e definidos tipos de protótipos (Concierge, Mágico de Oz, vídeo). Aspectos operacionais incluíram votação digital, uso de aplicativo, infraestrutura, plano de contingência, debate sobre local aberto versus fechado, necessidade de treinamentos para facilitadores, escolha de nome (preferência por variações de "Startup Go" e "Rush") e registro de domínios e perfis privados. O planejamento será dividido em reuniões subsequentes para detalhar roteiro, horários e materiais.
+
+
+Chapters & Topics:
+
+Conceito SLC e justificativa
+O encontro abriu com a apresentação do conceito "simples, adorável e completo" como alternativa ao MVP, explicando a proposta de entregar uma versão 1.0 com UI/UX agradável e escopo limitado. Houve concordância inicial sobre a relevância do conceito no contexto atual, especialmente com IA influenciando produto e experiência.
+* Adotar o conceito "simples, adorável e completo" em vez do MVP tradicional para entregar uma versão 1.0 mais polida e completa.
+
+Reações e alinhamento de interesse
+Participantes reagiram positivamente ao conceito e comentaram que a novidade pode gerar curiosidade no público. Foi observado que a terminologia menos conhecida pode diferenciar a iniciativa e atrair atenção.
+
+Metodologia, mentores e facilitação
+O grupo revisou a metodologia proposta por Claudio, identificando diagramas, estimativas de mentores/facilitadores e o papel de cada um. Surgiram propostas operacionais, como ter um grupo de mentores fixos e outro rotativo, e a constatação de que os organizadores precisarão facilitar a primeira edição para ensinar o formato.
+* O modelo proposto prevê vários facilitadores e mentores com estimativas de 6–8 mentores e gestão por grupo/facilitador.
+* Foi sugerida a criação de dois grupos de mentores: um fixo durante toda a jornada e outro rotativo para circulação de ideias.
+* A equipe concordou que, na primeira edição, a facilitação inicial deve ser feita pelos próprios organizadores para garantir execução alinhada.
+
+Recrutamento e parcerias locais
+Foram relatadas conversas com potenciais colaboradores; Ana mostrou interesse em atuar como producer e Letícia foi apontada como parceira de artes e marketing. O time avaliou implicações de integração desses perfis e impactos na comunidade local.
+* Ana demonstrou interesse em atuar como producer de eventos e foi identificada como possível executora prática das atividades.
+* Letícia foi identificada como parceira de marketing/artes e potencial patrocinadora em troca de visibilidade.
+
+Posicionamento, marketing e validação
+A equipe discutiu riscos de comunicação ao apresentar um novo formato próximo ao SW/Techstars e a necessidade de construir autoridade para justificar a metodologia. Foi destacada a importância de um rollout de comunicação controlado, de gerar suspense antes do edital e de validar demanda via lista de espera ou mecanismo similar; também foram revisadas fases e atividades do cronograma base.
+* Há necessidade de posicionamento público claro e de construir autoridade antes do lançamento para evitar confrontos com formatos existentes como o SW/Techstars.
+* A comunicação de lançamento deve ser coordenada e gradual para gerar curiosidade sem revelar o formato prematuramente.
+* Existe um cronograma base e fases temáticas (ex.: ignição, lift off) que precisam ser adaptadas e detalhadas para o material de apresentação.
+* Validar demanda por meio de lista de espera ou mecanismo similar foi recomendado antes do lançamento público.
+
+Pitches, votação e formação de equipes
+Debateu-se o número máximo de pitches e o tempo por apresentação para garantir fluidez do evento, com sugestão de cerca de 45 pitches rápidos e limitação em 30 como teto. Foi proposto um sistema digital de votação e um aplicativo que organize inscrições, fotos de perfil e formação automática de grupos para facilitar a montagem de equipes.
+* O formato do evento deve limitar o número de pitches para manter timing e qualidade das apresentações
+
+Canvas de hipótese e orientação das equipes
+Apresentou-se o canvas de hipótese para orientar cada equipe a formular hipóteses de valor e de crescimento e definir cliente-alvo mais nichado, incluindo exemplos e analogias para clarificar o uso do modelo. Também foi mencionada a necessidade de facilitadores para guiar a aplicação da metodologia.
+* O canvas de hipótese será usado para orientar times na definição de hipótese de valor e de crescimento
+* O SLC substitui o MVP na fase de construção e quatro horas foram sugeridas para a sua construção em equipe
+
+Tipos de protótipo e debates sobre formatos
+Discutiram-se cinco tipos de protótipo inspirados em Eric Ries, com preferência por manter Concierge e Mágico de Oz e incluir vídeo que mostre protótipo funcional; ponderou-se adaptar os formatos a produto, serviço ou experiência e a influência da IA na criação de protótipos.
+
+Cronograma de atividades e duração dos blocos
+Planejaram-se blocos por dia: sexta para iniciação e formação de equipes, sábado para construção da SLC e validação, e domingo para medição e preparação de pitch, com sugestões de alocar a medição e pivotagem para sábado para evitar sobrecarga no domingo. Também discutiu-se a duração do evento no domingo e o possível pernoite.
+
+Checkpoints MBL, mentoria e critérios de apresentação
+Definiu-se checkpoint de MBL para atualizar hipóteses com base em dados, rodada de mentoria para interpretação de métricas relevantes e a exigência de que o pitch final apresente evidências e diário de aprendizado em vez de slides apenas. Foi citado tempo para apresentação e deliberação do júri.
+* É necessário ajustar horários e mover atividades de medição para sábado para evitar acúmulo no domingo
+* O cronograma proposto é: sexta-feira iniciação, sábado construção/validação, domingo medição e pitch com júri e premiação
+
+Logística, contingência, pós-evento e definição de data
+Foram listados materiais necessários por equipe, opções de validação em diferentes ambientes, plano de contingência para chuva e validação digital, possibilidades de pernoite e ações de pós-evento como follow-ups e integração com parceiros; finalizou-se com a necessidade de definir a data do Bootcamp.
+* Foram identificadas necessidades logísticas: materiais por equipe, projeção, microfone, infraestrutura de rede e patrocinador
+
+Escolha de datas e conflitos
+O grupo discutiu propostas de datas alternativas e o impacto sobre férias pessoais e eventos concorrentes. Avaliaram restrições como eleições e eventos locais e chegaram a uma decisão provisória por 19, com 18 e 20 como opções complementares.
+* A captação de patrocínio é uma restrição crítica e recomendou-se manter 19 para não comprometer prazos de captação.
+* O grupo optou provisoriamente pela data 19 com 18 e 20 como alternativas.
+
+Impacto em captação e calendário
+Debateu-se a necessidade de registrar a data no calendário do projeto e a preocupação com captação de patrocínios em prazo reduzido. Concordaram em manter a data visível e preparar comunicação para evitar confusão com outros eventos e órgãos.
+
+Local e gestão de riscos
+Foi discutida a viabilidade de espaço aberto e os riscos associados como chuva, além da necessidade de treinamentos para facilitadores e conversas com mentores. Concluiu-se que a organização exigirá simulações e estruturas de apoio para mitigar riscos.
+* Foi levantada preocupação com riscos de eventos em espaço aberto e complexidade de gestão de risco e logística.
+* Será necessário treinar facilitadores e organizar simulações e reuniões de planejamento para estruturar o bootcamp.
+
+Nome, identidade e domínios
+O grupo priorizou definir o nome e reservar domínios antes das próximas etapas. Foram propostas variações como "Startup Rush", "Startup Go Rush" e "Startup Go" e discutida a sonoridade, disponibilidade de domínio e potencial confusão com termos existentes.
+* Decidiu-se priorizar a definição do nome do evento e registro de domínios antes de avançar com outras etapas.
+* "Startup Go" com modalidade "Rush" foi a opção de marca mais bem recebida e já verificada em redes como Instagram.
+
+Considerações culturais e posicionamento regional
+Debateram a adequação de nomes regionais e a percepção cultural dependendo da origem dos termos, considerando identificação local versus alcance nacional. Avaliaram implicações para franquia e posicionamento em Santa Catarina e Blumenau.
+
+Presença online e próximas reuniões
+Decidiram criar um perfil de Instagram privado para reservar presença online e verificar domínios disponíveis. Planejaram realizar três reuniões adicionais para estruturar detalhadamente o plano e dividir responsabilidades.
+* Ficou estabelecido criar um Instagram privado e reservar domínios relacionados à marca escolhida.
+
+Estrutura do bootcamp e materiais de leitura
+Discutiram ajustar o roteiro e horários do bootcamp para integrá-lo ao plano maior e definiram a necessidade de treinar facilitadores e manter o TOC como referência. Enumeraram livros e materiais de apoio, incluindo "Startup Community" e outros PDFs na pasta compartilhada.
+
+
+Action Items:
+
+* Thomas Adriaan Topfstedt: Apresentar uma definição estruturada do projeto para Ana na próxima semana
+* Natali Pires de Campos: Agendar uma reunião presencial para definir cronogramas e datas do lançamento e do evento
+* Natali Pires de Campos: Colocar o cronograma base em um local compartilhado para revisão pela equipe
+* Thomas Adriaan Topfstedt: Trazer alguém para explicar a proposta e a dinâmica das 54 horas durante a abertura do evento
+* Clóvis: Elaborar interação detalhando opções de protótipo e experimentos com base nos tipos discutidos
+* Natali Pires de Campos: Localizar e revisar as ideias da última edição guardadas na caixa e disponibilizá-las para avaliação
+* Thomas Adriaan Topfstedt: Manter contato com a equipe do Help e envolver representantes para alinhar a demanda mencionada pelo Senac
+* Equipe: Buscar patrocinador para apoiar disponibilização de materiais e infraestrutura do evento
+* Natali Pires de Campos: Definir oficialmente o nome do evento e listar domínios a serem reservados
+* Thomas Adriaan Topfstedt: Registrar ou iniciar o processo de registro do nome "Startup Go" e subdomínios de modalidades sugeridas
+* Crislaine Camila Stuepp: Criar e configurar um Instagram privado para a marca reservada
+* Bruno renan: Ajustar o roteiro e horários do bootcamp conforme as alterações discutidas
+* Crislaine Camila Stuepp: Identificar e informar qual é o livro adicional mencionado para o grupo (encontrar o título)
+
+
+Key Questions:
+
+* Qual é a ideia por trás do conceito "simples, adorável e completo"?
+* Você pode compartilhar sua tela para mostrar a metodologia e os diagramas?
+* Vocês acham ruim marcar nos dias 18, 19 e 20?
+* O que acham de realizar o evento em espaço aberto?
+* Qual é o livro que o pessoal recomenda para os facilitadores?
+
+
+Notepad:
+
+* No notes
