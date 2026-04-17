@@ -1,7 +1,7 @@
 # docs: integrate 2026-04-15 bootcamp meeting decisions into vault
 
 **Data:** 2026-04-16
-**Commit:** (ver hash abaixo)
+**Commit:** f3324c0
 **Branch:** chore/obsidian-workspace-settings
 **Arquivos alterados:** 18 arquivos (9 criados, 9 modificados)
 
