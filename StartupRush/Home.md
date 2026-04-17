@@ -10,7 +10,8 @@ aliases:
 # Startup Rush
 
 > Evento imersivo de 54 horas baseado nos princípios do Lean Startup.
-> Previsão: 2º semestre de 2026.
+> Marca guarda-chuva: **Startup Go**. Modalidade flagship: **Startup Go Rush** (ver [[Identidade e Marca]]).
+> Data provisória da primeira edição: **19–21 set 2026** (ver [[Datas e Cronograma de Lançamento]]).
 
 ---
 
@@ -20,6 +21,7 @@ aliases:
 - [[Cronograma 54h]] — Agenda hora-a-hora das 54 horas
 - [[Guia do Facilitador]] — Manual operacional para facilitadores e mentores
 - [[Apresentação de Abertura]] — Roteiro e conteúdo do deck de abertura (20 min)
+- [[Tipos de Protótipo]] — Concierge, Mágico de Oz, Vídeo — os 3 tipos adotados
 - [[Small Batches e Motores de Crescimento]] — Parte 3 do Lean Startup: lotes pequenos + 3 motores de crescimento
 - [[Diagramas Visuais]] — BML, fases, early adopters, pivôs — em Mermaid + descrições para designer
 - [[Programação Noturna]] — Atividades intencionais para sexta e sábado à noite
@@ -48,6 +50,11 @@ aliases:
 - [[Roteiro Vídeo Introdutório]] — Script de 2-3 min para vídeo de divulgação + shot list
 - [[Treinamento de Facilitadores]] — Workshop obrigatório de 4h com os facilitadores
 - [[Brief de Design]] — Instruções completas para designer: templates A3, slides, diagramas, divulgação
+- [[Identidade e Marca]] — Startup Go (guarda-chuva) + modalidades (Rush/Start/Egg/Week); domínios e Instagram
+- [[Posicionamento e Comunicação]] — Rollout em 6 fases: silêncio → curiosidade → lista → anúncio → campanha → aquecimento
+- [[Equipe e Parcerias]] — Organização núcleo (Thomas/Natali/Crislaine/Bruno) + apoios (Ana, Letícia, Anderson) + patrocínio
+- [[Datas e Cronograma de Lançamento]] — Data provisória 19/09/2026 + conflitos do ecossistema (Raktown, eleições, Startup Summit)
+- [[Action Items 2026-04-15]] — Tarefas decorrentes da reunião de 15/04 por responsável
 
 ## Pós-Evento
 
@@ -55,6 +62,7 @@ aliases:
 
 ## Referências (Lean Startup)
 
+- [[Referências]] — MOC de bibliografia: Lean Startup, Startup Community, Receita Previsível, TOC
 - [[Executive Briefing - Lean Startup]] — Resumo executivo da metodologia
 - [[Guia Build-Measure-Learn]] — Guia para iniciantes sobre o ciclo BML
 - [[Plano de Implementação Estratégica]] — Implementação corporativa do Lean Startup
@@ -67,6 +75,8 @@ aliases:
 
 - [[2026-04-10 Avaliação Marcas e Domínios]] — Análise de viabilidade do nome e domínios
 - [[2026-04-10 Talk Liderança SW]] — Debate sobre desvinculação do Startup Weekend/Techstars
+- [[2026-04-15 Bootcamp Simples Adorável Completo]] — Bootcamp como abertura; SLC; organizadores facilitam 1ª edição
+- [[2026-04-15 Bootcamp Simples Adorável Completo - Transcript]] — Transcrição completa
 
 ## Análises
 
@@ -78,15 +88,18 @@ aliases:
 
 | Dimensão | Decisão |
 |---|---|
+| Nome | **Startup Go Rush** (marca guarda-chuva: Startup Go) — ver [[Identidade e Marca]] |
+| Data provisória | **19–21 set 2026** — ver [[Datas e Cronograma de Lançamento]] |
 | Duração | 54 horas (sexta à noite → domingo à tarde) |
 | Público | Misto — aberto a todos os perfis |
 | Capacidade | 80–120 participantes |
+| Local | Espaço fechado (primeira edição) — ver [[Plano de Contingência]] |
 | Imersão | Pernoite opcional (escolha do participante) |
-| Metodologia | Inspirada no Lean Startup, com identidade própria |
-| Formação de equipes | Pitch aberto de 60s + votação + afinidade |
-| Validação externa | Incentivada fortemente, não obrigatória |
+| Metodologia | Inspirada no Lean Startup; foco em SLC (Simples, Adorável, Completo) |
+| Facilitação (1ª ed.) | Organizadores atuam como facilitadores — Thomas, Natali, Crislaine, Bruno |
+| Formação de equipes | Pitch aberto de 60s + votação + afinidade (via app digital) |
+| Validação externa | Default: validação digital; presencial como complemento |
 | Avaliação | Aprendizado validado > ideia brilhante |
-| Previsão | 2º semestre de 2026 |
 
 ---
 

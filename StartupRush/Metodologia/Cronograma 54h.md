@@ -12,6 +12,13 @@ aliases:
 > Agenda detalhada hora-a-hora. Horários são sugestivos e podem ser ajustados
 > conforme a dinâmica do evento e o local (ex: SENAC).
 
+> [!info] Revisão — reunião 2026-04-15
+> - Teto de **30 pitches relâmpago** (60s cada) para preservar timing e qualidade.
+> - **Medição, mentoria de dados e decisão Pivotar/Perseverar foram movidas do domingo de manhã para sábado à noite** — domingo de manhã não dava tempo para pivotar. Domingo concentra preparação de pitch, pitch final e premiação.
+> - Encerramento domingo **até 19:30** (máximo absoluto).
+> - **App digital** substitui post-its físicos em: muro de dores, votação, formação automática de equipes (agrupamento via foto de perfil), telão ao vivo durante seleção. Post-its permanecem como fallback físico e para trabalho interno das equipes.
+> - Tipos de protótipo reduzidos a **Concierge, Mágico de Oz e Vídeo** — ver [[Tipos de Protótipo]].
+
 ---
 
 ## SEXTA-FEIRA — FASE 1: IGNIÇÃO
@@ -46,7 +53,7 @@ aliases:
 | 08:00 | 30 min | **Recepção e café da manhã** | Logística | Acolhimento. Equipes se reúnem. |
 | 08:30 | 15 min | **Energizer matinal** | Facilitadores | Dinâmica rápida para despertar e reconectar (ex: "2 verdades e 1 mentira" em equipe). |
 | 08:45 | 30 min | **Mentoria Flash — Rodada 1** | Mentores | Cada equipe tem 10 min com um mentor para apresentar suas hipóteses e receber feedback. Rotação entre 3 mentores. |
-| 09:15 | 15 min | **Mini-palestra: "Os 5 Tipos de Protótipo"** | Coord. Metodologia | Apresentação rápida dos 5 tipos de protótipo/experimento (Fumaça, Vídeo, Concierge, Mágico de Oz, Pré-venda) com exemplos reais (Dropbox, Food on the Table, Aardvark). O que vocês construírem deve ser Simples, Adorável e Completo — um SLC. |
+| 09:15 | 15 min | **Mini-palestra: "Tipos de Protótipo"** | Coord. Metodologia | Apresentação dos três tipos de protótipo adotados (Concierge, Mágico de Oz, Vídeo com protótipo) mapeados para produto / serviço / experiência. Exemplos reais (Dropbox, Food on the Table, Aardvark). Ver [[Tipos de Protótipo]]. O que vocês construírem deve ser Simples, Adorável e Completo — um SLC. |
 | 09:30 | 60 min | **[[Canvas de Experimento]]** | Facilitadores | Equipes preenchem o Canvas: O que testar? Como testar? Que métrica observar? Qual critério de sucesso? Facilitadores desafiam: "Isso é o mínimo mesmo?" |
 | 10:30 | 15 min | *Intervalo* | Logística | — |
 | 10:45 | 45 min | **[[Canvas SLC]]** | Facilitadores | Equipes definem o que VÃO construir e (igualmente importante) o que NÃO vão construir. Escopo mínimo, mas Simples, Adorável e Completo. |
@@ -71,46 +78,48 @@ aliases:
 | Horário | Duração | Atividade | Responsável | Objetivo |
 |---|---|---|---|---|
 | 17:15 | 15 min | **Briefing "Saia do Prédio"** | Coord. Metodologia | Instruções para validação externa: como abordar pessoas, roteiro de entrevista, como registrar dados. Dicas de onde ir (rua, shopping, cafés, online). |
-| 17:30 | 150 min (2h30) | **"SAIA DO PRÉDIO" — Rodada 1** | Equipes | Equipes saem para testar hipóteses com potenciais clientes reais. Entrevistas, testes de SLC, pré-vendas. Registram tudo no **[[Diário de Aprendizado]]**. Equipes que preferirem validação digital podem ficar e usar formulários/landing pages/redes sociais. |
+| 17:30 | 150 min (2h30) | **"SAIA DO PRÉDIO" — Rodada 1** | Equipes | Equipes saem para testar hipóteses com potenciais clientes reais. Entrevistas, testes de SLC, pré-vendas. Registram tudo no **[[Diário de Aprendizado]]**. Equipes que preferirem validação digital podem ficar e usar formulários/landing pages/redes sociais. Ver [[Plano de Contingência]] para fallback. |
 | 20:00 | 30 min | **Jantar rápido** | Logística | — |
-| 20:30 | 60 min | **Checkpoint BML — 1ª Volta** | Facilitadores | Reunião estruturada por equipe (facilitador presente): O que aprendemos? Hipótese confirmada ou refutada? O que muda? Preenchimento do Diário de Aprendizado. |
-| 21:30 | 120 min (2h) | **Iteração e 2ª Volta do BML** | Equipes | Com base nos aprendizados, equipes ajustam o SLC e fazem segunda rodada de validação (pode ser digital/remota). Mentores disponíveis para dúvidas. |
-| 23:30 | 15 min | **Check-out do dia** | Diretor(a) | Resumo, prévia do domingo, horários. Equipes que ficam podem trabalhar mais, mas são encorajadas a descansar. |
-| 23:45 | — | **Encerramento formal do sábado** | — | Pernoite opcional. Socialização, roda de conversa, networking. |
+| 20:30 | 30 min | **Workshop: "Métricas que Importam"** | Coord. Metodologia | Sessão sobre Métricas Acionáveis vs. Vaidade (movida do domingo de manhã). Exemplos práticos do dia. Regra: "Se você não pode agir com base nessa métrica, ela é vaidade." |
+| 21:00 | 60 min | **Checkpoint BML + Análise de Dados** | Facilitadores | Cada equipe consolida TODOS os dados no Diário de Aprendizado. Hipótese confirmada, refutada ou inconclusiva? Critérios de sucesso atingidos? Facilitadores e mentores rotativos circulam para ajudar a evitar viés de confirmação. |
+| 22:00 | 60 min | **REUNIÃO PIVOTAR OU PERSEVERAR + Iteração 2ª Volta** | Facilitadores + Equipes | O momento decisivo acontece ainda no sábado. Cada equipe decide: PERSEVERAR (refinar SLC), PIVOTAR (novo rumo estruturado), PARAR (problema não existe). Decisão documentada com justificativa. Quem pivotar inicia segunda rodada de validação (digital/remota à noite ou domingo de manhã). |
+| 23:00 | 15 min | **Check-out do dia** | Diretor(a) | Resumo, prévia do domingo (foco em preparar e apresentar o aprendizado), horários. Equipes que ficam podem continuar validando, mas são encorajadas a descansar. |
+| 23:15 | — | **Encerramento formal do sábado** | — | Pernoite opcional. Socialização, roda de conversa, networking. |
 
 **Total Fase 2:** ~14h de programação formal
 
 ---
 
-## DOMINGO — FASES 3 e 4: MEDIÇÃO + APRESENTAÇÃO
-**Tema da manhã:** "O que os dados dizem de verdade?"
+## DOMINGO — FASE 4: APRESENTAÇÃO
+**Tema da manhã:** "Consolide o aprendizado."
 **Tema da tarde:** "Mostre o que você aprendeu."
 
-### MANHÃ — FASE 3: MEDIÇÃO
+> A Fase 3 (Medição + Pivot) foi movida para o sábado à noite. O domingo concentra consolidação de dados residuais, preparação de pitch, pitch final e premiação.
+
+### MANHÃ — Consolidação e preparação
 
 | Horário | Duração | Atividade | Responsável | Objetivo |
 |---|---|---|---|---|
 | 08:00 | 30 min | **Café da manhã** | Logística | — |
-| 08:30 | 45 min | **Workshop: "Métricas que Importam"** | Coord. Metodologia | Sessão interativa sobre Métricas Acionáveis vs. Vaidade. Exemplos do dia anterior. Análise de coorte simplificada. Regra: "Se você não pode agir com base nessa métrica, ela é vaidade." |
-| 09:15 | 90 min | **Análise de Dados por Equipe** | Facilitadores | Equipes consolidam TODOS os dados no Diário de Aprendizado. Quantas entrevistas? Quantos testes? Quais padrões? Critérios de sucesso atingidos? Facilitadores ajudam a evitar viés de confirmação. |
-| 10:45 | 15 min | *Intervalo* | Logística | — |
-| 11:00 | 45 min | **Mentoria de Dados** | Mentores | Mentores revisam os dados com cada equipe. Pergunta-chave: "Se um investidor visse esses dados, ele acreditaria na sua hipótese?" |
-| 11:45 | 60 min | **REUNIÃO PIVOTAR OU PERSEVERAR** | Facilitadores | O momento decisivo. Cada equipe confronta seus dados e decide: PERSEVERAR (métricas convergem), PIVOTAR (métricas estagnaram — definir novo rumo), ou PARAR (problema não existe). Decisão documentada com justificativa. |
-| 12:45 | 45 min | **Almoço** | Logística | — |
+| 08:30 | 30 min | **Consolidação de dados residuais** | Facilitadores | Equipes que fizeram validação digital noturna ou validação pós-pivot madrugada integram esses dados no [[Diário de Aprendizado]]. Fechamento de números. |
+| 09:00 | 90 min | **Preparação do Pitch** | Equipes | Equipes montam apresentação de 5 min seguindo a estrutura: Problema → Hipótese → Experimento → Evidências → Aprendizado → Pivô → Próximos Passos. Mentores disponíveis para feedback. |
+| 10:30 | 15 min | *Intervalo* | Logística | — |
+| 10:45 | 75 min | **Ensaio + Mentoria de Pitch** | Mentores | Ensaios cronometrados. Mentores dão feedback sobre clareza das evidências, narrativa e postura. Pergunta-chave: "Se um investidor visse esses dados, ele acreditaria na sua hipótese?" |
+| 12:00 | 60 min | **Almoço** | Logística | — |
 
-### TARDE — FASE 4: APRESENTAÇÃO
+### TARDE — Pitch e Premiação
 
 | Horário | Duração | Atividade | Responsável | Objetivo |
 |---|---|---|---|---|
-| 13:30 | 90 min | **Preparação do Pitch** | Equipes | Equipes montam apresentação de 5 min seguindo a estrutura: Problema → Hipótese → Experimento → Evidências → Aprendizado → Pivô → Próximos Passos. Mentores disponíveis para feedback. |
-| 15:00 | 15 min | **Briefing do Júri** | Coord. Metodologia | Apresentação dos critérios Lean de avaliação aos jurados. Entrega do Scorecard. |
-| 15:15 | 10 min | **Abertura dos Pitches** | Diretor(a) | Apresentação dos jurados, regras (5 min pitch + 3 min perguntas), ordem das equipes. |
-| 15:25 | ~120 min | **PITCH FINAL** | Equipes + Júri | Apresentações. 5 min por equipe + 3 min de perguntas do júri. Para 12-15 equipes: ~8 min por equipe = ~100-120 min. Intervalo rápido no meio se necessário. |
-| 17:25 | 30 min | **Deliberação do Júri** | Júri | Jurados se reúnem para pontuar e deliberar. Enquanto isso: vídeo-resumo do evento, depoimentos, networking entre participantes. |
-| 17:55 | 35 min | **Encerramento e Premiação** | Diretor(a) + Júri | Anúncio dos resultados. Categorias: Melhor Aprendizado Validado (principal), Melhor Pivô, Melhor Validação de Campo, Menção Honrosa. Palavras finais, agradecimentos, foto coletiva. |
-| 18:30 | — | **Networking final e despedida** | — | Encerramento informal. Troca de contatos, conexões para continuidade pós-evento. |
+| 13:00 | 15 min | **Briefing do Júri** | Coord. Metodologia | Apresentação dos critérios Lean de avaliação aos jurados. Entrega do Scorecard. |
+| 13:15 | 15 min | **Abertura dos Pitches** | Diretor(a) | Apresentação dos jurados, regras (5 min pitch + 3 min perguntas), ordem das equipes. |
+| 13:30 | ~150 min (2h30) | **PITCH FINAL** | Equipes + Júri | Apresentações. 5 min por equipe + 3 min de perguntas do júri. Para 12-15 equipes: ~8 min por equipe = ~100-120 min + buffer. Intervalo rápido no meio. |
+| 16:00 | 15 min | *Intervalo* | Logística | — |
+| 16:15 | 30 min | **Deliberação do Júri** | Júri | Jurados se reúnem para pontuar e deliberar. Enquanto isso: vídeo-resumo do evento, depoimentos, networking entre participantes. |
+| 16:45 | 45 min | **Encerramento e Premiação** | Diretor(a) + Júri | Anúncio dos resultados. Categorias: Melhor Aprendizado Validado (principal), Melhor Pivô, Melhor Validação de Campo, Menção Honrosa. Palavras finais, agradecimentos, foto coletiva. |
+| 17:30 | ~60 min | **Networking final e despedida** | — | Encerramento informal. Troca de contatos, conexões para continuidade pós-evento. Encerrar até 18:30 (máx 19:30). |
 
-**Total Fases 3+4:** ~9h de programação formal
+**Total Fase 4:** ~8h30 de programação formal
 
 ---
 
@@ -119,10 +128,11 @@ aliases:
 | Dia | Fase | Horas | Foco |
 |---|---|---|---|
 | Sexta (18h-23h) | 1 — Ignição | ~5h | Problemas, equipes, hipóteses |
-| Sábado (08h-23h45) | 2 — Construção | ~14h | SLC, validação, ciclos BML |
-| Domingo manhã (08h-13h) | 3 — Medição | ~5h | Dados, métricas, pivotar/perseverar |
-| Domingo tarde (13h30-18h30) | 4 — Apresentação | ~4h | Pitch, júri, premiação |
-| **TOTAL** | | **~28h ativas** | **+ intervalos, refeições, pernoite = 54h** |
+| Sábado manhã+tarde (08h-20h) | 2 — Construção (SLC + Saia do Prédio) | ~12h | SLC, validação de campo |
+| Sábado noite (20h30-23h15) | 3 — Medição | ~3h | Métricas, dados, pivotar/perseverar, iteração |
+| Domingo manhã (08h-12h) | 4 — Preparação | ~4h | Consolidação, preparação e ensaio de pitch |
+| Domingo tarde (13h-18h30) | 4 — Apresentação | ~5h30 | Pitch, júri, premiação |
+| **TOTAL** | | **~29h ativas** | **+ intervalos, refeições, pernoite = 54h** |
 
 ---
 

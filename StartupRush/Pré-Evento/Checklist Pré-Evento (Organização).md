@@ -11,7 +11,7 @@ aliases:
 # CHECKLIST PRÉ-EVENTO — ORGANIZAÇÃO
 
 > Tarefas a cumprir antes do dia do evento.
-> Responsáveis referenciados conforme [[2026-04-10 Talk Liderança SW|reunião de liderança]].
+> Responsáveis referenciados conforme [[2026-04-10 Talk Liderança SW|reunião de liderança]] e atualizados em [[2026-04-15 Bootcamp Simples Adorável Completo]].
 
 ---
 
@@ -20,23 +20,26 @@ aliases:
 ### Metodologia e Conteúdo
 - [ ] Metodologia finalizada e aprovada pela equipe ([[Metodologia StartupRush]])
 - [ ] Cronograma revisado e adaptado ao local ([[Cronograma 54h]])
-- [ ] Facilitadores selecionados e confirmados
-- [ ] Mentores convidados (mín. 6-8 para 80-120 participantes)
-- [ ] Jurados confirmados (3-5 pessoas)
+- [ ] [[Tipos de Protótipo]] revisado e incluído no [[Guia do Facilitador]]
+- [ ] Facilitadores selecionados e confirmados — **primeira edição: organizadores** (Thomas, Natali, Crislaine, Bruno)
+- [ ] Mentores convidados (mín. 6–8 para 80–120 participantes) — **modelo fixos + rotativos** (ver [[Metodologia StartupRush#3.3]])
+- [ ] Jurados confirmados (3–5 pessoas)
 - [ ] [[Guia do Facilitador]] distribuído para facilitadores
 
 ### Logística
-- [ ] Local confirmado (SENAC — verificar disponibilidade de pernoite)
+- [ ] Local confirmado — **espaço fechado** (ver [[Plano de Contingência]]); SENAC é candidato primário
 - [ ] Contrato/acordo com o local assinado
 - [ ] Orçamento fechado (alimentação, materiais, prêmios, comunicação)
 - [ ] Plataforma de ingressos configurada
+- [ ] **App digital configurado** (muro de dores, votação, formação de equipes, telão — substitui post-its físicos durante a Fase 1)
 - [ ] Prêmios definidos
 
 ### Jurídico e Institucional
-- [ ] CNPJ da comunidade aberto (responsável: Marlon)
-- [ ] Domínio registrado (responsável: Natali)
-- [ ] Consulta com advogada Alice concluída
-- [ ] Patrocínio Sebrae confirmado (responsável: Thomas → Rafa)
+- [ ] CNPJ da comunidade aberto
+- [ ] **Domínios registrados** — `startupgo.*`, `startupgorush.*`, subdomínios de modalidades (Thomas). Ver [[Identidade e Marca]]
+- [ ] **Instagram `@startupgorush` privado reservado** (Crislaine — em andamento)
+- [ ] Consulta jurídica concluída (marca Startup Go)
+- [ ] **Patrocinador principal buscado e confirmado** — restrição crítica (ver [[Equipe e Parcerias#5]])
 
 ---
 
@@ -66,11 +69,14 @@ aliases:
 - [ ] Templates impressos: [[Roteiro de Entrevista]] (5 cópias/equipe = 75)
 - [ ] Templates impressos: [[Five Whys]] (2 cópias/equipe = 30)
 - [ ] Templates impressos: [[Scorecard do Jurado]] (5 jurados × 15 equipes = 75)
-- [ ] Post-its (3 cores, mín. 500 unidades)
+- [ ] Post-its (3 cores, mín. 500 unidades) — **para trabalho interno das equipes**. Muro de Dores agora digital via app
 - [ ] Canetas marcadoras (2 por participante)
 - [ ] Flip charts ou papel kraft (2 por equipe)
-- [ ] Adesivos para votação (3 por participante)
+- [ ] Adesivos para votação (fallback caso app falhe)
 - [ ] Crachás em branco
+- [ ] Timers visíveis + sino/buzina para transições
+- [ ] Música ambiente preparada para trabalho
+- [ ] Projetor + microfone (para pitches e telão da votação digital)
 
 ### Logística Final
 - [ ] Cardápio fechado com fornecedor (2 coffee breaks/dia + almoço sáb/dom + jantar sáb)

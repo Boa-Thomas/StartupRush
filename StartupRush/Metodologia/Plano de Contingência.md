@@ -16,6 +16,23 @@ aliases:
 
 ---
 
+## DECISÃO DE LOCAL: FECHADO vs ABERTO
+
+Avaliado na reunião [[2026-04-15 Bootcamp Simples Adorável Completo]]. Debate entre realizar em espaço aberto (praia, parque) vs fechado.
+
+**Recomendação atual:** **espaço fechado** para a primeira edição.
+
+**Por quê:**
+
+- **Chuva é risco alto em SC em setembro** — "já é chuva e já é risco" (Natali).
+- **Gestão de risco em espaço aberto é excessivamente complexa** — logística, segurança, sinalização, banheiros, energia, wifi.
+- **Primeira edição é quando tudo precisa fluir** — o formato ainda não está consolidado; não convém somar risco logístico.
+- **Equipes trabalhando em grupo precisam de infraestrutura estável** — tomadas, wifi, mesas.
+
+**Possibilidade futura:** uma modalidade outdoor (ex.: `Startup Go Week` no verão) pode explorar formato aberto quando o evento-base estiver maduro.
+
+---
+
 ## PROBLEMAS COM EQUIPES
 
 ### Equipe se dissolve / membros abandonam
@@ -59,10 +76,12 @@ aliases:
 ## PROBLEMAS COM VALIDAÇÃO ("SAIA DO PRÉDIO")
 
 ### Chuva / intempérie
+> **Nota da reunião 2026-04-15:** validação digital costuma ser o caminho preferencial mesmo sem chuva — equipes alcançam mais pessoas em menos tempo. A cascata abaixo é para quando o "sair fisicamente" era o plano original.
+
 **Ação:**
-1. **Plano A:** Validação digital — equipes usam WhatsApp, formulários online, redes sociais, videocalls
-2. **Plano B:** "Saia do prédio indoor" — equipes abordam OUTRAS equipes, mentores, organizadores simulando clientes (menos ideal, mas melhor que nada)
-3. **Plano C:** Se o local for em shopping/centro comercial, as equipes podem validar dentro do próprio prédio/complexo
+1. **Plano A:** **Validação digital** — equipes usam WhatsApp, formulários online, redes sociais, videocalls, landing pages. É o caminho default; em caso de chuva vira default absoluto.
+2. **Plano B:** Se o local for em shopping/centro comercial, as equipes podem validar **dentro do próprio prédio/complexo** abordando público natural do espaço.
+3. **Plano C:** "Saia do prédio indoor" — equipes abordam OUTRAS equipes, mentores, organizadores simulando clientes. Menos ideal (risco de viés amigo), mas melhor que nada quando as duas opções acima falham.
 
 ### Ninguém quer ser entrevistado / rejeição constante
 **Ação:**
@@ -138,10 +157,10 @@ aliases:
 **Regra geral:** O cronograma é flexível dentro das fases, mas rígido entre fases. Se a Fase 2 atrasou 30 min, encurte o almoço em 15 min e a preparação de pitch em 15 min. Nunca encurte a sessão "Saia do Prédio" ou os Pitches Finais.
 
 **Prioridades (o que NUNCA cortar):**
-1. Pitch Relâmpago + formação de equipes (Fase 1)
-2. "Saia do Prédio" — Rodada 1 (Fase 2)
-3. Reunião Pivotar ou Perseverar (Fase 3)
-4. Pitches Finais (Fase 4)
+1. Pitch Relâmpago + formação de equipes (sexta)
+2. "Saia do Prédio" — Rodada 1 (sábado tarde)
+3. Reunião Pivotar ou Perseverar (sábado à noite — movida da manhã de domingo na reunião 2026-04-15)
+4. Pitches Finais (domingo tarde)
 
 **O que pode ser encurtado se necessário:**
 - Energizers e dinâmicas de aquecimento

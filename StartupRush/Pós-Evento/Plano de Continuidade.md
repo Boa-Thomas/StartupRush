@@ -20,6 +20,11 @@ aliases:
 
 O evento de 54 horas é o **catalisador**. O valor real está no que acontece depois. As melhores equipes saem do Startup Rush com hipóteses validadas, dados reais e energia — mas sem estrutura para continuar. Este plano resolve isso.
 
+> [!info] Ajustes — reunião 2026-04-15
+> - **Cadência explícita de follow-ups:** 1º / 2º / 3º mês pós-evento com marcos definidos (ver seções abaixo).
+> - **Integração EuroValley:** equipes premiadas ganham trilha de aproximação com o hub europeu (soft-landing + mentoria internacional). Ver "Trilha Premiados".
+> - **Trilha diferenciada para equipes premiadas:** benefícios concretos (mentoria, aceleração, conexão internacional) em vez de apenas prêmio simbólico.
+
 ---
 
 ## SEMANA 1 — FOLLOW-UP IMEDIATO
@@ -57,6 +62,42 @@ Um programa leve de 4 semanas para as equipes que querem continuar:
 
 ---
 
+## TRILHA PREMIADOS — BENEFÍCIOS CONCRETOS
+
+> Definida na [[2026-04-15 Bootcamp Simples Adorável Completo|reunião de 15/04]]: o prêmio do Startup Rush não é só troféu — é uma **trilha de aceleração real**.
+
+### Para equipes premiadas (top 3)
+- **Mentoria individual prolongada** — 6 sessões ao longo de 3 meses com mentor designado (não rotativo)
+- **Acesso prioritário a aceleradoras parceiras** — carta de recomendação automática
+- **Slot garantido no showcase do mês 3** — visibilidade pública
+- **Conexão com EuroValley** (ver abaixo) — se a equipe demonstrar vontade de ampliar horizonte internacional
+
+### Integração EuroValley
+O hub europeu **EuroValley** entra como parceiro de longo prazo:
+- **Soft-landing na Europa** — orientação prática para equipes que queiram testar mercado europeu (contatos, co-working, tradução cultural)
+- **Sessões internacionais** — pelo menos uma mentoria com founder ou investidor do ecossistema europeu nos primeiros 90 dias
+- **Matchmaking** — conexão com startups europeias em fase similar, para parceria ou inspiração
+
+**Critérios de acesso ao EuroValley track:** equipe ativa 30 dias pós-evento + hipótese com potencial além do mercado local.
+
+---
+
+## CADÊNCIA DE FOLLOW-UPS
+
+Follow-ups ativos conduzidos pela organização (não é a equipe que corre atrás):
+
+| Marco | Quando | Formato | Responsável | Objetivo |
+|---|---|---|---|---|
+| **1º mês** | D+30 | Check-in individual 20 min | Coord. Metodologia | "O que aconteceu desde o evento? O que travou?" Mapear quem continua. |
+| **2º mês** | D+60 | Grupo — Demo Day mini | Diretoria + mentores | Cada equipe ativa apresenta 3 min. Diagnóstico coletivo. |
+| **3º mês** | D+90 | Sessão estratégica individual | Mentor fixo | Decidir: aceleradora, trilha EuroValley, ou fecho amigável. |
+| **6º mês** | D+180 | Survey + entrevista seletiva | Coord. Metodologia | Medir startups ativas, empregos gerados, PMF. |
+| **12º mês** | D+365 | Alumni Day | Organização completa | Trazer ex-participantes, reforçar comunidade, recrutar mentores da edição seguinte. |
+
+**Princípio:** o follow-up é *opt-out*, não *opt-in*. A organização marca; a equipe cancela se não quiser. Isso dobra taxa de engajamento comparado com "mandar email e esperar resposta".
+
+---
+
 ## MÊS 2-3 — CONEXÃO COM ECOSSISTEMA
 
 Para equipes que passam pelo Labs com tração real:
@@ -67,6 +108,7 @@ Para equipes que passam pelo Labs com tração real:
 | **Sebrae** | Consultoria gratuita, capacitações, acesso a programas | Equipe com problema validado |
 | **Aceleradoras locais** | Programas de aceleração formais | Equipe com SLC + dados de validação |
 | **Fundação Fritz Müller** | Espaço, networking, mentoria | Equipe ativa no ecossistema |
+| **EuroValley** | Soft-landing EU, matchmaking internacional | Equipe premiada + 30 dias ativa |
 | **Investidores-anjo** | Apresentação a investidores | Equipe com modelo de receita validado |
 
 ### Evento de showcase (mês 3)

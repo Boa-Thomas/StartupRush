@@ -16,6 +16,11 @@ aliases:
 > Objetivo: transformar o [[Guia do Facilitador]] em prática.
 > Facilitador do workshop: **Coordenador de Metodologia**.
 
+> [!info] Ajustes — reunião 2026-04-15
+> - **Primeira edição:** os próprios organizadores (Thomas, Natali, Crislaine, Bruno) atuam como facilitadores. O workshop ainda vale — serve para consolidar a metodologia na equipe antes de estender para facilitadores externos em edições seguintes.
+> - **Múltiplas reuniões de planejamento** (três previstas) compõem o processo, sendo o workshop a última etapa. Ver [[Datas e Cronograma de Lançamento#4]].
+> - **Simulação mental** como técnica obrigatória durante o preparo — ver Bloco 5.5 abaixo.
+
 ---
 
 ## PRÉ-REQUISITOS (leitura antes do workshop)
@@ -24,7 +29,11 @@ Os facilitadores devem ter lido ANTES de chegar:
 - [[Metodologia StartupRush]] (completa)
 - [[Guia do Facilitador]] (completa)
 - [[Cronograma 54h]] (pelo menos a visão geral)
-- [[Small Batches e Motores de Crescimento]] (esse é novo, muitos não conhecem)
+- [[Tipos de Protótipo]] (Concierge / Mágico de Oz / Vídeo)
+- [[Small Batches e Motores de Crescimento]]
+- **Leitura obrigatória:** *The Lean Startup* (Eric Ries) — pelo menos até cap. 7
+- **Leitura recomendada:** *Startup Community* (Brad Feld) — PDF pt-BR disponível
+- **Leitura recomendada:** *Receita Previsível* (Aaron Ross)
 
 **Teste rápido (quiz inicial):** o workshop começa com 5 perguntas curtas para garantir que todos leram. Quem não leu, é convidado a reler durante intervalos. Sem drama.
 
@@ -175,6 +184,29 @@ O coordenador apresenta 6 cenários, um por vez. Para cada um:
 - Backup: quem cobre quem, se alguém faltar
 - Kit do facilitador: timer, cronômetro, canetas, cópias do Guia, post-its extras
 - Onde ficar durante cada fase (não ficar "vigiando", não ficar sumido)
+
+---
+
+### BLOCO 5.5 — Simulação Mental (20 min)
+
+**Objetivo:** Treinar a técnica de "caminhar" mentalmente pelo evento antes que ele aconteça, identificando gargalos, transições mal resolvidas e falhas de logística invisíveis no papel.
+
+**Origem:** técnica trazida pela Natali na [[2026-04-15 Bootcamp Simples Adorável Completo|reunião de 15/04]] — *"fazer meio que uma simulação mental só num quadro: agora o banquinho vai para cá, agora a gente tá nessa fase, a gente vai ter que fazer umas reuniões de planejamento para estruturar"*. A ideia é ensaiar o evento na cabeça (e no quadro) antes de vivê-lo.
+
+**Como conduzir:**
+
+1. **Quadro branco + cronograma visível.** Desenhe a planta baixa da sala (mesas das equipes, palco/tela, muro de dores, coffee break).
+2. **"Agora são 18h15 de sexta." — Narração sequencial.** Um facilitador assume o papel de "narrador" e avança o cronograma em voz alta, fase por fase:
+   - *"Participantes entrando. Quem está no credenciamento? Onde ficam os crachás? Se chegar 50 pessoas ao mesmo tempo, quem absorve?"*
+   - *"Agora é o pitch relâmpago. Microfone onde? Quem gerencia o timer? O que acontece se alguém passa de 1 minuto?"*
+   - *"Formação de equipes. O app está funcionando? Tem plano B se cair?"*
+3. **Cada facilitador levanta 1 problema por fase.** Não é debate — é inventário: "E se X?"
+4. **Registre cada problema em post-it.** Cole no quadro, na fase correspondente.
+5. **Ao final (~15 min):** os problemas viram itens para o [[Checklist Pré-Evento (Organização)]] ou para o [[Plano de Contingência]].
+
+**Quando repetir:** pelo menos mais uma vez na semana do evento, com a equipe completa. A simulação mental é mais barata que o erro real.
+
+**Dica:** simule também momentos "chatos" — o deadlock do jantar de sábado, uma equipe dissolvida no domingo de manhã, o wifi caindo 20 min antes dos pitches. A simulação expõe o que o cronograma esconde.
 
 ---
 

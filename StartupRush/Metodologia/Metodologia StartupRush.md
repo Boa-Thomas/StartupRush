@@ -90,12 +90,10 @@ O Startup Rush é dividido em 4 fases que seguem a lógica do Lean Startup, cada
    - Qual o experimento mínimo para aprender isso?
    - Qual métrica nos dirá se a hipótese é verdadeira ou falsa?
    - Qual o critério de sucesso/fracasso? (definir ANTES de rodar o teste)
-3. **Escolha do tipo de protótipo/experimento** (~30 min) — Facilitadores apresentam os 5 tipos de protótipo/experimento e ajudam equipes a escolher:
-   - **Fumaça (Landing Page):** Página simples para medir interesse.
-   - **Vídeo:** Vídeo demonstrando a solução proposta.
-   - **Concierge:** Entregar o serviço manualmente para um cliente.
-   - **Mágico de Oz:** Interface que parece automática, mas é operada por humanos.
-   - **Pré-venda:** Oferecer o produto antes de construí-lo para testar disposição a pagar.
+3. **Escolha do tipo de protótipo/experimento** (~30 min) — Facilitadores apresentam os tipos de protótipo disponíveis e ajudam equipes a escolher o mais adequado ao perfil da solução (produto / serviço / experiência). Ver [[Tipos de Protótipo]] para o detalhamento completo. Resumo:
+   - **Concierge:** entregar o serviço manualmente para um cliente.
+   - **Mágico de Oz:** interface que parece automática, mas é operada por humanos (ideal para SaaS/serviço digital).
+   - **Vídeo com protótipo:** vídeo prático demonstrando telas/funcionamento — não só promessa.
 
 **Bloco B — Construção e Validação (Tarde e Noite | ~11h)**
 4. **Construção do SLC** (~4h) — Equipes constroem seu SLC. Mentores circulam para ajudar. Lembrete constante: "Está Simples, Adorável e Completo? É o mínimo que vocês precisam para testar a hipótese?"
@@ -173,8 +171,20 @@ São o braço da metodologia no chão. Não dão respostas — fazem as pergunta
 
 **Perfil ideal:** Empreendedores ou profissionais com experiência em validação, design thinking ou mentoria de startups.
 
+> [!info] Primeira edição
+> Na primeira edição, os próprios organizadores (Thomas, Natali, Crislaine, Bruno) facilitam diretamente. A razão: a metodologia é nova e não se consegue terceirizar facilitação sem antes consolidar o formato. Cada organizador também adota uma equipe como **padrinho**, acompanhando-a em paralelo à facilitação geral. Ver [[Treinamento de Facilitadores]].
+
 ### 3.3 Mentores (especialistas convidados)
 Disponíveis em horários definidos para sessões de 10-15 minutos com equipes. Expertise em áreas como: modelagem de negócios, UX/design, tecnologia, marketing, finanças, jurídico.
+
+**Estimativa:** 6 a 8 mentores para 80–120 participantes em equipes de 3–5.
+
+**Modelo de mentoria em dois grupos** (decisão da reunião [[2026-04-15 Bootcamp Simples Adorável Completo]]):
+
+- **Mentores fixos** — acompanham a mesma equipe do início ao fim da jornada. Garantem continuidade, contexto e aprofundamento. Perfil: mentor-líder dedicado a uma ou duas equipes.
+- **Mentores rotativos** — circulam livremente entre equipes, trocam ideias, trazem perspectivas externas. Perfil: especialistas que contribuem com recortes pontuais (marketing, jurídico, tecnologia, modelagem).
+
+Essa combinação equilibra continuidade (fixos) com circulação de perspectivas (rotativos), e diferencia o Startup Rush de formatos que tratam mentoria como um bloco genérico.
 
 ### 3.4 Jurados (3 a 5 pessoas)
 Avaliam os pitches finais com base nos Critérios Lean. Perfil: empreendedores, investidores, executivos, acadêmicos que entendam validação e modelo de negócio.

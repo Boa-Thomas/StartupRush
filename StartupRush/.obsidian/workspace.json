@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "06aab9614bb1604c",
+        "id": "e382b5d00ae8ce9f",
         "type": "tabs",
         "children": [
           {
-            "id": "bcca8a8ba66782b7",
+            "id": "1a74011272c2ebf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Pré-Evento/Checklist Pré-Evento (Organização).md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Checklist Pré-Evento (Organização)"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -41,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SLC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "0379e8e6cd9af602",
@@ -183,45 +183,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "bcca8a8ba66782b7",
+  "active": "31b3858e54d8ef18",
   "lastOpenFiles": [
-    "Referências/Executive Briefing - Lean Startup.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2026-04-16.md",
+    "Metodologia/Plano de Contingência.md",
+    "Metodologia/Diagramas Visuais.md",
+    "Avaliação/Critérios dos Jurados.md",
+    "Avaliação/Exemplo de Pitch Ideal.md",
+    "Avaliação/Scorecard do Jurado.md",
     "Metodologia/Metodologia StartupRush.md",
-    "Pós-Evento/Plano de Continuidade.md.tmp.102816.1776113405478",
+    "Templates/Roteiro de Entrevista.md",
+    "Templates/Painel de Métricas.md",
+    "Templates/Five Whys.md",
     "Templates/Canvas SLC.md",
+    "Templates/Canvas MVP.md",
     "Templates/Canvas de Hipóteses.md",
-    "Home.md",
-    "Home.md.tmp.71280.1776017270677",
-    "Metodologia/Guia do Facilitador.md",
-    "Home.md.tmp.71280.1776017252756",
-    "Home.md.tmp.71280.1776017243998",
-    "Pré-Evento/Brief de Design.md",
+    "Templates/Canvas de Experimento.md",
+    "Referências/Study Guide - Lean Startup.md",
+    "Referências/Roteiro Lean Startup 54h.md",
+    "Referências/Plano de Implementação Estratégica.md",
+    "Referências/Guia Build-Measure-Learn.md",
+    "Referências/Executive Briefing - Lean Startup.md",
     "Referências/Casos de Estudo - Lean Startup.md",
     "Pré-Evento/Treinamento de Facilitadores.md",
-    "Metodologia/Diagramas Visuais.md",
     "Pré-Evento/Roteiro Vídeo Introdutório.md",
-    "Metodologia/Apresentação de Abertura.md",
     "Pré-Evento/Guia do Participante.md",
-    "Templates/Painel de Métricas.md",
+    "Pré-Evento/Checklist Pré-Evento (Organização).md",
+    "Templates/Diário de Aprendizado.md",
+    "Attachments/unnamed.png",
+    "Attachments/NotebookLM Mind Map.png",
+    "Attachments/The Lean Startup - Erick Ries.pdf",
+    "Pós-Evento/Plano de Continuidade.md.tmp.102816.1776113405478",
+    "Home.md.tmp.71280.1776017270677",
+    "Home.md.tmp.71280.1776017252756",
+    "Home.md.tmp.71280.1776017243998",
     "Home.md.tmp.15166.1776015252521",
     "Metodologia/Apresentação de Abertura.md.tmp.15166.1776015208573",
-    "Avaliação/Exemplo de Pitch Ideal.md",
     "Avaliação/Exemplo de Pitch Ideal.md.tmp.15166.1776015164620",
-    "Metodologia/Plano de Contingência.md",
-    "Metodologia/Plano de Contingência.md.tmp.15166.1776015099806",
-    "Metodologia/Programação Noturna.md",
-    "Metodologia/Programação Noturna.md.tmp.15166.1776015044532",
-    "Pós-Evento/Plano de Continuidade.md",
-    "Pós-Evento/Plano de Continuidade.md.tmp.15166.1776014989715",
-    "Pré-Evento/Checklist Pré-Evento (Organização).md",
-    "Templates/Roteiro de Entrevista.md",
-    "Templates/Five Whys.md",
-    "Avaliação da Metodologia vs Livro.md",
-    "Metodologia/Small Batches e Motores de Crescimento.md",
-    "Attachments/NotebookLM Mind Map.png",
-    "2026-04-12.md",
-    "Untitled.canvas",
-    "Reuniões/2026-04-10 Talk Liderança SW - Transcript.md",
-    "Attachments/unnamed.png"
+    "Metodologia/Plano de Contingência.md.tmp.15166.1776015099806"
   ]
 }
